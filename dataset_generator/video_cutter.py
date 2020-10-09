@@ -7,7 +7,7 @@ from scenedetect import VideoManager, SceneManager, video_splitter
 from scenedetect.detectors import ContentDetector
 
 
-def find_scenes(video_path, threshold=30.0):
+def find_scenes(video_path, threshold=20.0):
     # Create our video & scene managers, then add the detector.
     video_manager = VideoManager([video_path])
     scene_manager = SceneManager()
@@ -37,10 +37,13 @@ def main():
     print(f'Found video paths: {video_paths}')
 
     output_file_template = "temp_clips\$VIDEO_NAME\Scene$SCENE_NUMBER.mp4"
+    video_count = len(video_paths)
+    i = 0
     for video_path in video_paths:
+        i += 1
         video_name = video_path.split('.')[0]
+        print(f'Cutting video {i} of {video_count}: {video_name}')
         current_video_path = os.path.join(video_folder, video_path)
-        print(video_path, video_name, current_video_path)
         found_scenes = find_scenes(current_video_path)
         try:
             video_splitter.split_video_mkvmerge(input_video_paths=[current_video_path], scene_list=found_scenes,
@@ -50,4 +53,5 @@ def main():
             pass
 
 
-main()
+if __name__ == "__main__":
+    main()
