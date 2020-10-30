@@ -8,6 +8,7 @@ import numpy as np
 from PIL import Image
 import time
 import pandas as pd
+import pickle
 
 
 def get_dominant_colors(create_csv, create_image, n_colors, full_clip_path):
@@ -70,7 +71,16 @@ def get_length(filename):
     return float(result.stdout)
 
 
+def classify_clip_color(color_data_dict, clf):
+    color_df = pd.DataFrame()
+    color_df = color_df.append(color_data_dict, ignore_index=True)
+    color_list = clf.predict(color_df)
+    return color_list[0]
+
+
 def main(create_csv=True, create_image=False, n_colors=5):
+    clf = pickle.load(open('TrainedRandomForestClassifier.p', 'rb'))
+    print('Done Loading')
     start_time = time.time()
     video_folders = "temp_clips"
     video_dirs = [f for f in os.listdir(video_folders) if os.path.isdir(os.path.join(video_folders, f))]
@@ -78,7 +88,7 @@ def main(create_csv=True, create_image=False, n_colors=5):
     output_path = 'clip_data'
 
     # video_dirs = video_dirs[1:]
-    # video_dirs = ["F:\CLOUD FILM MEDIA\PROXIES"]
+    # video_dirs = ["E:\CLOUD FILM MEDIA\PROXIES"]
 
     video_count = len(video_dirs)
     i = 0
@@ -101,12 +111,13 @@ def main(create_csv=True, create_image=False, n_colors=5):
             clip_data["fullpath"] = full_clip_path
             clip_data["length"] = get_length(filename=full_clip_path)
             rgb_cube, scene_ordered_colors_rgb = get_dominant_colors(create_csv, create_image, n_colors, full_clip_path)
-            clip_data.update(rgb_cube)
+            clip_data["color"] = classify_clip_color(rgb_cube, clf)
             video_color_data.append(scene_ordered_colors_rgb)
             df = df.append(clip_data, ignore_index=True)
 
         if create_csv:
-            df.to_csv(f'clip_data\{video_dir.split(".")[0]}.csv', index=False)
+            # df.to_csv('clip_data\\SD.csv', index=False)
+            df.to_csv(f'clip_data\\{video_dir.split(".")[0]}.csv', index=False)
 
         if create_image:
             img_width = 4096
