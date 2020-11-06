@@ -9,6 +9,35 @@ from PIL import Image
 import time
 import pandas as pd
 import pickle
+import json
+
+
+def save_frame(full_clip_path, img_path):
+    cap = cv2.VideoCapture(full_clip_path)
+    ret, img = cap.read()
+    Image.fromarray(img).save(img_path)
+    cap.release()
+
+
+def detect_objects(full_clip_path):
+    img_text_path = 'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/temp_frame.txt'
+    img_path = 'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/temp_frame.png'
+    save_frame(full_clip_path, img_path)
+    result_path = 'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/frame_result.json'
+    _ = subprocess.run(['darknet.exe', 'detector', 'test', 'cfg/coco.data', 'cfg/yolov4.cfg', 'yolov4.weights',
+                             '-ext_output', '-dont_show', '-out', result_path, '<', img_text_path],
+                            cwd="C:/Users/Simon/git/darknet/build/darknet/x64",
+                            shell=True,
+                            stdout=subprocess.PIPE,
+                            stderr=subprocess.STDOUT)
+
+    results_json = json.load(open(result_path))
+    detected_objects = results_json[0]['objects']
+    detected_object_names = []
+    for object_class in detected_objects:
+        detected_object_names.append(object_class['name'])
+    print(f'Detected: {detected_object_names}')
+    return detected_object_names
 
 
 def get_dominant_colors(create_csv, create_image, n_colors, full_clip_path):
@@ -79,7 +108,7 @@ def classify_clip_color(color_data_dict, clf):
 
 
 def main(create_csv=True, create_image=False, n_colors=5):
-    clf = pickle.load(open('TrainedRandomForestClassifier.p', 'rb'))
+    # clf = pickle.load(open('TrainedRandomForestClassifier.p', 'rb'))
     print('Done Loading')
     start_time = time.time()
     video_folders = "temp_clips"
@@ -87,7 +116,7 @@ def main(create_csv=True, create_image=False, n_colors=5):
     print(f'Found video paths: {video_dirs}')
     output_path = 'clip_data'
 
-    # video_dirs = video_dirs[1:]
+    # video_dirs = video_dirs[:-2]
     # video_dirs = ["E:\CLOUD FILM MEDIA\PROXIES"]
 
     video_count = len(video_dirs)
@@ -105,20 +134,24 @@ def main(create_csv=True, create_image=False, n_colors=5):
             j += 1
             if j % 10 == 0:
                 print(f'Analyzing video {i} of {video_count}, clip {j} of {clip_count}')
+                if create_csv:
+                    # df.to_csv('clip_data\\SD.csv', index=False)
+                    df.to_csv(f'clip_data\\{video_dir.split(".")[0]}.csv', index=False)
 
             full_clip_path = os.path.join(video_folders, video_dir, clip_path)
             clip_data = dict()
             clip_data["fullpath"] = full_clip_path
             clip_data["length"] = get_length(filename=full_clip_path)
-            rgb_cube, scene_ordered_colors_rgb = get_dominant_colors(create_csv, create_image, n_colors, full_clip_path)
-            clip_data["color"] = classify_clip_color(rgb_cube, clf)
-            video_color_data.append(scene_ordered_colors_rgb)
+            clip_data["objects"] = detect_objects(full_clip_path)
+            # rgb_cube, scene_ordered_colors_rgb = get_dominant_colors(create_csv, create_image, n_colors, full_clip_path)
+            # clip_data["color"] = classify_clip_color(rgb_cube, clf)
+            # video_color_data.append(scene_ordered_colors_rgb)
             df = df.append(clip_data, ignore_index=True)
 
         if create_csv:
             # df.to_csv('clip_data\\SD.csv', index=False)
             df.to_csv(f'clip_data\\{video_dir.split(".")[0]}.csv', index=False)
-
+        '''
         if create_image:
             img_width = 4096
             img_height = 32 * len(clip_paths)
@@ -135,7 +168,7 @@ def main(create_csv=True, create_image=False, n_colors=5):
             image_path = f'clip_images/{video_dir}-{n_colors}.png'
             # image_path = 'clip_images/SD.png'
             img.save(image_path)
-
+        '''
         print(f'Time since start {time.time() - start_time}')
 
 
