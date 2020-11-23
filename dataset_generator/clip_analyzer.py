@@ -14,14 +14,19 @@ import json
 
 def save_frame(full_clip_path, img_path):
     cap = cv2.VideoCapture(full_clip_path)
+    frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    middle_frame = int(frame_count/2)
+    cap.set(cv2.CAP_PROP_POS_FRAMES, middle_frame)
     ret, img = cap.read()
     Image.fromarray(img).save(img_path)
     cap.release()
 
 
 def detect_objects(full_clip_path):
+    clip_name = full_clip_path.split('\\')[-1].split('.')[0]
     img_text_path = 'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/temp_frame.txt'
-    img_path = 'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/temp_frame.png'
+    img_path = f'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/middle_frames/{clip_name}.png'
+
     save_frame(full_clip_path, img_path)
     result_path = 'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/frame_result.json'
     _ = subprocess.run(['darknet.exe', 'detector', 'test', 'cfg/coco.data', 'cfg/yolov4.cfg', 'yolov4.weights',
@@ -36,7 +41,7 @@ def detect_objects(full_clip_path):
     detected_object_names = []
     for object_class in detected_objects:
         detected_object_names.append(object_class['name'])
-    print(f'Detected: {detected_object_names}')
+    print(f'Detected: {detected_object_names} in {clip_name}')
     return detected_object_names
 
 
@@ -117,7 +122,7 @@ def main(create_csv=True, create_image=False, n_colors=5):
     output_path = 'clip_data'
 
     # video_dirs = video_dirs[:-2]
-    # video_dirs = ["E:\CLOUD FILM MEDIA\PROXIES"]
+    video_dirs = ["E:\CLOUD FILM MEDIA\PROXIES"]
 
     video_count = len(video_dirs)
     i = 0
@@ -149,8 +154,8 @@ def main(create_csv=True, create_image=False, n_colors=5):
             df = df.append(clip_data, ignore_index=True)
 
         if create_csv:
-            # df.to_csv('clip_data\\SD.csv', index=False)
-            df.to_csv(f'clip_data\\{video_dir.split(".")[0]}.csv', index=False)
+            df.to_csv('clip_data\\SD.csv', index=False)
+            # df.to_csv(f'clip_data\\{video_dir.split(".")[0]}.csv', index=False)
         '''
         if create_image:
             img_width = 4096

@@ -7,7 +7,7 @@ from scenedetect import VideoManager, SceneManager, video_splitter
 from scenedetect.detectors import ContentDetector
 
 
-def find_scenes(video_path, threshold=20.0):
+def find_scenes(video_path, threshold=40.0):
     # Create our video & scene managers, then add the detector.
     video_manager = VideoManager([video_path])
     scene_manager = SceneManager()

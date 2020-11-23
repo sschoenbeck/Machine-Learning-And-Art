@@ -74,7 +74,7 @@ def create_image(path, pixels):
 
 def main():
     df = pd.DataFrame()
-    duplicates = 5
+    duplicates = 1
     colors = {'Black': ((0, 63), (0, 63), (0, 63)),
               'Navy': ((0, 63), (0, 63), (64, 191)),
               'Blue': ((0, 63), (0, 63), (192, 255)),

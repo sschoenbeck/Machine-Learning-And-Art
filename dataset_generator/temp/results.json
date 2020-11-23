@@ -1,0 +1,42 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/imgs/686762d233d54da4b03c9664468c5555a158e060r1-1200-1013v2_hq.png ", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/imgs/e4d421b91eaad5e9248d5be29b5f2e28.png ", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/imgs/ef5b0e7a9662c3df82d0f9e9be0db4c8.png ", 
+ "objects": [ 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.032981, "center_y":0.199613, "width":0.058796, "height":0.155040}, "confidence":0.809173}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.059014, "center_y":0.206144, "width":0.045773, "height":0.142208}, "confidence":0.509028}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.034170, "center_y":0.437968, "width":0.071817, "height":0.047148}, "confidence":0.483122}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.035672, "center_y":0.466267, "width":0.075546, "height":0.048311}, "confidence":0.468266}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.034952, "center_y":0.407523, "width":0.072790, "height":0.041099}, "confidence":0.457140}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.034699, "center_y":0.352284, "width":0.072801, "height":0.082935}, "confidence":0.319263}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.013484, "center_y":0.038221, "width":0.028760, "height":0.077721}, "confidence":0.279457}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.972237, "center_y":0.443982, "width":0.055521, "height":0.124773}, "confidence":0.846821}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.592875, "center_y":0.561514, "width":0.050062, "height":0.133389}, "confidence":0.485082}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/imgs/wmp98jo48lv41.png ", 
+ "objects": [ 
+  {"class_id":69, "name":"oven", "relative_coordinates":{"center_x":0.237647, "center_y":0.398513, "width":0.146971, "height":0.158255}, "confidence":0.833422}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.689085, "center_y":0.501901, "width":0.250437, "height":0.493592}, "confidence":0.287847}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.912050, "center_y":0.439847, "width":0.177584, "height":0.734457}, "confidence":0.986763}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.152715, "center_y":0.600152, "width":0.313045, "height":0.509784}, "confidence":0.709299}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.479977, "center_y":0.507888, "width":0.357859, "height":0.968586}, "confidence":0.994124}
+ ] 
+}
+]

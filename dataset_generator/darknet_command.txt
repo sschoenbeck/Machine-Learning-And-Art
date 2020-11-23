@@ -1,0 +1,1 @@
+darknet.exe detector test cfg/coco.data cfg/yolov4.cfg yolov4.weights -ext_output -dont_show -out C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/middle_frames.json < C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/middle_frames.txt
