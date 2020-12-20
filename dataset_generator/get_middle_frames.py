@@ -4,9 +4,9 @@ from PIL import Image
 import time
 
 
-def save_frame(full_clip_path):
+def save_frame(full_clip_path, video_dir):
     clip_name = full_clip_path.split('\\')[-1].split('.')[0]
-    img_path = f'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/middle_frames/{clip_name}.png'
+    img_path = f'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/middle_frames/{video_dir}/{clip_name}.png'
     cap = cv2.VideoCapture(full_clip_path)
     frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     middle_frame = int(frame_count/2)
@@ -17,12 +17,15 @@ def save_frame(full_clip_path):
     cap.release()
 
 
-def main(create_csv=True, create_image=False, n_colors=5):
+def main():
     video_folders = "temp_clips"
-    video_dirs = ["E:\CLOUD FILM MEDIA\PROXIES"]
+    video_dirs = [f for f in os.listdir(os.path.join(video_folders, video_dir)) if
+                      os.path.isfile(os.path.join(video_folders, video_dir, f))]
+    # ["C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp_clips/2001_A_SPACE_ODYSSEY"]
     video_count = len(video_dirs)
     i = 0
     for video_dir in video_dirs:
+        video_name = video_dir.split('/')
         print(f'Analyzing: {video_dir}')
         i += 1
         clip_paths = [f for f in os.listdir(os.path.join(video_folders, video_dir)) if
@@ -34,7 +37,7 @@ def main(create_csv=True, create_image=False, n_colors=5):
             if j % 10 == 0:
                 print(f'Analyzing video {i} of {video_count}, clip {j} of {clip_count}')
             full_clip_path = os.path.join(video_folders, video_dir, clip_path)
-            save_frame(full_clip_path)
+            save_frame(full_clip_path, video_dir)
 
 
 if __name__ == "__main__":

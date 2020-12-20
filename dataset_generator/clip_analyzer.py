@@ -15,7 +15,7 @@ import json
 def save_frame(full_clip_path, img_path):
     cap = cv2.VideoCapture(full_clip_path)
     frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-    middle_frame = int(frame_count/2)
+    middle_frame = int(frame_count / 2)
     cap.set(cv2.CAP_PROP_POS_FRAMES, middle_frame)
     ret, img = cap.read()
     Image.fromarray(img).save(img_path)
@@ -25,16 +25,16 @@ def save_frame(full_clip_path, img_path):
 def detect_objects(full_clip_path):
     clip_name = full_clip_path.split('\\')[-1].split('.')[0]
     img_text_path = 'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/temp_frame.txt'
-    img_path = f'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/middle_frames/{clip_name}.png'
+    img_path = f'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/temp_frame.png'
 
     save_frame(full_clip_path, img_path)
     result_path = 'C:/Users/Simon/git/Machine-Learning-And-Art/dataset_generator/temp/frame_result.json'
     _ = subprocess.run(['darknet.exe', 'detector', 'test', 'cfg/coco.data', 'cfg/yolov4.cfg', 'yolov4.weights',
-                             '-ext_output', '-dont_show', '-out', result_path, '<', img_text_path],
-                            cwd="C:/Users/Simon/git/darknet/build/darknet/x64",
-                            shell=True,
-                            stdout=subprocess.PIPE,
-                            stderr=subprocess.STDOUT)
+                        '-ext_output', '-dont_show', '-out', result_path, '<', img_text_path],
+                       cwd="C:/Users/Simon/vcpkg/installed/x64-windows/tools/darknet",
+                       shell=True,
+                       stdout=subprocess.PIPE,
+                       stderr=subprocess.STDOUT)
 
     results_json = json.load(open(result_path))
     detected_objects = results_json[0]['objects']
@@ -70,16 +70,17 @@ def get_dominant_colors(create_csv, create_image, n_colors, full_clip_path):
             g_distances = dict()
             b_distances = dict()
             for r_point in r_points:
-                r_distances[r_point] = max((1-(abs(r-r_point)/72) ** 3), 0)
+                r_distances[r_point] = max((1 - (abs(r - r_point) / 72) ** 3), 0)
             for g_point in g_points:
-                g_distances[g_point] = max((1-(abs(g-g_point)/72) ** 3), 0)
+                g_distances[g_point] = max((1 - (abs(g - g_point) / 72) ** 3), 0)
             for b_point in b_points:
-                b_distances[b_point] = max((1-(abs(b-b_point)/72) ** 3), 0)
+                b_distances[b_point] = max((1 - (abs(b - b_point) / 72) ** 3), 0)
 
             for r_point in r_points:
                 for g_point in g_points:
                     for b_point in b_points:
-                        rgb_cube[f'({r_point}, {g_point}, {b_point})'] += r_distances[r_point] + g_distances[g_point] + b_distances[b_point]
+                        rgb_cube[f'({r_point}, {g_point}, {b_point})'] += r_distances[r_point] + g_distances[g_point] + \
+                                                                          b_distances[b_point]
     if create_image:
         criteria = (cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 200, .1)
         flags = cv2.KMEANS_RANDOM_CENTERS
@@ -118,11 +119,11 @@ def main(create_csv=True, create_image=False, n_colors=5):
     start_time = time.time()
     video_folders = "temp_clips"
     video_dirs = [f for f in os.listdir(video_folders) if os.path.isdir(os.path.join(video_folders, f))]
+    video_dirs = video_dirs[0:1]
     print(f'Found video paths: {video_dirs}')
     output_path = 'clip_data'
 
-    # video_dirs = video_dirs[:-2]
-    video_dirs = ["E:\CLOUD FILM MEDIA\PROXIES"]
+    # video_dirs = ["E:\CLOUD FILM MEDIA\PROXIES"]
 
     video_count = len(video_dirs)
     i = 0
