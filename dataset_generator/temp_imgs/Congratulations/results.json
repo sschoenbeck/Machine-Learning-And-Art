@@ -1,0 +1,1735 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0000.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.486054, "center_y":0.465307, "width":0.190380, "height":0.557968}, "confidence":0.993250}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0001.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.606731, "center_y":0.506721, "width":0.682251, "height":0.791213}, "confidence":0.877152}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0002.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.500702, "center_y":0.712846, "width":0.888380, "height":0.374619}, "confidence":0.700153}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.145115, "center_y":0.663022, "width":0.053258, "height":0.301368}, "confidence":0.872577}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.680553, "center_y":0.534928, "width":0.161189, "height":0.454013}, "confidence":0.891546}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.690949, "center_y":0.714519, "width":0.032831, "height":0.209683}, "confidence":0.969565}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.733309, "center_y":0.800535, "width":0.032590, "height":0.048403}, "confidence":0.567292}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.632590, "center_y":0.693294, "width":0.048869, "height":0.298137}, "confidence":0.988750}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.343100, "center_y":0.714517, "width":0.049547, "height":0.315464}, "confidence":0.991447}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.515166, "center_y":0.520212, "width":0.269422, "height":0.411538}, "confidence":0.973956}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.757539, "center_y":0.687579, "width":0.046599, "height":0.265070}, "confidence":0.993589}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.249551, "center_y":0.667973, "width":0.043175, "height":0.272304}, "confidence":0.995961}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.196101, "center_y":0.666837, "width":0.027429, "height":0.175305}, "confidence":0.973703}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.824623, "center_y":0.702816, "width":0.030068, "height":0.221054}, "confidence":0.979259}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.086989, "center_y":0.651246, "width":0.047847, "height":0.287986}, "confidence":0.996053}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.300241, "center_y":0.519176, "width":0.208474, "height":0.436277}, "confidence":0.976518}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.495861, "center_y":0.781524, "width":0.090581, "height":0.089693}, "confidence":0.953383}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0003.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.502049, "center_y":0.508632, "width":0.733997, "height":0.823543}, "confidence":0.952944}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.922644, "center_y":0.511860, "width":0.154118, "height":0.797570}, "confidence":0.588757}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0004.png", 
+ "objects": [ 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.758786, "center_y":0.167937, "width":0.119781, "height":0.131914}, "confidence":0.331492}, 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.724932, "center_y":0.694215, "width":0.084510, "height":0.183847}, "confidence":0.324441}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.127553, "center_y":0.517078, "width":0.254923, "height":0.772009}, "confidence":0.921583}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.876113, "center_y":0.493185, "width":0.244562, "height":0.811336}, "confidence":0.926294}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.447656, "center_y":0.497598, "width":0.504584, "height":0.797889}, "confidence":0.970433}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0005.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.501546, "center_y":0.755312, "width":0.918957, "height":0.296839}, "confidence":0.606183}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.488404, "center_y":0.547689, "width":0.181863, "height":0.411016}, "confidence":0.993050}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.681449, "center_y":0.716805, "width":0.030930, "height":0.196743}, "confidence":0.886772}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.265503, "center_y":0.686879, "width":0.042375, "height":0.263713}, "confidence":0.991974}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.657237, "center_y":0.551909, "width":0.175677, "height":0.374674}, "confidence":0.983700}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.297571, "center_y":0.539813, "width":0.201456, "height":0.433055}, "confidence":0.983957}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.110842, "center_y":0.671429, "width":0.044733, "height":0.279025}, "confidence":0.993788}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.212310, "center_y":0.691037, "width":0.028775, "height":0.174943}, "confidence":0.980851}, 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.388697, "center_y":0.169422, "width":0.097378, "height":0.134098}, "confidence":0.262454}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.810282, "center_y":0.704855, "width":0.029011, "height":0.190044}, "confidence":0.982438}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.747762, "center_y":0.693172, "width":0.044935, "height":0.255920}, "confidence":0.994086}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.724937, "center_y":0.800428, "width":0.030449, "height":0.046972}, "confidence":0.807404}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.166931, "center_y":0.673666, "width":0.051444, "height":0.303665}, "confidence":0.959141}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.628260, "center_y":0.698139, "width":0.043328, "height":0.270726}, "confidence":0.996901}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.355997, "center_y":0.721022, "width":0.047077, "height":0.309848}, "confidence":0.997938}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.501040, "center_y":0.785792, "width":0.081639, "height":0.085660}, "confidence":0.922430}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0006.png", 
+ "objects": [ 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.810701, "center_y":0.782194, "width":0.046391, "height":0.243522}, "confidence":0.986711}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.039630, "center_y":0.768075, "width":0.041700, "height":0.261918}, "confidence":0.966902}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.274023, "center_y":0.742825, "width":0.077938, "height":0.325472}, "confidence":0.985859}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.182525, "center_y":0.555330, "width":0.338043, "height":0.636388}, "confidence":0.990026}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.917516, "center_y":0.741006, "width":0.072691, "height":0.331538}, "confidence":0.988302}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.721186, "center_y":0.740138, "width":0.064376, "height":0.330403}, "confidence":0.988502}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.498794, "center_y":0.546189, "width":0.321122, "height":0.669912}, "confidence":0.990585}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.800814, "center_y":0.549292, "width":0.288787, "height":0.627390}, "confidence":0.930508}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.125342, "center_y":0.728977, "width":0.066392, "height":0.354899}, "confidence":0.990725}, 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.667682, "center_y":0.147434, "width":0.155901, "height":0.090386}, "confidence":0.270434}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0007.png", 
+ "objects": [ 
+  {"class_id":34, "name":"baseball bat", "relative_coordinates":{"center_x":0.081211, "center_y":0.767928, "width":0.159126, "height":0.245728}, "confidence":0.296199}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.391523, "center_y":0.493860, "width":0.582072, "height":0.791540}, "confidence":0.992968}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.905797, "center_y":0.651310, "width":0.184031, "height":0.333733}, "confidence":0.924837}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0008.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.500228, "center_y":0.755087, "width":0.899198, "height":0.312203}, "confidence":0.339727}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.956664, "center_y":0.751036, "width":0.045421, "height":0.261565}, "confidence":0.950936}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.099091, "center_y":0.727782, "width":0.038701, "height":0.242445}, "confidence":0.963993}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.486722, "center_y":0.519702, "width":0.307086, "height":0.605978}, "confidence":0.988874}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.033017, "center_y":0.697733, "width":0.067996, "height":0.421454}, "confidence":0.987257}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.746093, "center_y":0.549252, "width":0.231807, "height":0.488201}, "confidence":0.930307}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.300861, "center_y":0.727613, "width":0.065264, "height":0.346971}, "confidence":0.988618}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.865202, "center_y":0.729272, "width":0.065551, "height":0.367342}, "confidence":0.991295}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.172379, "center_y":0.721603, "width":0.059831, "height":0.366521}, "confidence":0.997326}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.235014, "center_y":0.515415, "width":0.267505, "height":0.571018}, "confidence":0.984599}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.772645, "center_y":0.768284, "width":0.040879, "height":0.282788}, "confidence":0.978255}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.506562, "center_y":0.852362, "width":0.117270, "height":0.094834}, "confidence":0.388861}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.694103, "center_y":0.726423, "width":0.063070, "height":0.352669}, "confidence":0.997839}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0009.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.489894, "center_y":0.495311, "width":0.515435, "height":0.888581}, "confidence":0.578825}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0010.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.452394, "center_y":0.493055, "width":0.673785, "height":0.860580}, "confidence":0.967628}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.872801, "center_y":0.496723, "width":0.254355, "height":0.823635}, "confidence":0.589317}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0011.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.237620, "center_y":0.538502, "width":0.421443, "height":0.708007}, "confidence":0.934334}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.710765, "center_y":0.588298, "width":0.562193, "height":0.657491}, "confidence":0.926804}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0012.png", 
+ "objects": [ 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.249286, "center_y":0.775784, "width":0.093723, "height":0.243798}, "confidence":0.961385}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.187104, "center_y":0.497123, "width":0.373312, "height":0.814717}, "confidence":0.936279}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.693985, "center_y":0.497954, "width":0.613292, "height":0.814958}, "confidence":0.973626}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0013.png", 
+ "objects": [ 
+  {"class_id":65, "name":"remote", "relative_coordinates":{"center_x":0.126877, "center_y":0.499950, "width":0.076555, "height":0.234254}, "confidence":0.343763}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.582328, "center_y":0.838664, "width":0.239362, "height":0.120473}, "confidence":0.696069}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.429031, "center_y":0.861215, "width":0.073999, "height":0.075717}, "confidence":0.518824}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.325603, "center_y":0.768719, "width":0.176407, "height":0.254537}, "confidence":0.975523}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.923384, "center_y":0.560477, "width":0.157224, "height":0.717689}, "confidence":0.546066}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.171836, "center_y":0.570397, "width":0.275194, "height":0.615445}, "confidence":0.787927}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.647725, "center_y":0.571073, "width":0.339863, "height":0.629778}, "confidence":0.893649}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0014.png", 
+ "objects": [ 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.529593, "center_y":0.724848, "width":0.117210, "height":0.328241}, "confidence":0.953238}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.146775, "center_y":0.830029, "width":0.120919, "height":0.141382}, "confidence":0.889220}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.902814, "center_y":0.501001, "width":0.198076, "height":0.830353}, "confidence":0.427405}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.385744, "center_y":0.494081, "width":0.733135, "height":0.838104}, "confidence":0.844454}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.651696, "center_y":0.453987, "width":0.278858, "height":0.253913}, "confidence":0.979074}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0015.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.409423, "center_y":0.530159, "width":0.473233, "height":0.738790}, "confidence":0.968678}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0016.png", 
+ "objects": [ 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.279577, "center_y":0.870286, "width":0.079891, "height":0.057497}, "confidence":0.264010}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.730741, "center_y":0.541788, "width":0.130989, "height":0.538893}, "confidence":0.965268}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.852315, "center_y":0.610112, "width":0.097041, "height":0.562654}, "confidence":0.974058}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.879463, "center_y":0.501726, "width":0.263883, "height":0.880763}, "confidence":0.583927}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.093678, "center_y":0.505961, "width":0.193954, "height":0.765127}, "confidence":0.791769}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.540817, "center_y":0.492257, "width":0.444312, "height":0.851394}, "confidence":0.971956}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0017.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.495732, "center_y":0.502720, "width":0.734375, "height":0.805157}, "confidence":0.972988}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0018.png", 
+ "objects": [ 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.909602, "center_y":0.403774, "width":0.181417, "height":0.344194}, "confidence":0.527811}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.278938, "center_y":0.564511, "width":0.401240, "height":0.682711}, "confidence":0.927468}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.719129, "center_y":0.557302, "width":0.425561, "height":0.705424}, "confidence":0.975394}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.557155, "center_y":0.405029, "width":0.193289, "height":0.341042}, "confidence":0.727773}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0019.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.448401, "center_y":0.492257, "width":0.690124, "height":0.861475}, "confidence":0.971705}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.877063, "center_y":0.495112, "width":0.255311, "height":0.811201}, "confidence":0.875426}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0020.png", 
+ "objects": [ 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.600952, "center_y":0.605955, "width":0.364419, "height":0.578182}, "confidence":0.659826}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.693380, "center_y":0.756398, "width":0.204860, "height":0.283079}, "confidence":0.370276}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.342695, "center_y":0.486041, "width":0.694941, "height":0.803264}, "confidence":0.943758}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0021.png", 
+ "objects": [ 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.479696, "center_y":0.294068, "width":0.148556, "height":0.269399}, "confidence":0.681760}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.410739, "center_y":0.556797, "width":0.388903, "height":0.777580}, "confidence":0.737057}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.250533, "center_y":0.534050, "width":0.089507, "height":0.180973}, "confidence":0.288149}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.137200, "center_y":0.531398, "width":0.272292, "height":0.774417}, "confidence":0.786799}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.646339, "center_y":0.406320, "width":0.108009, "height":0.197844}, "confidence":0.338326}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.297566, "center_y":0.872174, "width":0.165351, "height":0.054497}, "confidence":0.738455}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.851057, "center_y":0.574064, "width":0.298668, "height":0.646895}, "confidence":0.978566}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0022.png", 
+ "objects": [ 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.853184, "center_y":0.853427, "width":0.051293, "height":0.092031}, "confidence":0.887155}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.318438, "center_y":0.807476, "width":0.057389, "height":0.185155}, "confidence":0.897955}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.752049, "center_y":0.806362, "width":0.070864, "height":0.187621}, "confidence":0.809471}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.112063, "center_y":0.804244, "width":0.057873, "height":0.192882}, "confidence":0.905951}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.981313, "center_y":0.804224, "width":0.039512, "height":0.188640}, "confidence":0.539191}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.453283, "center_y":0.616117, "width":0.366600, "height":0.572359}, "confidence":0.403766}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.228433, "center_y":0.623470, "width":0.358947, "height":0.549074}, "confidence":0.568778}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.240068, "center_y":0.784889, "width":0.079277, "height":0.226712}, "confidence":0.989938}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.883123, "center_y":0.595667, "width":0.229531, "height":0.602609}, "confidence":0.705367}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0023.png", 
+ "objects": [ 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.703125, "center_y":0.154884, "width":0.136528, "height":0.099527}, "confidence":0.365829}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.227512, "center_y":0.536892, "width":0.453284, "height":0.737948}, "confidence":0.871290}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.813552, "center_y":0.800794, "width":0.213305, "height":0.197706}, "confidence":0.251001}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.704320, "center_y":0.539439, "width":0.467024, "height":0.742834}, "confidence":0.931950}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.459373, "center_y":0.294405, "width":0.121316, "height":0.260304}, "confidence":0.329721}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0024.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.450939, "center_y":0.500110, "width":0.393639, "height":0.840354}, "confidence":0.870689}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0025.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.498481, "center_y":0.717519, "width":0.923442, "height":0.393191}, "confidence":0.559415}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.151779, "center_y":0.697416, "width":0.041266, "height":0.171476}, "confidence":0.915444}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.722463, "center_y":0.534550, "width":0.230623, "height":0.450184}, "confidence":0.975375}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.488521, "center_y":0.504821, "width":0.268699, "height":0.456843}, "confidence":0.987007}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.685199, "center_y":0.720303, "width":0.034583, "height":0.208076}, "confidence":0.963266}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.282694, "center_y":0.532753, "width":0.238813, "height":0.432732}, "confidence":0.984771}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.761303, "center_y":0.689411, "width":0.047000, "height":0.271658}, "confidence":0.968288}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.119373, "center_y":0.665201, "width":0.062394, "height":0.406410}, "confidence":0.975073}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.304745, "center_y":0.688946, "width":0.048333, "height":0.301060}, "confidence":0.982859}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.228908, "center_y":0.698750, "width":0.046628, "height":0.278845}, "confidence":0.995390}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.845651, "center_y":0.705609, "width":0.032808, "height":0.202686}, "confidence":0.965952}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.625666, "center_y":0.715055, "width":0.048483, "height":0.288691}, "confidence":0.996332}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.349299, "center_y":0.716503, "width":0.047420, "height":0.297824}, "confidence":0.997156}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.485391, "center_y":0.807014, "width":0.090338, "height":0.100830}, "confidence":0.936688}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.411718, "center_y":0.681272, "width":0.028305, "height":0.106353}, "confidence":0.616080}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.728326, "center_y":0.818615, "width":0.032614, "height":0.057679}, "confidence":0.606769}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0026.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.621632, "center_y":0.533341, "width":0.422727, "height":0.734941}, "confidence":0.951923}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0027.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.484477, "center_y":0.565349, "width":0.669599, "height":0.719147}, "confidence":0.978198}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.037393, "center_y":0.365504, "width":0.008107, "height":0.028684}, "confidence":0.743703}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.047976, "center_y":0.364407, "width":0.009296, "height":0.031287}, "confidence":0.650960}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0028.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.472125, "center_y":0.381411, "width":0.048827, "height":0.191239}, "confidence":0.348187}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.921632, "center_y":0.502004, "width":0.154935, "height":0.829347}, "confidence":0.667014}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.094115, "center_y":0.496386, "width":0.184125, "height":0.794783}, "confidence":0.344925}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.450038, "center_y":0.495573, "width":0.537846, "height":0.792736}, "confidence":0.970385}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0029.png", 
+ "objects": [ 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.638689, "center_y":0.770290, "width":0.202217, "height":0.257739}, "confidence":0.760657}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.792940, "center_y":0.834870, "width":0.163722, "height":0.128355}, "confidence":0.562204}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.638922, "center_y":0.771890, "width":0.200388, "height":0.258156}, "confidence":0.430491}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.280094, "center_y":0.807145, "width":0.193444, "height":0.180738}, "confidence":0.416135}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.279093, "center_y":0.808265, "width":0.193569, "height":0.182494}, "confidence":0.350617}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.180270, "center_y":0.547158, "width":0.283906, "height":0.613507}, "confidence":0.894478}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.588213, "center_y":0.512454, "width":0.493508, "height":0.574751}, "confidence":0.825880}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.877312, "center_y":0.535540, "width":0.254532, "height":0.751356}, "confidence":0.934823}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0030.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.442921, "center_y":0.565367, "width":0.354782, "height":0.687101}, "confidence":0.912043}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0031.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.496704, "center_y":0.515812, "width":0.667457, "height":0.813165}, "confidence":0.530757}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0032.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.640230, "center_y":0.533127, "width":0.314100, "height":0.753499}, "confidence":0.759828}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0033.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.400613, "center_y":0.572395, "width":0.408771, "height":0.642770}, "confidence":0.786090}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0034.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.443136, "center_y":0.516976, "width":0.283374, "height":0.829754}, "confidence":0.916423}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0035.png", 
+ "objects": [ 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.434387, "center_y":0.846529, "width":0.149227, "height":0.104460}, "confidence":0.424778}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.435062, "center_y":0.846329, "width":0.149541, "height":0.105047}, "confidence":0.489391}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.162941, "center_y":0.728569, "width":0.324661, "height":0.330617}, "confidence":0.567526}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.132032, "center_y":0.429633, "width":0.258362, "height":0.461056}, "confidence":0.717421}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.785120, "center_y":0.512687, "width":0.274728, "height":0.657110}, "confidence":0.919098}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.486712, "center_y":0.564373, "width":0.364000, "height":0.687609}, "confidence":0.989342}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0036.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.484207, "center_y":0.547420, "width":0.424454, "height":0.732170}, "confidence":0.994717}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.084136, "center_y":0.601130, "width":0.017338, "height":0.064649}, "confidence":0.902822}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.003605, "center_y":0.599397, "width":0.006863, "height":0.031374}, "confidence":0.860482}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.033630, "center_y":0.597366, "width":0.009497, "height":0.019370}, "confidence":0.370580}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0037.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.568638, "center_y":0.522590, "width":0.531358, "height":0.758788}, "confidence":0.966829}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0038.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.461341, "center_y":0.589780, "width":0.084255, "height":0.289797}, "confidence":0.998065}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.281231, "center_y":0.509515, "width":0.549608, "height":0.771063}, "confidence":0.958214}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0039.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.553148, "center_y":0.493803, "width":0.609448, "height":0.836903}, "confidence":0.962782}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0040.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.401063, "center_y":0.494128, "width":0.550265, "height":0.820026}, "confidence":0.981181}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0041.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.299899, "center_y":0.541826, "width":0.608885, "height":0.713561}, "confidence":0.969017}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0042.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.497573, "center_y":0.710011, "width":0.919774, "height":0.374044}, "confidence":0.748975}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.173727, "center_y":0.664634, "width":0.034596, "height":0.176417}, "confidence":0.907147}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.481179, "center_y":0.492365, "width":0.187751, "height":0.424630}, "confidence":0.989500}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.257654, "center_y":0.484420, "width":0.217579, "height":0.456163}, "confidence":0.971264}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.367697, "center_y":0.697838, "width":0.046479, "height":0.295085}, "confidence":0.987816}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.325033, "center_y":0.665646, "width":0.047557, "height":0.302444}, "confidence":0.989042}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.794711, "center_y":0.679565, "width":0.050984, "height":0.279783}, "confidence":0.990659}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.881738, "center_y":0.705889, "width":0.038133, "height":0.203080}, "confidence":0.948173}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.650008, "center_y":0.705929, "width":0.049623, "height":0.306659}, "confidence":0.993762}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.742050, "center_y":0.492308, "width":0.233525, "height":0.448661}, "confidence":0.987566}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.137704, "center_y":0.671110, "width":0.061279, "height":0.300617}, "confidence":0.950556}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.248428, "center_y":0.675935, "width":0.046124, "height":0.283118}, "confidence":0.995646}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.505969, "center_y":0.796589, "width":0.094727, "height":0.108483}, "confidence":0.910235}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.586958, "center_y":0.591944, "width":0.088712, "height":0.221502}, "confidence":0.773209}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.713748, "center_y":0.707129, "width":0.036262, "height":0.212881}, "confidence":0.949913}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0043.png", 
+ "objects": [ 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.375944, "center_y":0.823802, "width":0.054618, "height":0.072879}, "confidence":0.286331}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.940734, "center_y":0.480576, "width":0.115510, "height":0.160314}, "confidence":0.980321}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.401170, "center_y":0.465103, "width":0.097169, "height":0.712269}, "confidence":0.763886}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0044.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.490301, "center_y":0.564694, "width":0.189225, "height":0.694000}, "confidence":0.962055}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0045.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.438405, "center_y":0.504792, "width":0.832041, "height":0.783530}, "confidence":0.984503}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0046.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.551685, "center_y":0.539781, "width":0.380672, "height":0.735971}, "confidence":0.964460}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0047.png", 
+ "objects": [ 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.914332, "center_y":0.796102, "width":0.049490, "height":0.204416}, "confidence":0.980448}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.694694, "center_y":0.468631, "width":0.045201, "height":0.274293}, "confidence":0.973303}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.693731, "center_y":0.387961, "width":0.035178, "height":0.110233}, "confidence":0.416871}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.465075, "center_y":0.500340, "width":0.386748, "height":0.839777}, "confidence":0.955989}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.490222, "center_y":0.860202, "width":0.053069, "height":0.077125}, "confidence":0.546164}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.178603, "center_y":0.535877, "width":0.358338, "height":0.729991}, "confidence":0.962107}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.804946, "center_y":0.494750, "width":0.384369, "height":0.761032}, "confidence":0.998121}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.856246, "center_y":0.793398, "width":0.064240, "height":0.208704}, "confidence":0.916550}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0048.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.501440, "center_y":0.504904, "width":0.772183, "height":0.823806}, "confidence":0.978111}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0049.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.511571, "center_y":0.544935, "width":0.466774, "height":0.727353}, "confidence":0.994833}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0050.png", 
+ "objects": [ 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.074945, "center_y":0.334208, "width":0.023621, "height":0.011184}, "confidence":0.359513}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.188702, "center_y":0.324563, "width":0.026531, "height":0.046000}, "confidence":0.422604}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.169278, "center_y":0.313717, "width":0.012265, "height":0.039176}, "confidence":0.424028}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.220696, "center_y":0.376323, "width":0.033021, "height":0.058650}, "confidence":0.280875}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.176978, "center_y":0.321447, "width":0.019319, "height":0.043969}, "confidence":0.273601}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.120583, "center_y":0.299530, "width":0.008180, "height":0.032676}, "confidence":0.780896}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.071571, "center_y":0.306497, "width":0.013808, "height":0.058927}, "confidence":0.892631}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.136270, "center_y":0.306062, "width":0.011647, "height":0.054658}, "confidence":0.935077}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.169880, "center_y":0.317829, "width":0.012492, "height":0.037860}, "confidence":0.446216}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.439939, "center_y":0.553806, "width":0.242322, "height":0.711614}, "confidence":0.981776}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0051.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.437899, "center_y":0.489761, "width":0.690101, "height":0.809480}, "confidence":0.972776}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0052.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.428467, "center_y":0.568439, "width":0.339229, "height":0.693038}, "confidence":0.988828}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0053.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.401083, "center_y":0.506266, "width":0.685403, "height":0.796888}, "confidence":0.987141}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0054.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.433362, "center_y":0.536935, "width":0.200268, "height":0.479968}, "confidence":0.321242}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.433362, "center_y":0.536935, "width":0.200268, "height":0.479968}, "confidence":0.532305}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.434436, "center_y":0.609367, "width":0.152374, "height":0.204074}, "confidence":0.294931}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.437289, "center_y":0.521650, "width":0.387470, "height":0.784343}, "confidence":0.264235}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.439778, "center_y":0.521917, "width":0.409674, "height":0.818991}, "confidence":0.950219}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0055.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.453410, "center_y":0.509651, "width":0.685842, "height":0.799442}, "confidence":0.899617}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0056.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.405254, "center_y":0.558160, "width":0.314169, "height":0.699585}, "confidence":0.981856}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0057.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.817396, "center_y":0.607646, "width":0.195920, "height":0.376508}, "confidence":0.789133}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.233762, "center_y":0.786820, "width":0.229034, "height":0.216591}, "confidence":0.685187}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.507394, "center_y":0.514339, "width":0.947613, "height":0.812080}, "confidence":0.724335}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0058.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.283273, "center_y":0.428376, "width":0.125151, "height":0.234863}, "confidence":0.970791}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.113012, "center_y":0.733016, "width":0.119260, "height":0.231083}, "confidence":0.847321}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.622297, "center_y":0.353505, "width":0.123575, "height":0.182306}, "confidence":0.541353}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.207049, "center_y":0.847486, "width":0.181560, "height":0.111857}, "confidence":0.484146}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.658934, "center_y":0.754991, "width":0.175568, "height":0.280654}, "confidence":0.440489}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.523324, "center_y":0.828698, "width":0.133095, "height":0.140196}, "confidence":0.304785}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.398387, "center_y":0.871931, "width":0.121575, "height":0.056500}, "confidence":0.283200}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.551843, "center_y":0.541536, "width":0.279203, "height":0.558405}, "confidence":0.646969}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.298643, "center_y":0.519201, "width":0.381547, "height":0.662512}, "confidence":0.895157}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.833654, "center_y":0.534650, "width":0.340876, "height":0.749334}, "confidence":0.938193}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0059.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.798890, "center_y":0.547014, "width":0.389119, "height":0.712916}, "confidence":0.918463}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.292001, "center_y":0.518274, "width":0.591816, "height":0.756504}, "confidence":0.905129}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.067161, "center_y":0.501215, "width":0.133600, "height":0.862875}, "confidence":0.282014}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0060.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.178522, "center_y":0.585510, "width":0.326756, "height":0.629857}, "confidence":0.512080}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0061.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.290883, "center_y":0.495693, "width":0.557919, "height":0.806796}, "confidence":0.973722}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.866346, "center_y":0.503129, "width":0.264148, "height":0.829851}, "confidence":0.720114}
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0062.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.499258, "center_y":0.709262, "width":0.925841, "height":0.374339}, "confidence":0.767889}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.186576, "center_y":0.666986, "width":0.036917, "height":0.195109}, "confidence":0.893407}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.739234, "center_y":0.653317, "width":0.039721, "height":0.276341}, "confidence":0.979309}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.460622, "center_y":0.511916, "width":0.269480, "height":0.400531}, "confidence":0.986086}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.309548, "center_y":0.501397, "width":0.174316, "height":0.406223}, "confidence":0.898619}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.244004, "center_y":0.648691, "width":0.046244, "height":0.270302}, "confidence":0.991869}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.694729, "center_y":0.513254, "width":0.199455, "height":0.398384}, "confidence":0.985642}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.082571, "center_y":0.637650, "width":0.050139, "height":0.274327}, "confidence":0.993715}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.330186, "center_y":0.689708, "width":0.053949, "height":0.321824}, "confidence":0.995479}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.714312, "center_y":0.769641, "width":0.030256, "height":0.050292}, "confidence":0.666127}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.668667, "center_y":0.687443, "width":0.033896, "height":0.207985}, "confidence":0.961310}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.780716, "center_y":0.669438, "width":0.032308, "height":0.188008}, "confidence":0.985231}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.484311, "center_y":0.753640, "width":0.089765, "height":0.086346}, "confidence":0.961785}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.140152, "center_y":0.644148, "width":0.052909, "height":0.296390}, "confidence":0.977817}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.587909, "center_y":0.672220, "width":0.045953, "height":0.291936}, "confidence":0.998039}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.427254, "center_y":0.661367, "width":0.029957, "height":0.081947}, "confidence":0.929061}
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0063.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.330244, "center_y":0.486031, "width":0.661633, "height":0.834400}, "confidence":0.771785}
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0064.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.744783, "center_y":0.435843, "width":0.122596, "height":0.213386}, "confidence":0.921065}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.758128, "center_y":0.800384, "width":0.093749, "height":0.172027}, "confidence":0.886226}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.642368, "center_y":0.814591, "width":0.140013, "height":0.164975}, "confidence":0.818906}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.693453, "center_y":0.742212, "width":0.048360, "height":0.136448}, "confidence":0.338885}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.885678, "center_y":0.507206, "width":0.227405, "height":0.730485}, "confidence":0.351931}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.546242, "center_y":0.554013, "width":0.282542, "height":0.675827}, "confidence":0.969945}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.300449, "center_y":0.588517, "width":0.396941, "height":0.642802}, "confidence":0.976382}
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0065.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.763781, "center_y":0.804772, "width":0.078768, "height":0.197084}, "confidence":0.319762}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.918939, "center_y":0.498117, "width":0.162366, "height":0.835348}, "confidence":0.369494}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.460845, "center_y":0.509327, "width":0.581571, "height":0.820691}, "confidence":0.975716}
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0066.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.500059, "center_y":0.705859, "width":0.944516, "height":0.391514}, "confidence":0.522454}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.833963, "center_y":0.676602, "width":0.033369, "height":0.203738}, "confidence":0.904126}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.491343, "center_y":0.511845, "width":0.206838, "height":0.457885}, "confidence":0.985985}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.028158, "center_y":0.647612, "width":0.056405, "height":0.328654}, "confidence":0.984504}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.784531, "center_y":0.667592, "width":0.050782, "height":0.309035}, "confidence":0.989718}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.733408, "center_y":0.493575, "width":0.237854, "height":0.460253}, "confidence":0.936771}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.156085, "center_y":0.675085, "width":0.033323, "height":0.204912}, "confidence":0.809160}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.312304, "center_y":0.714956, "width":0.058093, "height":0.358969}, "confidence":0.995601}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.211705, "center_y":0.664278, "width":0.052046, "height":0.313115}, "confidence":0.995749}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.092229, "center_y":0.653186, "width":0.063548, "height":0.330753}, "confidence":0.909652}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.301407, "center_y":0.501038, "width":0.193409, "height":0.458607}, "confidence":0.968790}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.702851, "center_y":0.704572, "width":0.035956, "height":0.239461}, "confidence":0.932709}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.609811, "center_y":0.689247, "width":0.055005, "height":0.337941}, "confidence":0.997113}, 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.558403, "center_y":0.176955, "width":0.044446, "height":0.054374}, "confidence":0.389236}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.489547, "center_y":0.784622, "width":0.099321, "height":0.098748}, "confidence":0.887243}
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0067.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.458640, "center_y":0.530035, "width":0.329574, "height":0.735766}, "confidence":0.974499}
+ ] 
+}, 
+{
+ "frame_id":69, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0068.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.318865, "center_y":0.518321, "width":0.274010, "height":0.783761}, "confidence":0.979221}
+ ] 
+}, 
+{
+ "frame_id":70, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0069.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.457654, "center_y":0.377650, "width":0.102190, "height":0.485996}, "confidence":0.996426}
+ ] 
+}, 
+{
+ "frame_id":71, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0070.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.500801, "center_y":0.806451, "width":0.992470, "height":0.190169}, "confidence":0.381681}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.070199, "center_y":0.643516, "width":0.062985, "height":0.431436}, "confidence":0.956515}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.248376, "center_y":0.448373, "width":0.293237, "height":0.515573}, "confidence":0.988675}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.982742, "center_y":0.692663, "width":0.034270, "height":0.251262}, "confidence":0.949283}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.109584, "center_y":0.672768, "width":0.034848, "height":0.233537}, "confidence":0.964930}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.712658, "center_y":0.688978, "width":0.061781, "height":0.380218}, "confidence":0.994643}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.204660, "center_y":0.666505, "width":0.062313, "height":0.368211}, "confidence":0.994837}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.798984, "center_y":0.481368, "width":0.228593, "height":0.498931}, "confidence":0.924944}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.360667, "center_y":0.678429, "width":0.058155, "height":0.363732}, "confidence":0.995238}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.884094, "center_y":0.665141, "width":0.061781, "height":0.352767}, "confidence":0.997135}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.304587, "center_y":0.653442, "width":0.058631, "height":0.388714}, "confidence":0.980411}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.533688, "center_y":0.801852, "width":0.114099, "height":0.125210}, "confidence":0.949959}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.516019, "center_y":0.463928, "width":0.262494, "height":0.540257}, "confidence":0.941541}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.780695, "center_y":0.701706, "width":0.048406, "height":0.265157}, "confidence":0.993555}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.622768, "center_y":0.575115, "width":0.024888, "height":0.121286}, "confidence":0.365099}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.845783, "center_y":0.822110, "width":0.040159, "height":0.068277}, "confidence":0.750919}
+ ] 
+}, 
+{
+ "frame_id":72, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0071.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.595782, "center_y":0.566248, "width":0.577080, "height":0.655759}, "confidence":0.848382}
+ ] 
+}, 
+{
+ "frame_id":73, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0072.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.381576, "center_y":0.492617, "width":0.624594, "height":0.843102}, "confidence":0.974704}
+ ] 
+}, 
+{
+ "frame_id":74, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0073.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.510392, "center_y":0.751396, "width":1.004692, "height":0.293972}, "confidence":0.500902}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.162803, "center_y":0.715328, "width":0.031736, "height":0.205617}, "confidence":0.943061}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.484957, "center_y":0.549024, "width":0.179857, "height":0.435780}, "confidence":0.992281}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.806717, "center_y":0.706147, "width":0.051029, "height":0.288683}, "confidence":0.984118}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.702650, "center_y":0.571860, "width":0.189658, "height":0.401661}, "confidence":0.940492}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.326763, "center_y":0.697131, "width":0.047414, "height":0.324268}, "confidence":0.992719}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.245579, "center_y":0.703006, "width":0.047658, "height":0.306395}, "confidence":0.995531}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.129738, "center_y":0.673619, "width":0.056640, "height":0.392026}, "confidence":0.810051}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.724066, "center_y":0.740280, "width":0.040083, "height":0.221170}, "confidence":0.958523}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.256640, "center_y":0.536486, "width":0.263921, "height":0.443674}, "confidence":0.983894}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.890940, "center_y":0.727418, "width":0.037540, "height":0.203378}, "confidence":0.981579}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.374617, "center_y":0.721396, "width":0.047841, "height":0.322047}, "confidence":0.996384}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.665298, "center_y":0.724454, "width":0.052589, "height":0.304474}, "confidence":0.997544}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.517097, "center_y":0.820990, "width":0.096006, "height":0.106753}, "confidence":0.976288}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.774113, "center_y":0.836551, "width":0.032514, "height":0.052827}, "confidence":0.743990}
+ ] 
+}, 
+{
+ "frame_id":75, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0074.png", 
+ "objects": [ 
+  {"class_id":10, "name":"fire hydrant", "relative_coordinates":{"center_x":0.657975, "center_y":0.558589, "width":0.480812, "height":0.667829}, "confidence":0.901113}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.192622, "center_y":0.497229, "width":0.383570, "height":0.786349}, "confidence":0.954136}
+ ] 
+}, 
+{
+ "frame_id":76, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0075.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.497573, "center_y":0.829444, "width":0.887775, "height":0.124495}, "confidence":0.285454}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.469214, "center_y":0.690233, "width":0.325088, "height":0.223368}, "confidence":0.380701}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.042925, "center_y":0.459870, "width":0.087159, "height":0.752073}, "confidence":0.649221}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.454365, "center_y":0.436117, "width":0.762054, "height":0.739285}, "confidence":0.952945}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.884616, "center_y":0.307508, "width":0.233993, "height":0.415904}, "confidence":0.476954}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.924634, "center_y":0.459012, "width":0.150979, "height":0.723976}, "confidence":0.941080}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.475891, "center_y":0.500250, "width":0.085261, "height":0.154630}, "confidence":0.607078}
+ ] 
+}, 
+{
+ "frame_id":77, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0076.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.328795, "center_y":0.498358, "width":0.640547, "height":0.821169}, "confidence":0.962164}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.807504, "center_y":0.494368, "width":0.383999, "height":0.834659}, "confidence":0.952746}
+ ] 
+}, 
+{
+ "frame_id":78, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0077.png", 
+ "objects": [ 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.452312, "center_y":0.806211, "width":0.260105, "height":0.177988}, "confidence":0.950520}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.818165, "center_y":0.339570, "width":0.362236, "height":0.468975}, "confidence":0.457184}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.439245, "center_y":0.491106, "width":0.810282, "height":0.813324}, "confidence":0.980121}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.952989, "center_y":0.652544, "width":0.094490, "height":0.489287}, "confidence":0.261711}
+ ] 
+}, 
+{
+ "frame_id":79, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0078.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.445479, "center_y":0.507689, "width":0.252000, "height":0.717006}, "confidence":0.992732}
+ ] 
+}, 
+{
+ "frame_id":80, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0079.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.283560, "center_y":0.492466, "width":0.551326, "height":0.802850}, "confidence":0.934486}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.767730, "center_y":0.498038, "width":0.457208, "height":0.805734}, "confidence":0.887181}
+ ] 
+}, 
+{
+ "frame_id":81, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0080.png", 
+ "objects": [ 
+  {"class_id":69, "name":"oven", "relative_coordinates":{"center_x":0.091850, "center_y":0.461624, "width":0.179368, "height":0.258494}, "confidence":0.368398}, 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.479016, "center_y":0.625726, "width":0.307626, "height":0.541404}, "confidence":0.859314}
+ ] 
+}, 
+{
+ "frame_id":82, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0081.png", 
+ "objects": [ 
+  {"class_id":65, "name":"remote", "relative_coordinates":{"center_x":0.308230, "center_y":0.488658, "width":0.265653, "height":0.829623}, "confidence":0.357839}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.120236, "center_y":0.498953, "width":0.241236, "height":0.798453}, "confidence":0.776634}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.663401, "center_y":0.492349, "width":0.654797, "height":0.817882}, "confidence":0.951146}
+ ] 
+}, 
+{
+ "frame_id":83, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0082.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.379029, "center_y":0.542416, "width":0.361992, "height":0.719040}, "confidence":0.980689}
+ ] 
+}, 
+{
+ "frame_id":84, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0083.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.492536, "center_y":0.532205, "width":0.173005, "height":0.751371}, "confidence":0.996339}
+ ] 
+}, 
+{
+ "frame_id":85, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0084.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.344547, "center_y":0.533216, "width":0.600410, "height":0.753750}, "confidence":0.873879}
+ ] 
+}, 
+{
+ "frame_id":86, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0085.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.572913, "center_y":0.664818, "width":0.208290, "height":0.458135}, "confidence":0.435413}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.965286, "center_y":0.858598, "width":0.071885, "height":0.082161}, "confidence":0.425317}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.153808, "center_y":0.539688, "width":0.307408, "height":0.732572}, "confidence":0.962042}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.486961, "center_y":0.569038, "width":0.457843, "height":0.666304}, "confidence":0.923372}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.845747, "center_y":0.481684, "width":0.307856, "height":0.793407}, "confidence":0.994958}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.047295, "center_y":0.863338, "width":0.056618, "height":0.072046}, "confidence":0.366460}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.966321, "center_y":0.859067, "width":0.069490, "height":0.078782}, "confidence":0.357839}
+ ] 
+}, 
+{
+ "frame_id":87, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0086.png", 
+ "objects": [ 
+  {"class_id":63, "name":"laptop", "relative_coordinates":{"center_x":0.585621, "center_y":0.706975, "width":0.352464, "height":0.388089}, "confidence":0.433440}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.935359, "center_y":0.501013, "width":0.130169, "height":0.834377}, "confidence":0.709828}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.493269, "center_y":0.504133, "width":0.898641, "height":0.813627}, "confidence":0.960485}
+ ] 
+}, 
+{
+ "frame_id":88, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0087.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.461157, "center_y":0.519054, "width":0.240425, "height":0.698974}, "confidence":0.777914}
+ ] 
+}, 
+{
+ "frame_id":89, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0088.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.616752, "center_y":0.582030, "width":0.176065, "height":0.636540}, "confidence":0.970495}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.056943, "center_y":0.344695, "width":0.007062, "height":0.028310}, "confidence":0.509252}
+ ] 
+}, 
+{
+ "frame_id":90, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0089.png", 
+ "objects": [ 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.069142, "center_y":0.288676, "width":0.132761, "height":0.377082}, "confidence":0.342234}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.493596, "center_y":0.530992, "width":0.542844, "height":0.745088}, "confidence":0.945295}
+ ] 
+}, 
+{
+ "frame_id":91, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0090.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.488624, "center_y":0.570424, "width":0.266394, "height":0.688395}, "confidence":0.866682}
+ ] 
+}, 
+{
+ "frame_id":92, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0091.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.858436, "center_y":0.586897, "width":0.288670, "height":0.633477}, "confidence":0.840982}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.543452, "center_y":0.496025, "width":0.674544, "height":0.795681}, "confidence":0.428336}
+ ] 
+}, 
+{
+ "frame_id":93, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0092.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.492352, "center_y":0.503191, "width":0.900125, "height":0.847652}, "confidence":0.996281}
+ ] 
+}, 
+{
+ "frame_id":94, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0093.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.556975, "center_y":0.571571, "width":0.555642, "height":0.647317}, "confidence":0.761951}
+ ] 
+}, 
+{
+ "frame_id":95, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0094.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.505100, "center_y":0.537444, "width":0.173210, "height":0.613447}, "confidence":0.990036}
+ ] 
+}, 
+{
+ "frame_id":96, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0095.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.704151, "center_y":0.807967, "width":0.182680, "height":0.180995}, "confidence":0.953460}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.479139, "center_y":0.846653, "width":0.168069, "height":0.109380}, "confidence":0.809037}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.197795, "center_y":0.848252, "width":0.196376, "height":0.110649}, "confidence":0.756665}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.191339, "center_y":0.605128, "width":0.378960, "height":0.598098}, "confidence":0.923737}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.494160, "center_y":0.561549, "width":0.324773, "height":0.725169}, "confidence":0.962160}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.830913, "center_y":0.566326, "width":0.342818, "height":0.674701}, "confidence":0.976175}
+ ] 
+}, 
+{
+ "frame_id":97, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0096.png", 
+ "objects": [ 
+  {"class_id":65, "name":"remote", "relative_coordinates":{"center_x":0.238273, "center_y":0.678187, "width":0.181857, "height":0.428747}, "confidence":0.330980}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.394628, "center_y":0.506878, "width":0.522504, "height":0.775345}, "confidence":0.779765}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.900906, "center_y":0.596128, "width":0.195835, "height":0.601419}, "confidence":0.791982}
+ ] 
+}, 
+{
+ "frame_id":98, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0097.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.204757, "center_y":0.513418, "width":0.047928, "height":0.137294}, "confidence":0.464093}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.825381, "center_y":0.491766, "width":0.351185, "height":0.829944}, "confidence":0.698766}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.292908, "center_y":0.518819, "width":0.573181, "height":0.732445}, "confidence":0.954407}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.778093, "center_y":0.702794, "width":0.053650, "height":0.382032}, "confidence":0.397190}
+ ] 
+}, 
+{
+ "frame_id":99, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0098.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.470143, "center_y":0.519589, "width":0.180751, "height":0.785945}, "confidence":0.989965}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.178324, "center_y":0.307707, "width":0.009066, "height":0.021691}, "confidence":0.364782}
+ ] 
+}, 
+{
+ "frame_id":100, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0099.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.271659, "center_y":0.511676, "width":0.542517, "height":0.730430}, "confidence":0.979571}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.796133, "center_y":0.497437, "width":0.404202, "height":0.821665}, "confidence":0.910868}
+ ] 
+}, 
+{
+ "frame_id":101, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0100.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.218962, "center_y":0.497763, "width":0.445245, "height":0.798589}, "confidence":0.955275}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.776812, "center_y":0.514388, "width":0.453531, "height":0.774558}, "confidence":0.948400}
+ ] 
+}, 
+{
+ "frame_id":102, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0101.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.275720, "center_y":0.507169, "width":0.579237, "height":0.757230}, "confidence":0.989168}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.802014, "center_y":0.498512, "width":0.396600, "height":0.805338}, "confidence":0.901271}
+ ] 
+}, 
+{
+ "frame_id":103, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0102.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.748491, "center_y":0.508434, "width":0.489082, "height":0.791318}, "confidence":0.928948}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.337773, "center_y":0.544315, "width":0.271497, "height":0.713592}, "confidence":0.714592}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.041438, "center_y":0.486920, "width":0.082412, "height":0.764086}, "confidence":0.399688}
+ ] 
+}, 
+{
+ "frame_id":104, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0103.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.450744, "center_y":0.495498, "width":0.736487, "height":0.825776}, "confidence":0.968503}
+ ] 
+}, 
+{
+ "frame_id":105, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0104.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.387176, "center_y":0.550375, "width":0.477394, "height":0.692948}, "confidence":0.987903}
+ ] 
+}, 
+{
+ "frame_id":106, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0105.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.498529, "center_y":0.510547, "width":0.940521, "height":0.811932}, "confidence":0.925974}
+ ] 
+}, 
+{
+ "frame_id":107, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0106.png", 
+ "objects": [ 
+  {"class_id":65, "name":"remote", "relative_coordinates":{"center_x":0.600682, "center_y":0.823632, "width":0.089632, "height":0.157963}, "confidence":0.340893}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.444051, "center_y":0.496826, "width":0.525757, "height":0.827174}, "confidence":0.889314}
+ ] 
+}, 
+{
+ "frame_id":108, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0107.png", 
+ "objects": [ 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.136566, "center_y":0.507382, "width":0.268463, "height":0.840309}, "confidence":0.351793}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.499949, "center_y":0.497295, "width":0.749938, "height":0.794924}, "confidence":0.982841}
+ ] 
+}, 
+{
+ "frame_id":109, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0108.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.280329, "center_y":0.508921, "width":0.585306, "height":0.745667}, "confidence":0.884020}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.398766, "center_y":0.342425, "width":0.091475, "height":0.390062}, "confidence":0.288559}
+ ] 
+}, 
+{
+ "frame_id":110, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0109.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.505503, "center_y":0.497037, "width":0.633025, "height":0.809254}, "confidence":0.913639}
+ ] 
+}, 
+{
+ "frame_id":111, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0110.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.599247, "center_y":0.497831, "width":0.605116, "height":0.825797}, "confidence":0.872921}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.123390, "center_y":0.499251, "width":0.250544, "height":0.808833}, "confidence":0.499682}
+ ] 
+}, 
+{
+ "frame_id":112, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0111.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.709215, "center_y":0.559775, "width":0.563403, "height":0.698032}, "confidence":0.908418}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.133306, "center_y":0.497648, "width":0.270786, "height":0.816037}, "confidence":0.460652}
+ ] 
+}, 
+{
+ "frame_id":113, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0112.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.272457, "center_y":0.513402, "width":0.536777, "height":0.803435}, "confidence":0.976049}
+ ] 
+}, 
+{
+ "frame_id":114, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0113.png", 
+ "objects": [ 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.037696, "center_y":0.769879, "width":0.076371, "height":0.251282}, "confidence":0.407338}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.711213, "center_y":0.501312, "width":0.591135, "height":0.817575}, "confidence":0.955812}
+ ] 
+}, 
+{
+ "frame_id":115, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0114.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.187343, "center_y":0.494247, "width":0.378561, "height":0.824588}, "confidence":0.983448}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.616953, "center_y":0.533158, "width":0.705348, "height":0.763826}, "confidence":0.943040}
+ ] 
+}, 
+{
+ "frame_id":116, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0115.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.438321, "center_y":0.514081, "width":0.498667, "height":0.797457}, "confidence":0.961493}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.700284, "center_y":0.506257, "width":0.260760, "height":0.819662}, "confidence":0.317114}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.516903, "center_y":0.326710, "width":0.096966, "height":0.429538}, "confidence":0.274228}
+ ] 
+}, 
+{
+ "frame_id":117, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0116.png", 
+ "objects": [ 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.921099, "center_y":0.771714, "width":0.141695, "height":0.244066}, "confidence":0.642640}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.120453, "center_y":0.847310, "width":0.245722, "height":0.105292}, "confidence":0.623782}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.392634, "center_y":0.564452, "width":0.247873, "height":0.653870}, "confidence":0.973510}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.761801, "center_y":0.543182, "width":0.470937, "height":0.732876}, "confidence":0.990628}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.138768, "center_y":0.543042, "width":0.287590, "height":0.720446}, "confidence":0.994648}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.828250, "center_y":0.721950, "width":0.084023, "height":0.171957}, "confidence":0.715220}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.453893, "center_y":0.763439, "width":0.291688, "height":0.266390}, "confidence":0.595352}
+ ] 
+}, 
+{
+ "frame_id":118, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0117.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.429138, "center_y":0.517643, "width":0.481599, "height":0.823651}, "confidence":0.894664}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.275173, "center_y":0.379732, "width":0.090699, "height":0.395642}, "confidence":0.372825}
+ ] 
+}, 
+{
+ "frame_id":119, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0118.png", 
+ "objects": [ 
+  {"class_id":65, "name":"remote", "relative_coordinates":{"center_x":0.449269, "center_y":0.750645, "width":0.088602, "height":0.260464}, "confidence":0.267849}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.335347, "center_y":0.550077, "width":0.471650, "height":0.714256}, "confidence":0.920427}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.035199, "center_y":0.511179, "width":0.072195, "height":0.757141}, "confidence":0.331886}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.766183, "center_y":0.522431, "width":0.469910, "height":0.737685}, "confidence":0.987241}
+ ] 
+}, 
+{
+ "frame_id":120, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0119.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.663734, "center_y":0.492952, "width":0.643111, "height":0.866279}, "confidence":0.727742}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.249686, "center_y":0.565149, "width":0.493743, "height":0.653949}, "confidence":0.542883}
+ ] 
+}, 
+{
+ "frame_id":121, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0120.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.393145, "center_y":0.541344, "width":0.474209, "height":0.717910}, "confidence":0.575821}
+ ] 
+}, 
+{
+ "frame_id":122, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0121.png", 
+ "objects": [ 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.339151, "center_y":0.250365, "width":0.109300, "height":0.224567}, "confidence":0.670779}, 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.722735, "center_y":0.850409, "width":0.171127, "height":0.105189}, "confidence":0.283410}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.223310, "center_y":0.843378, "width":0.211369, "height":0.113690}, "confidence":0.331306}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.295753, "center_y":0.704951, "width":0.060574, "height":0.157486}, "confidence":0.302468}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.451404, "center_y":0.769265, "width":0.207168, "height":0.251712}, "confidence":0.478230}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.722687, "center_y":0.849467, "width":0.180902, "height":0.100386}, "confidence":0.634882}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.465169, "center_y":0.554762, "width":0.273112, "height":0.569295}, "confidence":0.968046}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.137622, "center_y":0.587548, "width":0.287965, "height":0.620727}, "confidence":0.968358}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.819703, "center_y":0.555328, "width":0.366191, "height":0.682944}, "confidence":0.987737}
+ ] 
+}, 
+{
+ "frame_id":123, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0122.png", 
+ "objects": [ 
+  {"class_id":79, "name":"toothbrush", "relative_coordinates":{"center_x":0.184038, "center_y":0.492825, "width":0.295293, "height":0.791522}, "confidence":0.453748}, 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.891347, "center_y":0.175553, "width":0.215135, "height":0.145048}, "confidence":0.657070}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.548535, "center_y":0.503367, "width":0.668066, "height":0.794050}, "confidence":0.959796}
+ ] 
+}, 
+{
+ "frame_id":124, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0123.png", 
+ "objects": [ 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.179839, "center_y":0.747715, "width":0.085801, "height":0.297526}, "confidence":0.845190}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.615241, "center_y":0.509554, "width":0.787397, "height":0.834560}, "confidence":0.915919}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.201084, "center_y":0.492577, "width":0.412095, "height":0.792464}, "confidence":0.990333}
+ ] 
+}, 
+{
+ "frame_id":125, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0124.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.385697, "center_y":0.498793, "width":0.650887, "height":0.847571}, "confidence":0.979850}
+ ] 
+}, 
+{
+ "frame_id":126, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0125.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.730284, "center_y":0.497474, "width":0.539246, "height":0.817008}, "confidence":0.969877}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.268635, "center_y":0.515381, "width":0.521605, "height":0.736832}, "confidence":0.948373}
+ ] 
+}, 
+{
+ "frame_id":127, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0126.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.237202, "center_y":0.608326, "width":0.465857, "height":0.594486}, "confidence":0.719872}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.819420, "center_y":0.559045, "width":0.339585, "height":0.708771}, "confidence":0.666122}
+ ] 
+}, 
+{
+ "frame_id":128, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0127.png", 
+ "objects": [ 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.783366, "center_y":0.195925, "width":0.322869, "height":0.187671}, "confidence":0.258408}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.886503, "center_y":0.599455, "width":0.223056, "height":0.614624}, "confidence":0.738568}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.075365, "center_y":0.589341, "width":0.153530, "height":0.628321}, "confidence":0.614021}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.446550, "center_y":0.554880, "width":0.628732, "height":0.727229}, "confidence":0.963221}
+ ] 
+}, 
+{
+ "frame_id":129, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0128.png", 
+ "objects": [ 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.650510, "center_y":0.718321, "width":0.145619, "height":0.222303}, "confidence":0.386608}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.513461, "center_y":0.810858, "width":0.227833, "height":0.169407}, "confidence":0.273120}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.613913, "center_y":0.537283, "width":0.604599, "height":0.772166}, "confidence":0.528223}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.444810, "center_y":0.549169, "width":0.191046, "height":0.327627}, "confidence":0.317211}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.444724, "center_y":0.548224, "width":0.193565, "height":0.332432}, "confidence":0.506554}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.573469, "center_y":0.500355, "width":0.147640, "height":0.293250}, "confidence":0.552184}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.193976, "center_y":0.512499, "width":0.340894, "height":0.699677}, "confidence":0.695490}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.221092, "center_y":0.796775, "width":0.339978, "height":0.199254}, "confidence":0.324767}
+ ] 
+}, 
+{
+ "frame_id":130, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0129.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.448406, "center_y":0.517822, "width":0.620233, "height":0.758051}, "confidence":0.856801}
+ ] 
+}, 
+{
+ "frame_id":131, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0130.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.441477, "center_y":0.495283, "width":0.234792, "height":0.752368}, "confidence":0.270938}
+ ] 
+}, 
+{
+ "frame_id":132, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0131.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.444034, "center_y":0.519958, "width":0.643798, "height":0.800185}, "confidence":0.812549}
+ ] 
+}, 
+{
+ "frame_id":133, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0132.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.448964, "center_y":0.510987, "width":0.617490, "height":0.819529}, "confidence":0.855368}
+ ] 
+}, 
+{
+ "frame_id":134, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0133.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":135, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0134.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.456145, "center_y":0.518921, "width":0.674388, "height":0.741623}, "confidence":0.540822}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.499127, "center_y":0.518969, "width":0.660832, "height":0.800224}, "confidence":0.745778}
+ ] 
+}, 
+{
+ "frame_id":136, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0135.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.501433, "center_y":0.519363, "width":0.822722, "height":0.780507}, "confidence":0.872945}
+ ] 
+}, 
+{
+ "frame_id":137, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0136.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":138, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0137.png", 
+ "objects": [ 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.126842, "center_y":0.833638, "width":0.128763, "height":0.124467}, "confidence":0.822970}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.809856, "center_y":0.501193, "width":0.376389, "height":0.810405}, "confidence":0.911138}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.287392, "center_y":0.493425, "width":0.561772, "height":0.815217}, "confidence":0.991022}
+ ] 
+}, 
+{
+ "frame_id":139, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0138.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.275673, "center_y":0.501158, "width":0.574897, "height":0.818365}, "confidence":0.884539}
+ ] 
+}, 
+{
+ "frame_id":140, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0139.png", 
+ "objects": [ 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.916890, "center_y":0.846155, "width":0.043797, "height":0.103751}, "confidence":0.267827}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.453781, "center_y":0.499930, "width":0.528676, "height":0.801085}, "confidence":0.720314}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.852524, "center_y":0.496919, "width":0.295699, "height":0.804121}, "confidence":0.970044}
+ ] 
+}, 
+{
+ "frame_id":141, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0140.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.221572, "center_y":0.546531, "width":0.226806, "height":0.724458}, "confidence":0.988522}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.649932, "center_y":0.553337, "width":0.150690, "height":0.697691}, "confidence":0.963401}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.536542, "center_y":0.545163, "width":0.144460, "height":0.752296}, "confidence":0.832136}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.392524, "center_y":0.544685, "width":0.213956, "height":0.748961}, "confidence":0.688300}
+ ] 
+}, 
+{
+ "frame_id":142, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0141.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.276264, "center_y":0.433286, "width":0.028265, "height":0.092148}, "confidence":0.403179}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.114067, "center_y":0.377991, "width":0.015265, "height":0.056980}, "confidence":0.972776}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.786453, "center_y":0.505010, "width":0.011549, "height":0.041104}, "confidence":0.952229}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.498657, "center_y":0.345859, "width":0.080718, "height":0.041763}, "confidence":0.847180}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.257812, "center_y":0.403533, "width":0.035385, "height":0.146238}, "confidence":0.489762}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.228658, "center_y":0.594138, "width":0.129606, "height":0.608906}, "confidence":0.991315}
+ ] 
+}, 
+{
+ "frame_id":143, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0142.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.205079, "center_y":0.384539, "width":0.015302, "height":0.041504}, "confidence":0.584427}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.244953, "center_y":0.412565, "width":0.031509, "height":0.089380}, "confidence":0.435797}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.219080, "center_y":0.398599, "width":0.018072, "height":0.038173}, "confidence":0.413655}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.229167, "center_y":0.390409, "width":0.027916, "height":0.051506}, "confidence":0.335817}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.192200, "center_y":0.370442, "width":0.013120, "height":0.027819}, "confidence":0.334503}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.188643, "center_y":0.365068, "width":0.011075, "height":0.028064}, "confidence":0.352858}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.089938, "center_y":0.374292, "width":0.015080, "height":0.062227}, "confidence":0.954911}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.773292, "center_y":0.506466, "width":0.009575, "height":0.040977}, "confidence":0.820796}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.477997, "center_y":0.344377, "width":0.085215, "height":0.041438}, "confidence":0.676706}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.245698, "center_y":0.649288, "width":0.159906, "height":0.502428}, "confidence":0.993010}
+ ] 
+}, 
+{
+ "frame_id":144, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0143.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.496130, "center_y":0.500362, "width":0.679063, "height":0.820141}, "confidence":0.947765}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.904395, "center_y":0.511268, "width":0.188737, "height":0.825458}, "confidence":0.820941}
+ ] 
+}, 
+{
+ "frame_id":145, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0144.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.611331, "center_y":0.808529, "width":0.116515, "height":0.183850}, "confidence":0.846888}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.494896, "center_y":0.586541, "width":0.295208, "height":0.635652}, "confidence":0.891601}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.846276, "center_y":0.696750, "width":0.313948, "height":0.409686}, "confidence":0.920510}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.329239, "center_y":0.720049, "width":0.115033, "height":0.343017}, "confidence":0.986193}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.273273, "center_y":0.675026, "width":0.109822, "height":0.439248}, "confidence":0.988212}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.194906, "center_y":0.437579, "width":0.320458, "height":0.617689}, "confidence":0.954396}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.142391, "center_y":0.644481, "width":0.097804, "height":0.409392}, "confidence":0.995219}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.032591, "center_y":0.591394, "width":0.067654, "height":0.326165}, "confidence":0.552050}
+ ] 
+}, 
+{
+ "frame_id":146, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0145.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.811444, "center_y":0.640880, "width":0.211437, "height":0.503894}, "confidence":0.312910}
+ ] 
+}, 
+{
+ "frame_id":147, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0146.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.551930, "center_y":0.495821, "width":0.651616, "height":0.849486}, "confidence":0.954556}
+ ] 
+}, 
+{
+ "frame_id":148, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0147.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.302925, "center_y":0.510995, "width":0.532201, "height":0.792603}, "confidence":0.929993}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.820610, "center_y":0.496211, "width":0.358978, "height":0.835997}, "confidence":0.868032}
+ ] 
+}, 
+{
+ "frame_id":149, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0148.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.768573, "center_y":0.710137, "width":0.464166, "height":0.376918}, "confidence":0.360652}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.892013, "center_y":0.646877, "width":0.048413, "height":0.273131}, "confidence":0.908846}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.717151, "center_y":0.798787, "width":0.067253, "height":0.207697}, "confidence":0.905773}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.809590, "center_y":0.765667, "width":0.068200, "height":0.252763}, "confidence":0.821077}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.563764, "center_y":0.858447, "width":0.076010, "height":0.083517}, "confidence":0.500090}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.331366, "center_y":0.509064, "width":0.365331, "height":0.800142}, "confidence":0.660420}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.949547, "center_y":0.689460, "width":0.053879, "height":0.316396}, "confidence":0.994266}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.128428, "center_y":0.556237, "width":0.254706, "height":0.695562}, "confidence":0.765524}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.872054, "center_y":0.831285, "width":0.082939, "height":0.125308}, "confidence":0.565266}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.745718, "center_y":0.547842, "width":0.294149, "height":0.505262}, "confidence":0.992980}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.621909, "center_y":0.673653, "width":0.077898, "height":0.249207}, "confidence":0.862749}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.409426, "center_y":0.691952, "width":0.205318, "height":0.409460}, "confidence":0.266777}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.544778, "center_y":0.848341, "width":0.050518, "height":0.093381}, "confidence":0.352295}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.544778, "center_y":0.848341, "width":0.050518, "height":0.093381}, "confidence":0.297987}
+ ] 
+}, 
+{
+ "frame_id":150, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0149.png", 
+ "objects": [ 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.501788, "center_y":0.448442, "width":0.234021, "height":0.434325}, "confidence":0.363650}
+ ] 
+}, 
+{
+ "frame_id":151, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0150.png", 
+ "objects": [ 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.369434, "center_y":0.194890, "width":0.108813, "height":0.188712}, "confidence":0.845695}, 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.243706, "center_y":0.172538, "width":0.170631, "height":0.147810}, "confidence":0.455381}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.279491, "center_y":0.398830, "width":0.106000, "height":0.209055}, "confidence":0.523007}, 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.279491, "center_y":0.398830, "width":0.106000, "height":0.209055}, "confidence":0.410970}, 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.053825, "center_y":0.387234, "width":0.109016, "height":0.281529}, "confidence":0.306248}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.609793, "center_y":0.531857, "width":0.370565, "height":0.752770}, "confidence":0.677846}
+ ] 
+}, 
+{
+ "frame_id":152, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0151.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":153, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0152.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.195182, "center_y":0.499121, "width":0.388048, "height":0.817791}, "confidence":0.963650}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.673585, "center_y":0.496341, "width":0.633740, "height":0.819958}, "confidence":0.951914}
+ ] 
+}, 
+{
+ "frame_id":154, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0153.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.643413, "center_y":0.773077, "width":0.103884, "height":0.236046}, "confidence":0.472516}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.356487, "center_y":0.828796, "width":0.063252, "height":0.141436}, "confidence":0.840379}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.278326, "center_y":0.825484, "width":0.094188, "height":0.146404}, "confidence":0.839572}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.964679, "center_y":0.670803, "width":0.073069, "height":0.401115}, "confidence":0.663620}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.864268, "center_y":0.444614, "width":0.269315, "height":0.690736}, "confidence":0.908160}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.217689, "center_y":0.613259, "width":0.422984, "height":0.575218}, "confidence":0.799047}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.544977, "center_y":0.560358, "width":0.330392, "height":0.677866}, "confidence":0.992798}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.852983, "center_y":0.745727, "width":0.079915, "height":0.296552}, "confidence":0.982175}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.959966, "center_y":0.866860, "width":0.057380, "height":0.063704}, "confidence":0.648505}, 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.433604, "center_y":0.174712, "width":0.152046, "height":0.147429}, "confidence":0.411516}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.777851, "center_y":0.729482, "width":0.097194, "height":0.338295}, "confidence":0.967604}, 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.594504, "center_y":0.165310, "width":0.162610, "height":0.125091}, "confidence":0.650514}
+ ] 
+}, 
+{
+ "frame_id":155, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0154.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.480600, "center_y":0.749546, "width":0.115463, "height":0.308217}, "confidence":0.533799}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.287012, "center_y":0.622553, "width":0.302422, "height":0.560481}, "confidence":0.460415}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.092011, "center_y":0.746107, "width":0.184102, "height":0.308779}, "confidence":0.411971}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.607351, "center_y":0.675856, "width":0.163677, "height":0.444233}, "confidence":0.384374}
+ ] 
+}, 
+{
+ "frame_id":156, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0155.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.189318, "center_y":0.862496, "width":0.112682, "height":0.072084}, "confidence":0.416846}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.079475, "center_y":0.734355, "width":0.160375, "height":0.308197}, "confidence":0.345467}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.532714, "center_y":0.677047, "width":0.109864, "height":0.433087}, "confidence":0.433350}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.705965, "center_y":0.573001, "width":0.297988, "height":0.677162}, "confidence":0.809658}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.331908, "center_y":0.498714, "width":0.446632, "height":0.857872}, "confidence":0.910328}
+ ] 
+}, 
+{
+ "frame_id":157, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0156.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.230832, "center_y":0.569925, "width":0.371001, "height":0.671052}, "confidence":0.747831}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.880761, "center_y":0.502565, "width":0.244247, "height":0.740033}, "confidence":0.284734}
+ ] 
+}, 
+{
+ "frame_id":158, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0157.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.512884, "center_y":0.557635, "width":0.331576, "height":0.689761}, "confidence":0.875826}
+ ] 
+}, 
+{
+ "frame_id":159, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0158.png", 
+ "objects": [ 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.942949, "center_y":0.748826, "width":0.109906, "height":0.258346}, "confidence":0.343849}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.844451, "center_y":0.334470, "width":0.261298, "height":0.459120}, "confidence":0.859642}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.437288, "center_y":0.830059, "width":0.197006, "height":0.131331}, "confidence":0.499680}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.802758, "center_y":0.799201, "width":0.152233, "height":0.196859}, "confidence":0.354197}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.417955, "center_y":0.488423, "width":0.194723, "height":0.388820}, "confidence":0.299976}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.417955, "center_y":0.488423, "width":0.194723, "height":0.388820}, "confidence":0.898259}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.462171, "center_y":0.593262, "width":0.584956, "height":0.612743}, "confidence":0.922577}
+ ] 
+}, 
+{
+ "frame_id":160, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0159.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.776913, "center_y":0.654444, "width":0.350947, "height":0.485548}, "confidence":0.318099}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.383136, "center_y":0.490290, "width":0.546578, "height":0.850148}, "confidence":0.978653}
+ ] 
+}, 
+{
+ "frame_id":161, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0160.png", 
+ "objects": [ 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.508349, "center_y":0.661896, "width":0.167004, "height":0.234975}, "confidence":0.707416}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.457555, "center_y":0.548166, "width":0.277247, "height":0.714595}, "confidence":0.835576}
+ ] 
+}, 
+{
+ "frame_id":162, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0161.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.765605, "center_y":0.582164, "width":0.479031, "height":0.636183}, "confidence":0.949952}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.405006, "center_y":0.576092, "width":0.355878, "height":0.635760}, "confidence":0.799445}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.182494, "center_y":0.622953, "width":0.363228, "height":0.547948}, "confidence":0.632327}
+ ] 
+}, 
+{
+ "frame_id":163, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0162.png", 
+ "objects": [ 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.746375, "center_y":0.776424, "width":0.114655, "height":0.222258}, "confidence":0.749999}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.707267, "center_y":0.599418, "width":0.084802, "height":0.121700}, "confidence":0.538087}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.768120, "center_y":0.638374, "width":0.072038, "height":0.127004}, "confidence":0.503447}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.730802, "center_y":0.871420, "width":0.169246, "height":0.054720}, "confidence":0.267988}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.888865, "center_y":0.489820, "width":0.221002, "height":0.829397}, "confidence":0.388931}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.094175, "center_y":0.508492, "width":0.192726, "height":0.807466}, "confidence":0.698845}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.481263, "center_y":0.520349, "width":0.488324, "height":0.761986}, "confidence":0.942206}
+ ] 
+}, 
+{
+ "frame_id":164, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0163.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.493559, "center_y":0.859358, "width":0.148857, "height":0.079689}, "confidence":0.952352}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.790894, "center_y":0.593413, "width":0.114756, "height":0.225672}, "confidence":0.614770}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.920988, "center_y":0.496967, "width":0.158733, "height":0.835635}, "confidence":0.472985}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.121626, "center_y":0.551738, "width":0.248171, "height":0.702493}, "confidence":0.888757}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.491850, "center_y":0.538733, "width":0.588425, "height":0.725156}, "confidence":0.943104}
+ ] 
+}, 
+{
+ "frame_id":165, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0164.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.608921, "center_y":0.496867, "width":0.695486, "height":0.840325}, "confidence":0.403278}
+ ] 
+}, 
+{
+ "frame_id":166, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0165.png", 
+ "objects": [ 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.806580, "center_y":0.436101, "width":0.097143, "height":0.192340}, "confidence":0.653662}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.875627, "center_y":0.837318, "width":0.170237, "height":0.125614}, "confidence":0.506400}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.719678, "center_y":0.854515, "width":0.206043, "height":0.094494}, "confidence":0.641200}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.400665, "center_y":0.362046, "width":0.126703, "height":0.255779}, "confidence":0.454221}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.657313, "center_y":0.670887, "width":0.112859, "height":0.312910}, "confidence":0.317009}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.160223, "center_y":0.558683, "width":0.309767, "height":0.702470}, "confidence":0.977861}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.879544, "center_y":0.485496, "width":0.244462, "height":0.802699}, "confidence":0.962129}, 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.401572, "center_y":0.361593, "width":0.119824, "height":0.242229}, "confidence":0.320594}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.744177, "center_y":0.648849, "width":0.114122, "height":0.236381}, "confidence":0.741072}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.482601, "center_y":0.587857, "width":0.327374, "height":0.638481}, "confidence":0.978486}, 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.469565, "center_y":0.878382, "width":0.060021, "height":0.040900}, "confidence":0.413112}
+ ] 
+}, 
+{
+ "frame_id":167, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0166.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.501488, "center_y":0.570715, "width":0.260340, "height":0.703731}, "confidence":0.906538}
+ ] 
+}, 
+{
+ "frame_id":168, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0167.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.487592, "center_y":0.752611, "width":0.879556, "height":0.281562}, "confidence":0.319472}, 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.471515, "center_y":0.176431, "width":0.082045, "height":0.147165}, "confidence":0.348954}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.988124, "center_y":0.812156, "width":0.025309, "height":0.173806}, "confidence":0.742560}, 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.418552, "center_y":0.145205, "width":0.102733, "height":0.086014}, "confidence":0.397136}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.583693, "center_y":0.718530, "width":0.036978, "height":0.284860}, "confidence":0.985300}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.227470, "center_y":0.747150, "width":0.051829, "height":0.274478}, "confidence":0.931779}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.544330, "center_y":0.741912, "width":0.050631, "height":0.310398}, "confidence":0.993769}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.017182, "center_y":0.695371, "width":0.036640, "height":0.287094}, "confidence":0.960456}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.641820, "center_y":0.569805, "width":0.187843, "height":0.366748}, "confidence":0.959093}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.768407, "center_y":0.705422, "width":0.032717, "height":0.172668}, "confidence":0.872747}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.300507, "center_y":0.718734, "width":0.041313, "height":0.302462}, "confidence":0.996862}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.179721, "center_y":0.707286, "width":0.044638, "height":0.281880}, "confidence":0.968395}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.441799, "center_y":0.565517, "width":0.160591, "height":0.408048}, "confidence":0.984292}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.621972, "center_y":0.757336, "width":0.036216, "height":0.213013}, "confidence":0.939408}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.268392, "center_y":0.566673, "width":0.164930, "height":0.392321}, "confidence":0.984491}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.433134, "center_y":0.813648, "width":0.088201, "height":0.098019}, "confidence":0.864225}, 
+  {"class_id":49, "name":"orange", "relative_coordinates":{"center_x":0.342463, "center_y":0.160597, "width":0.094555, "height":0.113999}, "confidence":0.838715}
+ ] 
+}, 
+{
+ "frame_id":169, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0168.png", 
+ "objects": [ 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.389273, "center_y":0.624803, "width":0.145012, "height":0.123440}, "confidence":0.286967}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.087361, "center_y":0.606810, "width":0.171540, "height":0.584710}, "confidence":0.755666}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.441032, "center_y":0.564398, "width":0.521074, "height":0.645872}, "confidence":0.946098}
+ ] 
+}, 
+{
+ "frame_id":170, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0169.png", 
+ "objects": [ 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.745816, "center_y":0.784077, "width":0.046508, "height":0.218148}, "confidence":0.917520}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.207158, "center_y":0.727576, "width":0.078618, "height":0.360408}, "confidence":0.845934}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.639450, "center_y":0.732510, "width":0.056118, "height":0.328546}, "confidence":0.893037}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.880716, "center_y":0.614981, "width":0.042650, "height":0.229402}, "confidence":0.334202}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.489990, "center_y":0.565057, "width":0.216136, "height":0.535190}, "confidence":0.972459}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.306177, "center_y":0.749576, "width":0.059120, "height":0.310009}, "confidence":0.961604}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.692879, "center_y":0.740165, "width":0.053953, "height":0.332554}, "confidence":0.975909}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.821598, "center_y":0.588804, "width":0.242018, "height":0.500176}, "confidence":0.956390}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.277598, "center_y":0.555360, "width":0.200307, "height":0.547011}, "confidence":0.621980}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.143932, "center_y":0.728298, "width":0.061570, "height":0.349576}, "confidence":0.976848}
+ ] 
+}, 
+{
+ "frame_id":171, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0170.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.754028, "center_y":0.614938, "width":0.498929, "height":0.543067}, "confidence":0.526181}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.096876, "center_y":0.285586, "width":0.015567, "height":0.068005}, "confidence":0.531236}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.089476, "center_y":0.293239, "width":0.017689, "height":0.064918}, "confidence":0.446330}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.137068, "center_y":0.278410, "width":0.008571, "height":0.030071}, "confidence":0.283223}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.461153, "center_y":0.574277, "width":0.156523, "height":0.676041}, "confidence":0.962002}
+ ] 
+}, 
+{
+ "frame_id":172, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0171.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.049542, "center_y":0.785451, "width":0.099802, "height":0.225309}, "confidence":0.450008}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.767183, "center_y":0.487129, "width":0.404467, "height":0.831883}, "confidence":0.419948}
+ ] 
+}, 
+{
+ "frame_id":173, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0172.png", 
+ "objects": [ 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.336356, "center_y":0.852236, "width":0.049969, "height":0.092874}, "confidence":0.525066}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.030801, "center_y":0.792583, "width":0.065624, "height":0.214189}, "confidence":0.375133}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.101572, "center_y":0.832576, "width":0.059450, "height":0.136051}, "confidence":0.294731}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.861715, "center_y":0.561411, "width":0.273852, "height":0.688390}, "confidence":0.975091}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.601234, "center_y":0.510941, "width":0.413235, "height":0.794019}, "confidence":0.978892}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.197188, "center_y":0.542612, "width":0.381982, "height":0.726218}, "confidence":0.993324}
+ ] 
+}, 
+{
+ "frame_id":174, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0173.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.448111, "center_y":0.504333, "width":0.717154, "height":0.789580}, "confidence":0.962720}
+ ] 
+}, 
+{
+ "frame_id":175, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0174.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.663383, "center_y":0.493373, "width":0.640467, "height":0.873843}, "confidence":0.258483}
+ ] 
+}, 
+{
+ "frame_id":176, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0175.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.497171, "center_y":0.750013, "width":0.915030, "height":0.284742}, "confidence":0.533382}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.272453, "center_y":0.749319, "width":0.052053, "height":0.240670}, "confidence":0.665090}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.768170, "center_y":0.599186, "width":0.030083, "height":0.164573}, "confidence":0.637894}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.483615, "center_y":0.569273, "width":0.160593, "height":0.400191}, "confidence":0.980073}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.343489, "center_y":0.563899, "width":0.198766, "height":0.402181}, "confidence":0.922651}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.721570, "center_y":0.592960, "width":0.164706, "height":0.371335}, "confidence":0.953723}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.630517, "center_y":0.719059, "width":0.036356, "height":0.289665}, "confidence":0.953349}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.590669, "center_y":0.741267, "width":0.051470, "height":0.324770}, "confidence":0.989466}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.672260, "center_y":0.757312, "width":0.035512, "height":0.207626}, "confidence":0.879285}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.225473, "center_y":0.696668, "width":0.049304, "height":0.271333}, "confidence":0.990946}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.346441, "center_y":0.714707, "width":0.047098, "height":0.282688}, "confidence":0.991267}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.060671, "center_y":0.678993, "width":0.047698, "height":0.295123}, "confidence":0.992740}, 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.477929, "center_y":0.811286, "width":0.088204, "height":0.100150}, "confidence":0.746545}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.727221, "center_y":0.846146, "width":0.032889, "height":0.062521}, "confidence":0.444265}
+ ] 
+}, 
+{
+ "frame_id":177, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0176.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.497120, "center_y":0.559685, "width":0.346837, "height":0.910616}, "confidence":0.993747}
+ ] 
+}, 
+{
+ "frame_id":178, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Congratulations\\0177.png", 
+ "objects": [ 
+  {"class_id":72, "name":"refrigerator", "relative_coordinates":{"center_x":0.497954, "center_y":0.486744, "width":0.891170, "height":0.935829}, "confidence":0.340879}
+ ] 
+}
+]

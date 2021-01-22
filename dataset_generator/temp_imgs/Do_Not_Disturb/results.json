@@ -1,0 +1,159 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0000.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.429129, "center_y":0.522296, "width":0.157088, "height":0.075273}, "confidence":0.421010}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.042272, "center_y":0.462944, "width":0.037328, "height":0.019116}, "confidence":0.518226}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.667029, "center_y":0.650733, "width":0.098817, "height":0.426865}, "confidence":0.991678}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0001.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.773999, "center_y":0.495281, "width":0.428020, "height":0.742925}, "confidence":0.607625}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0002.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.848554, "center_y":0.455864, "width":0.302579, "height":0.299838}, "confidence":0.991439}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.887977, "center_y":0.597659, "width":0.224490, "height":0.396397}, "confidence":0.955447}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.767660, "center_y":0.432442, "width":0.184400, "height":0.201253}, "confidence":0.649219}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.678654, "center_y":0.454548, "width":0.088494, "height":0.159902}, "confidence":0.399223}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.706916, "center_y":0.407417, "width":0.136807, "height":0.197621}, "confidence":0.313362}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.777880, "center_y":0.355725, "width":0.116772, "height":0.063171}, "confidence":0.311897}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.494594, "center_y":0.494141, "width":0.466522, "height":0.736765}, "confidence":0.957833}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0003.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.503886, "center_y":0.806395, "width":0.068597, "height":0.049435}, "confidence":0.934920}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.541261, "center_y":0.516855, "width":0.461387, "height":0.706290}, "confidence":0.972009}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0004.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.550810, "center_y":0.493938, "width":0.863977, "height":0.785228}, "confidence":0.636480}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0005.png", 
+ "objects": [ 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.845308, "center_y":0.181689, "width":0.060384, "height":0.111580}, "confidence":0.665999}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.549131, "center_y":0.568976, "width":0.224874, "height":0.515777}, "confidence":0.644954}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.887657, "center_y":0.252392, "width":0.073248, "height":0.109891}, "confidence":0.721957}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.099075, "center_y":0.497257, "width":0.202941, "height":0.765132}, "confidence":0.763854}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.496015, "center_y":0.496386, "width":1.046648, "height":0.758233}, "confidence":0.756380}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0006.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.560694, "center_y":0.497471, "width":0.716633, "height":0.766066}, "confidence":0.905731}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.117422, "center_y":0.498689, "width":0.230373, "height":0.732544}, "confidence":0.316279}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.234049, "center_y":0.496557, "width":0.358770, "height":0.762825}, "confidence":0.313609}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0007.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.497719, "center_y":0.495722, "width":0.895731, "height":0.771126}, "confidence":0.636158}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.497719, "center_y":0.495722, "width":0.895731, "height":0.771126}, "confidence":0.424534}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0008.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.551513, "center_y":0.486859, "width":0.898991, "height":0.733185}, "confidence":0.993979}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.166206, "center_y":0.430111, "width":0.323802, "height":0.426797}, "confidence":0.961138}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0009.png", 
+ "objects": [ 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.494155, "center_y":0.755622, "width":0.018644, "height":0.021962}, "confidence":0.501178}, 
+  {"class_id":11, "name":"stop sign", "relative_coordinates":{"center_x":0.156171, "center_y":0.508328, "width":0.020578, "height":0.108824}, "confidence":0.658623}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.491418, "center_y":0.648852, "width":0.055737, "height":0.231380}, "confidence":0.986894}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0010.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.828501, "center_y":0.640409, "width":0.282622, "height":0.469690}, "confidence":0.822912}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.721106, "center_y":0.766143, "width":0.065035, "height":0.214384}, "confidence":0.475795}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0011.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0012.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0013.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.126791, "center_y":0.492487, "width":0.254226, "height":0.744940}, "confidence":0.500302}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.444837, "center_y":0.493181, "width":0.616050, "height":0.755712}, "confidence":0.437516}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0014.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0015.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.776851, "center_y":0.560685, "width":0.440270, "height":0.595761}, "confidence":0.394441}, 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.551250, "center_y":0.495046, "width":0.759660, "height":0.787840}, "confidence":0.398453}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0016.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.498195, "center_y":0.492584, "width":0.935196, "height":0.776558}, "confidence":0.800965}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0017.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Do_Not_Disturb\\0018.png", 
+ "objects": [ 
+  {"class_id":11, "name":"stop sign", "relative_coordinates":{"center_x":0.110118, "center_y":0.604514, "width":0.233185, "height":0.785565}, "confidence":0.336697}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.865394, "center_y":0.119442, "width":0.097262, "height":0.237915}, "confidence":0.272126}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.921530, "center_y":0.453268, "width":0.157592, "height":0.752937}, "confidence":0.582275}
+ ] 
+}
+]

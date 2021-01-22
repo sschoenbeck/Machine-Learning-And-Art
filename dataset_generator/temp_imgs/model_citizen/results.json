@@ -1,0 +1,16 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\model_citizen\\0000.png", 
+ "objects": [ 
+  {"class_id":79, "name":"toothbrush", "relative_coordinates":{"center_x":0.509257, "center_y":0.540223, "width":0.268122, "height":0.660143}, "confidence":0.539015}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\model_citizen\\0001.png", 
+ "objects": [ 
+
+ ] 
+}
+]

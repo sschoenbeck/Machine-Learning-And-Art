@@ -1,0 +1,107 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0000.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0001.png", 
+ "objects": [ 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.888507, "center_y":0.781142, "width":0.161489, "height":0.193433}, "confidence":0.537186}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.334716, "center_y":0.534178, "width":0.035929, "height":0.086182}, "confidence":0.517358}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.392191, "center_y":0.499443, "width":0.642206, "height":0.801990}, "confidence":0.522577}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.641307, "center_y":0.507499, "width":0.330816, "height":0.733758}, "confidence":0.986426}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0002.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0003.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.453237, "center_y":0.547889, "width":0.047074, "height":0.212997}, "confidence":0.424030}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.507266, "center_y":0.488506, "width":1.039999, "height":0.767018}, "confidence":0.696174}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0004.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.270943, "center_y":0.336155, "width":0.550202, "height":0.431734}, "confidence":0.382910}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.486205, "center_y":0.500858, "width":0.939029, "height":0.748598}, "confidence":0.547207}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0005.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.490182, "center_y":0.489470, "width":1.009278, "height":0.754274}, "confidence":0.427922}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0006.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0007.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.498396, "center_y":0.496790, "width":0.711258, "height":0.780258}, "confidence":0.835132}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0008.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0009.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0010.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0011.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0012.png", 
+ "objects": [ 
+  {"class_id":72, "name":"refrigerator", "relative_coordinates":{"center_x":0.496004, "center_y":0.495022, "width":0.896243, "height":0.904743}, "confidence":0.251055}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\One_Way\\0013.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.921565, "center_y":0.454269, "width":0.158170, "height":0.747487}, "confidence":0.474191}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.866793, "center_y":0.119462, "width":0.092154, "height":0.234557}, "confidence":0.395605}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.176029, "center_y":0.831265, "width":0.095099, "height":0.347305}, "confidence":0.281282}
+ ] 
+}
+]

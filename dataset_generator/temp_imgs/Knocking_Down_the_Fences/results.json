@@ -1,0 +1,1092 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0000.png", 
+ "objects": [ 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.086778, "center_y":0.279944, "width":0.171802, "height":0.541674}, "confidence":0.302949}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0001.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.660794, "center_y":0.512566, "width":0.705790, "height":1.011056}, "confidence":0.917482}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0002.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.757654, "center_y":0.259983, "width":0.160513, "height":0.106509}, "confidence":0.858426}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.861570, "center_y":0.253374, "width":0.094283, "height":0.068228}, "confidence":0.289347}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.290924, "center_y":0.705742, "width":0.033322, "height":0.132054}, "confidence":0.793976}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.190518, "center_y":0.944968, "width":0.047633, "height":0.117502}, "confidence":0.843225}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0003.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.447978, "center_y":0.512721, "width":0.777899, "height":0.971250}, "confidence":0.884413}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0004.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.463731, "center_y":0.385683, "width":0.048016, "height":0.043368}, "confidence":0.757379}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.194191, "center_y":0.433365, "width":0.049102, "height":0.043168}, "confidence":0.748801}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.511944, "center_y":0.383583, "width":0.046872, "height":0.040960}, "confidence":0.710334}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.245434, "center_y":0.433324, "width":0.052708, "height":0.044173}, "confidence":0.677284}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.221698, "center_y":0.482109, "width":0.050729, "height":0.061707}, "confidence":0.662652}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.896162, "center_y":0.413754, "width":0.043800, "height":0.042606}, "confidence":0.650684}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.943352, "center_y":0.411313, "width":0.047511, "height":0.047767}, "confidence":0.636820}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.402773, "center_y":0.278211, "width":0.050533, "height":0.039415}, "confidence":0.565896}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.266746, "center_y":0.479560, "width":0.046633, "height":0.062320}, "confidence":0.548333}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.887591, "center_y":0.463221, "width":0.044024, "height":0.069810}, "confidence":0.540836}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.146137, "center_y":0.433395, "width":0.049922, "height":0.044137}, "confidence":0.539779}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.456048, "center_y":0.348943, "width":0.052075, "height":0.045309}, "confidence":0.529376}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.056800, "center_y":0.359374, "width":0.048577, "height":0.043636}, "confidence":0.526636}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.151986, "center_y":0.357969, "width":0.046868, "height":0.041886}, "confidence":0.509035}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.452503, "center_y":0.278257, "width":0.049104, "height":0.041946}, "confidence":0.501189}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.352641, "center_y":0.278556, "width":0.053422, "height":0.039114}, "confidence":0.488701}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.509150, "center_y":0.347679, "width":0.049945, "height":0.045931}, "confidence":0.447968}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.401967, "center_y":0.348852, "width":0.047373, "height":0.040346}, "confidence":0.446398}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.111763, "center_y":0.286685, "width":0.050460, "height":0.037687}, "confidence":0.442845}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.928892, "center_y":0.462005, "width":0.047828, "height":0.066993}, "confidence":0.432073}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.404742, "center_y":0.313163, "width":0.050010, "height":0.043902}, "confidence":0.423609}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.174537, "center_y":0.482711, "width":0.051909, "height":0.065954}, "confidence":0.423586}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.303202, "center_y":0.278967, "width":0.051452, "height":0.039263}, "confidence":0.422313}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.016052, "center_y":0.360857, "width":0.034090, "height":0.042369}, "confidence":0.409408}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.931796, "center_y":0.443514, "width":0.045815, "height":0.029803}, "confidence":0.403584}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.454559, "center_y":0.312014, "width":0.049773, "height":0.041420}, "confidence":0.402254}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.058442, "center_y":0.322394, "width":0.049761, "height":0.035509}, "confidence":0.398911}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.692437, "center_y":0.340274, "width":0.046249, "height":0.042558}, "confidence":0.389604}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.188968, "center_y":0.252733, "width":0.050908, "height":0.041281}, "confidence":0.388102}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.040912, "center_y":0.252896, "width":0.053530, "height":0.042883}, "confidence":0.381833}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.976892, "center_y":0.460251, "width":0.047971, "height":0.062384}, "confidence":0.376136}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.137085, "center_y":0.250433, "width":0.050843, "height":0.037758}, "confidence":0.373556}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.888974, "center_y":0.443988, "width":0.042953, "height":0.029685}, "confidence":0.367773}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.106435, "center_y":0.356454, "width":0.054851, "height":0.041781}, "confidence":0.364826}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.497394, "center_y":0.239335, "width":1.037788, "height":0.475350}, "confidence":0.363309}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.977510, "center_y":0.442834, "width":0.043357, "height":0.034000}, "confidence":0.362780}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.154361, "center_y":0.320768, "width":0.051939, "height":0.040777}, "confidence":0.361219}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.017198, "center_y":0.324086, "width":0.037188, "height":0.035825}, "confidence":0.360983}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.503609, "center_y":0.278289, "width":0.050483, "height":0.044931}, "confidence":0.346292}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.106629, "center_y":0.321214, "width":0.051061, "height":0.034481}, "confidence":0.343679}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.965180, "center_y":0.192895, "width":0.043680, "height":0.043659}, "confidence":0.342752}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.516905, "center_y":0.427303, "width":0.043483, "height":0.056174}, "confidence":0.340525}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.843628, "center_y":0.464020, "width":0.043296, "height":0.065647}, "confidence":0.335751}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.293132, "center_y":0.249612, "width":0.054658, "height":0.043364}, "confidence":0.332773}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.252849, "center_y":0.283456, "width":0.052376, "height":0.041757}, "confidence":0.332324}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.202662, "center_y":0.283206, "width":0.048726, "height":0.039880}, "confidence":0.332173}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.937433, "center_y":0.118422, "width":0.040202, "height":0.043144}, "confidence":0.328082}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.457360, "center_y":0.418010, "width":0.048595, "height":0.032134}, "confidence":0.324977}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.694949, "center_y":0.382461, "width":0.048323, "height":0.051222}, "confidence":0.320293}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.239430, "center_y":0.246767, "width":0.050277, "height":0.037492}, "confidence":0.319902}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.088568, "center_y":0.252622, "width":0.048577, "height":0.039651}, "confidence":0.313266}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.155308, "center_y":0.285069, "width":0.049990, "height":0.037046}, "confidence":0.303972}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.984894, "center_y":0.411494, "width":0.031932, "height":0.042403}, "confidence":0.301536}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.506780, "center_y":0.308584, "width":0.047617, "height":0.038877}, "confidence":0.299213}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.021389, "center_y":0.294697, "width":0.043676, "height":0.050791}, "confidence":0.275495}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.133180, "center_y":0.391808, "width":0.050565, "height":0.033302}, "confidence":0.273208}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.924087, "center_y":0.167266, "width":0.045776, "height":0.060363}, "confidence":0.264627}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.821151, "center_y":0.075195, "width":0.049757, "height":0.029003}, "confidence":0.263834}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.498260, "center_y":0.284436, "width":1.083304, "height":0.547522}, "confidence":0.463303}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.977468, "center_y":0.120032, "width":0.044842, "height":0.040338}, "confidence":0.261173}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.353770, "center_y":0.321154, "width":0.052024, "height":0.049304}, "confidence":0.259375}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.444151, "center_y":0.169399, "width":0.049445, "height":0.045602}, "confidence":0.256719}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.760669, "center_y":0.113138, "width":0.047888, "height":0.048485}, "confidence":0.255356}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.544775, "center_y":0.583477, "width":0.051319, "height":0.270156}, "confidence":0.880312}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.576675, "center_y":0.556654, "width":0.014885, "height":0.021618}, "confidence":0.951957}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.791490, "center_y":0.306252, "width":0.044682, "height":0.111948}, "confidence":0.269691}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.318781, "center_y":0.443984, "width":0.063659, "height":0.132085}, "confidence":0.490525}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.494338, "center_y":0.598250, "width":0.074881, "height":0.370400}, "confidence":0.939725}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.942064, "center_y":0.327015, "width":0.045882, "height":0.123382}, "confidence":0.407347}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.701223, "center_y":0.441014, "width":0.054260, "height":0.104327}, "confidence":0.507357}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.358903, "center_y":0.043769, "width":0.072269, "height":0.088675}, "confidence":0.377921}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.215940, "center_y":0.362285, "width":0.052293, "height":0.114596}, "confidence":0.527573}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.037944, "center_y":0.457002, "width":0.050677, "height":0.133367}, "confidence":0.556185}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.440008, "center_y":0.039390, "width":0.042070, "height":0.079681}, "confidence":0.368033}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.363989, "center_y":0.444809, "width":0.048510, "height":0.126348}, "confidence":0.561528}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.839995, "center_y":0.381945, "width":0.065157, "height":0.133802}, "confidence":0.634234}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.892859, "center_y":0.309634, "width":0.057103, "height":0.131410}, "confidence":0.427690}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.086822, "center_y":0.455109, "width":0.052142, "height":0.136850}, "confidence":0.670880}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.740435, "center_y":0.308985, "width":0.053272, "height":0.111335}, "confidence":0.343607}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.795871, "center_y":0.437916, "width":0.061653, "height":0.140047}, "confidence":0.737149}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.617466, "center_y":0.596495, "width":0.097610, "height":0.228087}, "confidence":0.749592}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.415115, "center_y":0.443444, "width":0.059892, "height":0.128292}, "confidence":0.783644}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.497000, "center_y":0.080056, "width":0.078771, "height":0.155773}, "confidence":0.289695}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.738489, "center_y":0.252715, "width":0.057819, "height":0.090039}, "confidence":0.263961}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.682928, "center_y":0.248911, "width":0.057342, "height":0.127073}, "confidence":0.250944}, 
+  {"class_id":34, "name":"baseball bat", "relative_coordinates":{"center_x":0.600224, "center_y":0.556937, "width":0.055883, "height":0.043083}, "confidence":0.335927}, 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.663163, "center_y":0.682720, "width":0.031762, "height":0.034244}, "confidence":0.363211}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0005.png", 
+ "objects": [ 
+  {"class_id":38, "name":"tennis racket", "relative_coordinates":{"center_x":0.719068, "center_y":0.429998, "width":0.009686, "height":0.020629}, "confidence":0.525536}, 
+  {"class_id":38, "name":"tennis racket", "relative_coordinates":{"center_x":0.484914, "center_y":0.606971, "width":0.015016, "height":0.017272}, "confidence":0.312804}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.442989, "center_y":0.620315, "width":0.085645, "height":0.088841}, "confidence":0.916545}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.706331, "center_y":0.417351, "width":0.024156, "height":0.138687}, "confidence":0.901952}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.739479, "center_y":0.541564, "width":0.033076, "height":0.171770}, "confidence":0.968709}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.494736, "center_y":0.494157, "width":0.989824, "height":0.859823}, "confidence":0.276199}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.328460, "center_y":0.356539, "width":0.022046, "height":0.130626}, "confidence":0.985355}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0006.png", 
+ "objects": [ 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.601053, "center_y":0.465296, "width":0.015815, "height":0.035124}, "confidence":0.754004}, 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.720026, "center_y":0.431054, "width":0.018605, "height":0.029417}, "confidence":0.712158}, 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.524273, "center_y":0.523390, "width":0.024605, "height":0.043789}, "confidence":0.553177}, 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.810627, "center_y":0.200156, "width":0.019748, "height":0.045431}, "confidence":0.354946}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.780198, "center_y":0.173807, "width":0.070114, "height":0.301316}, "confidence":0.957929}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.719433, "center_y":0.417876, "width":0.061227, "height":0.338548}, "confidence":0.965759}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.754251, "center_y":0.180112, "width":0.008344, "height":0.019448}, "confidence":0.657779}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.549986, "center_y":0.492254, "width":0.119072, "height":0.263666}, "confidence":0.985177}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0007.png", 
+ "objects": [ 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.164057, "center_y":0.913636, "width":0.136769, "height":0.132242}, "confidence":0.907463}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.936455, "center_y":0.759786, "width":0.056771, "height":0.098633}, "confidence":0.558755}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.796112, "center_y":0.607410, "width":0.246245, "height":0.456439}, "confidence":0.934683}, 
+  {"class_id":57, "name":"sofa", "relative_coordinates":{"center_x":0.796112, "center_y":0.607410, "width":0.246245, "height":0.456439}, "confidence":0.307542}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.448998, "center_y":0.534592, "width":0.393796, "height":0.918805}, "confidence":0.830013}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.167641, "center_y":0.794370, "width":0.040905, "height":0.070896}, "confidence":0.969452}, 
+  {"class_id":57, "name":"sofa", "relative_coordinates":{"center_x":0.130522, "center_y":0.700576, "width":0.266177, "height":0.573395}, "confidence":0.924509}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0008.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.600610, "center_y":0.693807, "width":0.012695, "height":0.027752}, "confidence":0.333585}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0009.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.532038, "center_y":0.510612, "width":0.315395, "height":0.995389}, "confidence":0.925336}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0010.png", 
+ "objects": [ 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.022177, "center_y":0.233351, "width":0.030526, "height":0.054211}, "confidence":0.286260}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.379197, "center_y":0.847534, "width":0.040322, "height":0.067304}, "confidence":0.256202}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.018306, "center_y":0.188082, "width":0.037787, "height":0.146322}, "confidence":0.924372}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.417855, "center_y":0.851960, "width":0.036019, "height":0.086634}, "confidence":0.481372}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.887431, "center_y":0.161754, "width":0.048193, "height":0.055224}, "confidence":0.898374}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.758212, "center_y":0.536167, "width":0.453655, "height":0.932821}, "confidence":0.996864}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0011.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.833971, "center_y":0.272864, "width":0.132372, "height":0.081191}, "confidence":0.820675}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.066790, "center_y":0.279364, "width":0.129646, "height":0.088978}, "confidence":0.747985}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.697310, "center_y":0.274169, "width":0.096941, "height":0.087568}, "confidence":0.706966}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.949400, "center_y":0.273510, "width":0.102269, "height":0.083552}, "confidence":0.699216}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.904901, "center_y":0.149912, "width":0.129804, "height":0.109687}, "confidence":0.684806}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.589248, "center_y":0.275532, "width":0.119529, "height":0.084999}, "confidence":0.640676}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.141509, "center_y":0.178874, "width":0.140215, "height":0.177807}, "confidence":0.589332}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.657836, "center_y":0.151410, "width":0.133864, "height":0.102419}, "confidence":0.530428}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.174260, "center_y":0.278224, "width":0.086189, "height":0.089083}, "confidence":0.462160}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.038874, "center_y":0.142222, "width":0.079758, "height":0.084179}, "confidence":0.456085}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.796336, "center_y":0.177002, "width":0.142123, "height":0.149489}, "confidence":0.427756}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.980926, "center_y":0.170674, "width":0.039024, "height":0.149985}, "confidence":0.372477}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.800928, "center_y":0.060340, "width":0.134054, "height":0.111237}, "confidence":0.341037}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.674320, "center_y":0.060550, "width":0.116707, "height":0.116580}, "confidence":0.315269}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.568108, "center_y":0.061864, "width":0.115889, "height":0.105619}, "confidence":0.314237}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.561578, "center_y":0.139480, "width":0.075101, "height":0.088814}, "confidence":0.286307}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0012.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.016394, "center_y":0.482834, "width":0.033210, "height":0.213143}, "confidence":0.510109}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.658437, "center_y":0.600672, "width":0.135568, "height":0.508279}, "confidence":0.961823}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0013.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.460464, "center_y":0.374226, "width":0.145699, "height":0.157899}, "confidence":0.787284}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.197346, "center_y":0.927489, "width":0.392158, "height":0.143649}, "confidence":0.753449}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.365501, "center_y":0.468699, "width":0.165511, "height":0.203973}, "confidence":0.744246}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.178630, "center_y":0.444228, "width":0.172612, "height":0.148330}, "confidence":0.692683}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.288467, "center_y":0.371860, "width":0.145399, "height":0.153108}, "confidence":0.692210}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.064027, "center_y":0.540816, "width":0.130842, "height":0.163826}, "confidence":0.611063}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.382258, "center_y":0.696657, "width":0.255633, "height":0.251339}, "confidence":0.598192}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.827372, "center_y":0.494014, "width":0.115816, "height":0.317426}, "confidence":0.551654}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.248814, "center_y":0.619023, "width":0.213360, "height":0.335312}, "confidence":0.527189}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.955633, "center_y":0.486487, "width":0.094258, "height":0.357231}, "confidence":0.475774}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.110122, "center_y":0.690806, "width":0.226108, "height":0.244253}, "confidence":0.454018}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.457777, "center_y":0.531673, "width":0.151871, "height":0.173888}, "confidence":0.419642}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.035561, "center_y":0.412089, "width":0.072139, "height":0.105321}, "confidence":0.300437}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.503401, "center_y":0.413158, "width":0.063679, "height":0.083687}, "confidence":0.296341}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.487493, "center_y":0.506366, "width":1.132652, "height":0.898570}, "confidence":0.356166}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.665735, "center_y":0.529428, "width":0.521596, "height":0.971896}, "confidence":0.483598}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0014.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.778098, "center_y":0.752707, "width":0.019366, "height":0.028937}, "confidence":0.932828}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.826321, "center_y":0.722615, "width":0.022097, "height":0.029838}, "confidence":0.882576}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.656938, "center_y":0.718629, "width":0.022366, "height":0.027702}, "confidence":0.778941}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.483759, "center_y":0.653213, "width":0.011688, "height":0.031554}, "confidence":0.257238}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.556313, "center_y":0.590100, "width":0.185448, "height":0.604001}, "confidence":0.983629}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0015.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.197420, "center_y":0.918274, "width":0.387939, "height":0.165669}, "confidence":0.920060}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.458977, "center_y":0.376985, "width":0.141627, "height":0.155927}, "confidence":0.786702}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.092155, "center_y":0.887918, "width":0.177912, "height":0.224226}, "confidence":0.785569}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.293020, "center_y":0.374232, "width":0.139293, "height":0.150287}, "confidence":0.762365}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.182866, "center_y":0.445622, "width":0.169964, "height":0.148351}, "confidence":0.728498}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.464434, "center_y":0.531694, "width":0.151442, "height":0.179252}, "confidence":0.678641}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.113502, "center_y":0.705306, "width":0.233181, "height":0.267273}, "confidence":0.667735}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.068221, "center_y":0.538725, "width":0.141196, "height":0.162731}, "confidence":0.642822}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.366540, "center_y":0.469685, "width":0.164459, "height":0.200300}, "confidence":0.635932}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.374750, "center_y":0.776592, "width":0.285923, "height":0.406456}, "confidence":0.517716}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.253780, "center_y":0.639489, "width":0.192372, "height":0.361502}, "confidence":0.489255}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.507541, "center_y":0.415212, "width":0.074305, "height":0.086784}, "confidence":0.458256}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.952648, "center_y":0.484684, "width":0.100569, "height":0.363275}, "confidence":0.437189}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.824237, "center_y":0.495370, "width":0.100509, "height":0.313168}, "confidence":0.401295}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.039386, "center_y":0.431575, "width":0.084683, "height":0.137900}, "confidence":0.330572}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.131084, "center_y":0.376954, "width":0.144475, "height":0.153370}, "confidence":0.283309}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.487275, "center_y":0.506050, "width":1.092478, "height":0.907450}, "confidence":0.262030}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.667237, "center_y":0.531107, "width":0.493230, "height":0.959196}, "confidence":0.684918}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0016.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.634495, "center_y":0.587260, "width":0.031184, "height":0.024417}, "confidence":0.400087}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.464561, "center_y":0.714193, "width":0.408234, "height":0.241954}, "confidence":0.962157}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0017.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.615507, "center_y":0.534680, "width":0.491596, "height":0.970354}, "confidence":0.927542}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0018.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.507674, "center_y":0.586721, "width":0.339218, "height":0.845107}, "confidence":0.707734}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.500653, "center_y":0.712863, "width":0.940596, "height":0.571536}, "confidence":0.316853}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.757427, "center_y":0.587089, "width":0.314555, "height":0.850418}, "confidence":0.866440}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.508852, "center_y":0.551887, "width":0.280403, "height":0.949822}, "confidence":0.992270}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.270890, "center_y":0.557998, "width":0.232524, "height":0.848973}, "confidence":0.994132}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0019.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.611948, "center_y":0.533283, "width":0.514983, "height":0.981107}, "confidence":0.950195}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0020.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.505050, "center_y":0.757058, "width":0.019195, "height":0.070480}, "confidence":0.279356}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.504617, "center_y":0.711801, "width":0.925953, "height":0.530316}, "confidence":0.296434}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.756795, "center_y":0.568896, "width":0.300453, "height":0.818499}, "confidence":0.983426}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.278749, "center_y":0.558057, "width":0.232035, "height":0.853573}, "confidence":0.990198}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.510414, "center_y":0.587444, "width":0.359312, "height":0.822247}, "confidence":0.504992}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.513703, "center_y":0.550769, "width":0.269187, "height":0.919664}, "confidence":0.993467}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0021.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.603695, "center_y":0.533334, "width":0.496107, "height":0.985191}, "confidence":0.961913}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0022.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.512003, "center_y":0.586771, "width":0.360971, "height":0.848514}, "confidence":0.614831}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.501214, "center_y":0.713703, "width":0.894664, "height":0.550340}, "confidence":0.310218}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.514978, "center_y":0.552413, "width":0.276234, "height":0.929011}, "confidence":0.987932}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.758142, "center_y":0.566787, "width":0.297816, "height":0.816571}, "confidence":0.989098}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.269815, "center_y":0.561165, "width":0.238111, "height":0.854484}, "confidence":0.995968}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0023.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.615914, "center_y":0.532895, "width":0.530745, "height":0.983257}, "confidence":0.942618}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0024.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.509493, "center_y":0.586601, "width":0.418391, "height":0.856640}, "confidence":0.566175}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.503652, "center_y":0.714696, "width":0.961626, "height":0.552496}, "confidence":0.308085}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.755492, "center_y":0.566727, "width":0.290910, "height":0.819652}, "confidence":0.986767}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.512850, "center_y":0.553202, "width":0.275374, "height":0.936210}, "confidence":0.989807}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.275053, "center_y":0.557696, "width":0.232246, "height":0.859742}, "confidence":0.996541}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0025.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.612562, "center_y":0.532577, "width":0.533932, "height":0.976992}, "confidence":0.925340}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0026.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.511092, "center_y":0.587369, "width":0.400050, "height":0.839159}, "confidence":0.534433}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.500031, "center_y":0.713178, "width":0.913793, "height":0.549685}, "confidence":0.480913}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.514478, "center_y":0.553299, "width":0.277305, "height":0.919026}, "confidence":0.989137}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.759345, "center_y":0.566276, "width":0.298774, "height":0.817632}, "confidence":0.989692}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.270965, "center_y":0.559519, "width":0.241628, "height":0.862455}, "confidence":0.996649}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0027.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.608448, "center_y":0.532929, "width":0.474999, "height":0.974021}, "confidence":0.949059}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0028.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0029.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.330820, "center_y":0.520705, "width":0.580175, "height":1.008406}, "confidence":0.930424}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0030.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.410152, "center_y":0.557217, "width":0.506518, "height":0.926850}, "confidence":0.963507}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.884874, "center_y":0.828945, "width":0.039058, "height":0.242698}, "confidence":0.949529}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.923173, "center_y":0.821579, "width":0.038991, "height":0.165165}, "confidence":0.936874}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.058012, "center_y":0.741494, "width":0.119638, "height":0.518781}, "confidence":0.878562}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.959281, "center_y":0.811022, "width":0.033673, "height":0.161565}, "confidence":0.842591}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.761688, "center_y":0.827909, "width":0.040122, "height":0.233774}, "confidence":0.813757}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.541249, "center_y":0.882297, "width":0.061719, "height":0.234466}, "confidence":0.774663}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.990361, "center_y":0.810391, "width":0.020695, "height":0.141024}, "confidence":0.639463}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.733026, "center_y":0.824714, "width":0.021460, "height":0.148682}, "confidence":0.388973}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.787933, "center_y":0.800782, "width":0.024301, "height":0.164936}, "confidence":0.289147}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0031.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.240093, "center_y":0.564124, "width":0.321663, "height":0.886356}, "confidence":0.770472}, 
+  {"class_id":62, "name":"tvmonitor", "relative_coordinates":{"center_x":0.508364, "center_y":0.490276, "width":0.955665, "height":1.015719}, "confidence":0.366723}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0032.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.498090, "center_y":0.507324, "width":0.582926, "height":1.034919}, "confidence":0.958150}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.814417, "center_y":0.277351, "width":0.152467, "height":0.552468}, "confidence":0.566971}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0033.png", 
+ "objects": [ 
+  {"class_id":11, "name":"stop sign", "relative_coordinates":{"center_x":0.173297, "center_y":0.871202, "width":0.103643, "height":0.248789}, "confidence":0.774717}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.245820, "center_y":0.566466, "width":0.424389, "height":0.838270}, "confidence":0.941303}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.457628, "center_y":0.804511, "width":0.089014, "height":0.156103}, "confidence":0.937105}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0034.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.328610, "center_y":0.520355, "width":0.598519, "height":1.005546}, "confidence":0.923692}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0035.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.548774, "center_y":0.517098, "width":0.843985, "height":1.040510}, "confidence":0.957886}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0036.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.197279, "center_y":0.919361, "width":0.388116, "height":0.163009}, "confidence":0.933383}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.181865, "center_y":0.445719, "width":0.173446, "height":0.147866}, "confidence":0.765579}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.090171, "center_y":0.888316, "width":0.174229, "height":0.218821}, "confidence":0.753871}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.459091, "center_y":0.376536, "width":0.141942, "height":0.156740}, "confidence":0.740630}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.366219, "center_y":0.469699, "width":0.163909, "height":0.201684}, "confidence":0.721411}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.292460, "center_y":0.374018, "width":0.139340, "height":0.150073}, "confidence":0.709142}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.112970, "center_y":0.706754, "width":0.231068, "height":0.268729}, "confidence":0.689700}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.382893, "center_y":0.694739, "width":0.249087, "height":0.253861}, "confidence":0.676794}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.067268, "center_y":0.537758, "width":0.139439, "height":0.160957}, "confidence":0.627599}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.252250, "center_y":0.640953, "width":0.196220, "height":0.361406}, "confidence":0.562788}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.456757, "center_y":0.533218, "width":0.144657, "height":0.179757}, "confidence":0.540598}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.819124, "center_y":0.547986, "width":0.126179, "height":0.309875}, "confidence":0.378467}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.952953, "center_y":0.484362, "width":0.100831, "height":0.358639}, "confidence":0.353795}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.129702, "center_y":0.377817, "width":0.143992, "height":0.157257}, "confidence":0.310243}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.038750, "center_y":0.435367, "width":0.083266, "height":0.142254}, "confidence":0.287820}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.668993, "center_y":0.532767, "width":0.481546, "height":0.939180}, "confidence":0.801571}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0037.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.324564, "center_y":0.619742, "width":0.201418, "height":0.812470}, "confidence":0.976269}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.048535, "center_y":0.664294, "width":0.093090, "height":0.580669}, "confidence":0.973043}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.124279, "center_y":0.670302, "width":0.090112, "height":0.525288}, "confidence":0.964960}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.979272, "center_y":0.623781, "width":0.041966, "height":0.272789}, "confidence":0.904689}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.491237, "center_y":0.665939, "width":0.075517, "height":0.407158}, "confidence":0.888458}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.180286, "center_y":0.672031, "width":0.066762, "height":0.497160}, "confidence":0.833134}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.668110, "center_y":0.626572, "width":0.038138, "height":0.206490}, "confidence":0.739030}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.565131, "center_y":0.534673, "width":0.030413, "height":0.087665}, "confidence":0.630964}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.844227, "center_y":0.496051, "width":0.038808, "height":0.115300}, "confidence":0.578358}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.801074, "center_y":0.504006, "width":0.038900, "height":0.125694}, "confidence":0.418229}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.495958, "center_y":0.450840, "width":1.018494, "height":0.543417}, "confidence":0.415122}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.917919, "center_y":0.486699, "width":0.044319, "height":0.135507}, "confidence":0.396907}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.629710, "center_y":0.548565, "width":0.031631, "height":0.056063}, "confidence":0.337223}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.429088, "center_y":0.670543, "width":0.064756, "height":0.392894}, "confidence":0.307196}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.233301, "center_y":0.668532, "width":0.062162, "height":0.469382}, "confidence":0.279193}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0038.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.618148, "center_y":0.531618, "width":0.523704, "height":0.996687}, "confidence":0.933403}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0039.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.549515, "center_y":0.537912, "width":0.489431, "height":0.928595}, "confidence":0.991135}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0040.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.497599, "center_y":0.502674, "width":1.009189, "height":0.819385}, "confidence":0.262426}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.480535, "center_y":0.720585, "width":0.277182, "height":0.551237}, "confidence":0.948803}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0041.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.827277, "center_y":0.708677, "width":0.359203, "height":0.424639}, "confidence":0.303889}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.887995, "center_y":0.487760, "width":0.094003, "height":0.503432}, "confidence":0.427939}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.493021, "center_y":0.596047, "width":0.130009, "height":0.515285}, "confidence":0.979961}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0042.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.175213, "center_y":0.511519, "width":0.074361, "height":0.382794}, "confidence":0.989665}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.497058, "center_y":0.589126, "width":0.227152, "height":0.741453}, "confidence":0.961080}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0043.png", 
+ "objects": [ 
+  {"class_id":12, "name":"parking meter", "relative_coordinates":{"center_x":0.144215, "center_y":0.515590, "width":0.212213, "height":0.460406}, "confidence":0.273499}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.533933, "center_y":0.618603, "width":0.401257, "height":0.803468}, "confidence":0.957835}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0044.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0045.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.490333, "center_y":0.532728, "width":0.880575, "height":0.992926}, "confidence":0.519639}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.458770, "center_y":0.499344, "width":0.868001, "height":0.980275}, "confidence":0.981394}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0046.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0047.png", 
+ "objects": [ 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.062030, "center_y":0.506522, "width":0.124957, "height":0.206719}, "confidence":0.280907}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.679927, "center_y":0.751112, "width":0.649733, "height":0.513879}, "confidence":0.967882}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.062304, "center_y":0.499858, "width":0.125576, "height":0.192008}, "confidence":0.830536}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.847790, "center_y":0.404438, "width":0.030510, "height":0.018989}, "confidence":0.735537}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.276104, "center_y":0.642568, "width":0.376015, "height":0.358666}, "confidence":0.998908}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.257877, "center_y":0.440121, "width":0.012558, "height":0.053538}, "confidence":0.896268}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.426718, "center_y":0.441435, "width":0.022145, "height":0.104414}, "confidence":0.959175}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.459177, "center_y":0.448850, "width":0.022183, "height":0.093963}, "confidence":0.921312}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.338324, "center_y":0.440689, "width":0.017486, "height":0.069254}, "confidence":0.963142}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.297997, "center_y":0.427875, "width":0.018645, "height":0.074924}, "confidence":0.983362}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.382226, "center_y":0.444750, "width":0.023628, "height":0.111917}, "confidence":0.988601}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.484845, "center_y":0.450010, "width":0.022939, "height":0.086091}, "confidence":0.942816}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.554286, "center_y":0.508021, "width":0.049729, "height":0.239266}, "confidence":0.995655}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0048.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.960717, "center_y":0.956943, "width":0.079980, "height":0.089112}, "confidence":0.261701}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.328145, "center_y":0.529576, "width":0.567336, "height":0.981351}, "confidence":0.929290}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0049.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.498736, "center_y":0.499743, "width":0.957682, "height":0.910788}, "confidence":0.935281}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.497386, "center_y":0.532145, "width":0.844327, "height":0.915089}, "confidence":0.356273}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0050.png", 
+ "objects": [ 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.823424, "center_y":0.934546, "width":0.047149, "height":0.112874}, "confidence":0.330843}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.342012, "center_y":0.518539, "width":0.563899, "height":1.004630}, "confidence":0.954146}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0051.png", 
+ "objects": [ 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.486488, "center_y":0.493129, "width":0.310561, "height":0.241702}, "confidence":0.272837}, 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.486488, "center_y":0.493129, "width":0.310561, "height":0.241702}, "confidence":0.420867}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0052.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.051435, "center_y":0.292647, "width":0.052838, "height":0.085138}, "confidence":0.697049}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.716609, "center_y":0.292980, "width":0.028489, "height":0.092896}, "confidence":0.317893}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.612853, "center_y":0.484843, "width":0.060079, "height":0.525076}, "confidence":0.729241}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0053.png", 
+ "objects": [ 
+  {"class_id":64, "name":"mouse", "relative_coordinates":{"center_x":0.073762, "center_y":0.252558, "width":0.147267, "height":0.262744}, "confidence":0.277881}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.760066, "center_y":0.763418, "width":0.154006, "height":0.472940}, "confidence":0.262195}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.495742, "center_y":0.531927, "width":0.387011, "height":0.904794}, "confidence":0.983545}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0054.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.491910, "center_y":0.567091, "width":0.273245, "height":0.873403}, "confidence":0.750216}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0055.png", 
+ "objects": [ 
+  {"class_id":38, "name":"tennis racket", "relative_coordinates":{"center_x":0.233535, "center_y":0.644185, "width":0.040928, "height":0.060824}, "confidence":0.395763}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.939008, "center_y":0.758948, "width":0.030490, "height":0.109740}, "confidence":0.945288}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.250554, "center_y":0.642794, "width":0.088324, "height":0.333609}, "confidence":0.989814}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0056.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.493031, "center_y":0.498486, "width":0.926593, "height":0.989415}, "confidence":0.919163}, 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.171346, "center_y":0.716941, "width":0.336492, "height":0.432827}, "confidence":0.375138}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0057.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.955428, "center_y":0.565136, "width":0.036905, "height":0.027874}, "confidence":0.929373}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.354867, "center_y":0.515574, "width":0.317541, "height":0.581326}, "confidence":0.976940}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0058.png", 
+ "objects": [ 
+  {"class_id":59, "name":"bed", "relative_coordinates":{"center_x":0.498991, "center_y":0.505933, "width":0.959266, "height":0.973361}, "confidence":0.563795}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.495876, "center_y":0.546235, "width":0.947017, "height":0.956138}, "confidence":0.483543}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0059.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.497543, "center_y":0.500932, "width":0.965018, "height":0.954788}, "confidence":0.534799}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0060.png", 
+ "objects": [ 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.228867, "center_y":0.801469, "width":0.138334, "height":0.367006}, "confidence":0.740060}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.231761, "center_y":0.668525, "width":0.195935, "height":0.631454}, "confidence":0.503936}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.714303, "center_y":0.329494, "width":0.094434, "height":0.082429}, "confidence":0.283636}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.546976, "center_y":0.310409, "width":0.017999, "height":0.028957}, "confidence":0.570118}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.844348, "center_y":0.311304, "width":0.022087, "height":0.025990}, "confidence":0.502565}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.650756, "center_y":0.314152, "width":0.040788, "height":0.039112}, "confidence":0.922105}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.504677, "center_y":0.314121, "width":0.010681, "height":0.038748}, "confidence":0.566347}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.713946, "center_y":0.329356, "width":0.097005, "height":0.082529}, "confidence":0.778987}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.610898, "center_y":0.311504, "width":0.042013, "height":0.032417}, "confidence":0.952821}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.967487, "center_y":0.362665, "width":0.043819, "height":0.148401}, "confidence":0.743769}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.717051, "center_y":0.338192, "width":0.031026, "height":0.100348}, "confidence":0.760759}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.354745, "center_y":0.328614, "width":0.093134, "height":0.103303}, "confidence":0.260078}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.377696, "center_y":0.328998, "width":0.045570, "height":0.094061}, "confidence":0.488054}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.761567, "center_y":0.372812, "width":0.043052, "height":0.155983}, "confidence":0.920033}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.298697, "center_y":0.556531, "width":0.326122, "height":0.887227}, "confidence":0.978379}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.378335, "center_y":0.326559, "width":0.047542, "height":0.089036}, "confidence":0.349894}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0061.png", 
+ "objects": [ 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.483279, "center_y":0.704764, "width":0.061589, "height":0.040531}, "confidence":0.649872}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.877801, "center_y":0.670279, "width":0.079297, "height":0.056815}, "confidence":0.539649}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.879078, "center_y":0.669909, "width":0.082034, "height":0.057837}, "confidence":0.668926}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.419085, "center_y":0.716428, "width":0.020394, "height":0.019053}, "confidence":0.290794}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.363062, "center_y":0.719769, "width":0.019325, "height":0.015157}, "confidence":0.647993}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.029904, "center_y":0.724639, "width":0.015664, "height":0.014086}, "confidence":0.371696}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.378587, "center_y":0.718870, "width":0.020276, "height":0.015196}, "confidence":0.360498}
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0062.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.471032, "center_y":0.530071, "width":0.065758, "height":0.161024}, "confidence":0.959722}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.298022, "center_y":0.458190, "width":0.041883, "height":0.102774}, "confidence":0.796902}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.471322, "center_y":0.530609, "width":0.072095, "height":0.160151}, "confidence":0.436295}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.650003, "center_y":0.600165, "width":0.212620, "height":0.805298}, "confidence":0.609862}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.961365, "center_y":0.564120, "width":0.009762, "height":0.013067}, "confidence":0.582413}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.645541, "center_y":0.601977, "width":0.185312, "height":0.799524}, "confidence":0.926475}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.900644, "center_y":0.526917, "width":0.007758, "height":0.013399}, "confidence":0.538795}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.764022, "center_y":0.521745, "width":0.006632, "height":0.013918}, "confidence":0.503073}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.897736, "center_y":0.566373, "width":0.010342, "height":0.015783}, "confidence":0.723434}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.596433, "center_y":0.619852, "width":0.036260, "height":0.037175}, "confidence":0.619953}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.764594, "center_y":0.549237, "width":0.005488, "height":0.009791}, "confidence":0.279831}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.951878, "center_y":0.583616, "width":0.010520, "height":0.018190}, "confidence":0.886500}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.856888, "center_y":0.817281, "width":0.020665, "height":0.039563}, "confidence":0.911186}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.992399, "center_y":0.637205, "width":0.013386, "height":0.022801}, "confidence":0.915463}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.803902, "center_y":0.570430, "width":0.009756, "height":0.019025}, "confidence":0.944501}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.847091, "center_y":0.979754, "width":0.050193, "height":0.041963}, "confidence":0.810212}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.829667, "center_y":0.534843, "width":0.007269, "height":0.014048}, "confidence":0.811924}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.856799, "center_y":0.534934, "width":0.007480, "height":0.015013}, "confidence":0.956262}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.718280, "center_y":0.853645, "width":0.014156, "height":0.034225}, "confidence":0.841698}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.938096, "center_y":0.530941, "width":0.007306, "height":0.012405}, "confidence":0.493303}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.743040, "center_y":0.589020, "width":0.011664, "height":0.021267}, "confidence":0.967912}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.230692, "center_y":0.662611, "width":0.176668, "height":0.670338}, "confidence":0.974315}, 
+  {"class_id":34, "name":"baseball bat", "relative_coordinates":{"center_x":0.191187, "center_y":0.468084, "width":0.052059, "height":0.232013}, "confidence":0.656250}
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0063.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.609080, "center_y":0.537404, "width":0.691544, "height":0.945794}, "confidence":0.946021}
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0064.png", 
+ "objects": [ 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.779102, "center_y":0.919140, "width":0.096383, "height":0.165774}, "confidence":0.870028}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.647615, "center_y":0.531456, "width":0.352419, "height":0.938279}, "confidence":0.955046}
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0065.png", 
+ "objects": [ 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.179261, "center_y":0.342188, "width":0.363352, "height":0.573663}, "confidence":0.270270}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.560763, "center_y":0.542458, "width":0.770065, "height":0.943259}, "confidence":0.977965}
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0066.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.510698, "center_y":0.494501, "width":0.963808, "height":1.015387}, "confidence":0.692510}, 
+  {"class_id":62, "name":"tvmonitor", "relative_coordinates":{"center_x":0.196963, "center_y":0.602304, "width":0.397933, "height":0.778948}, "confidence":0.324779}
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0067.png", 
+ "objects": [ 
+  {"class_id":66, "name":"keyboard", "relative_coordinates":{"center_x":0.497921, "center_y":0.452831, "width":0.876728, "height":0.840759}, "confidence":0.679864}, 
+  {"class_id":63, "name":"laptop", "relative_coordinates":{"center_x":0.396255, "center_y":0.408283, "width":0.725955, "height":0.827709}, "confidence":0.429642}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.656161, "center_y":0.392727, "width":0.639516, "height":0.818898}, "confidence":0.797999}, 
+  {"class_id":64, "name":"mouse", "relative_coordinates":{"center_x":0.489226, "center_y":0.290527, "width":0.132397, "height":0.160459}, "confidence":0.308646}
+ ] 
+}, 
+{
+ "frame_id":69, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0068.png", 
+ "objects": [ 
+  {"class_id":66, "name":"keyboard", "relative_coordinates":{"center_x":0.304450, "center_y":0.753610, "width":0.231839, "height":0.066896}, "confidence":0.884809}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.573690, "center_y":0.583282, "width":0.061546, "height":0.307860}, "confidence":0.700548}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.444253, "center_y":0.460190, "width":0.240709, "height":0.583318}, "confidence":0.905679}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.029684, "center_y":0.673138, "width":0.049599, "height":0.245606}, "confidence":0.980607}, 
+  {"class_id":65, "name":"remote", "relative_coordinates":{"center_x":0.799975, "center_y":0.910406, "width":0.175934, "height":0.098715}, "confidence":0.804200}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.744445, "center_y":0.660059, "width":0.242255, "height":0.243011}, "confidence":0.973623}
+ ] 
+}, 
+{
+ "frame_id":70, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0069.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.669426, "center_y":0.495914, "width":0.651661, "height":1.045793}, "confidence":0.930087}
+ ] 
+}, 
+{
+ "frame_id":71, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0070.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.195451, "center_y":0.882846, "width":0.151423, "height":0.167656}, "confidence":0.343407}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.444277, "center_y":0.721487, "width":0.236478, "height":0.580004}, "confidence":0.517771}
+ ] 
+}, 
+{
+ "frame_id":72, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0071.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.572693, "center_y":0.429523, "width":0.217776, "height":0.543436}, "confidence":0.986800}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.299497, "center_y":0.531197, "width":0.229489, "height":0.975273}, "confidence":0.985801}
+ ] 
+}, 
+{
+ "frame_id":73, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0072.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.983405, "center_y":0.608673, "width":0.025362, "height":0.088403}, "confidence":0.922697}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.176281, "center_y":0.691439, "width":0.355767, "height":0.619608}, "confidence":0.781597}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.506281, "center_y":0.499304, "width":0.731966, "height":1.033699}, "confidence":0.734877}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.661307, "center_y":0.501390, "width":0.025575, "height":0.061190}, "confidence":0.696181}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.723224, "center_y":0.510517, "width":0.010254, "height":0.041673}, "confidence":0.444124}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.830377, "center_y":0.559324, "width":0.007219, "height":0.032794}, "confidence":0.393480}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.871674, "center_y":0.559125, "width":0.009487, "height":0.040016}, "confidence":0.289965}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.955463, "center_y":0.587843, "width":0.010602, "height":0.036480}, "confidence":0.261216}
+ ] 
+}, 
+{
+ "frame_id":74, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0073.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.388364, "center_y":0.515247, "width":0.647624, "height":1.022938}, "confidence":0.890968}
+ ] 
+}, 
+{
+ "frame_id":75, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0074.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.518666, "center_y":0.918126, "width":0.055142, "height":0.161685}, "confidence":0.962625}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.385132, "center_y":0.915123, "width":0.072839, "height":0.177255}, "confidence":0.959583}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.264510, "center_y":0.830548, "width":0.026619, "height":0.168595}, "confidence":0.950139}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.458299, "center_y":0.937492, "width":0.055647, "height":0.122659}, "confidence":0.946373}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.110439, "center_y":0.942487, "width":0.072026, "height":0.116810}, "confidence":0.932934}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.613908, "center_y":0.886325, "width":0.035707, "height":0.163372}, "confidence":0.874111}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.056117, "center_y":0.734917, "width":0.031777, "height":0.137387}, "confidence":0.802859}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.042637, "center_y":0.900629, "width":0.056677, "height":0.194733}, "confidence":0.800146}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.028228, "center_y":0.730465, "width":0.031443, "height":0.138868}, "confidence":0.645901}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.898957, "center_y":0.751319, "width":0.041981, "height":0.164163}, "confidence":0.555438}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.543424, "center_y":0.626409, "width":0.015187, "height":0.077052}, "confidence":0.508756}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.477144, "center_y":0.641132, "width":0.014941, "height":0.096567}, "confidence":0.493078}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.434236, "center_y":0.660961, "width":0.020586, "height":0.090219}, "confidence":0.461602}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.751904, "center_y":0.636858, "width":0.017420, "height":0.093278}, "confidence":0.419249}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.489325, "center_y":0.638797, "width":0.014433, "height":0.092394}, "confidence":0.418526}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.988688, "center_y":0.652559, "width":0.022926, "height":0.120751}, "confidence":0.416130}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.969020, "center_y":0.730273, "width":0.038537, "height":0.113361}, "confidence":0.416006}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.733449, "center_y":0.691382, "width":0.018279, "height":0.093894}, "confidence":0.401279}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.497738, "center_y":0.717243, "width":0.990689, "height":0.536857}, "confidence":0.395299}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.754427, "center_y":0.878822, "width":0.044998, "height":0.209101}, "confidence":0.373363}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.556093, "center_y":0.625098, "width":0.012597, "height":0.076270}, "confidence":0.358474}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.951162, "center_y":0.819497, "width":0.058992, "height":0.206392}, "confidence":0.340876}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.798540, "center_y":0.797375, "width":0.030508, "height":0.140174}, "confidence":0.337675}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.009210, "center_y":0.902409, "width":0.019445, "height":0.187341}, "confidence":0.337109}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.839665, "center_y":0.636717, "width":0.014217, "height":0.050450}, "confidence":0.298625}
+ ] 
+}, 
+{
+ "frame_id":76, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0075.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.550916, "center_y":0.491553, "width":0.702769, "height":1.028658}, "confidence":0.842490}
+ ] 
+}, 
+{
+ "frame_id":77, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0076.png", 
+ "objects": [ 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.340612, "center_y":0.938273, "width":0.043518, "height":0.123107}, "confidence":0.537427}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.128371, "center_y":0.716780, "width":0.027521, "height":0.121506}, "confidence":0.656836}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.173971, "center_y":0.753774, "width":0.028134, "height":0.153665}, "confidence":0.656469}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.287153, "center_y":0.713560, "width":0.038842, "height":0.160972}, "confidence":0.586651}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.103803, "center_y":0.686965, "width":0.020558, "height":0.110461}, "confidence":0.480132}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.197279, "center_y":0.672977, "width":0.021422, "height":0.092810}, "confidence":0.462128}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.322489, "center_y":0.582650, "width":0.022297, "height":0.114812}, "confidence":0.428911}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.213655, "center_y":0.662795, "width":0.016739, "height":0.090453}, "confidence":0.396517}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.256558, "center_y":0.682099, "width":0.030034, "height":0.141592}, "confidence":0.758215}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.111856, "center_y":0.825334, "width":0.026079, "height":0.111447}, "confidence":0.367740}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.120569, "center_y":0.620540, "width":0.020677, "height":0.095044}, "confidence":0.346164}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.086713, "center_y":0.882607, "width":0.034305, "height":0.147522}, "confidence":0.304920}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.180169, "center_y":0.692496, "width":0.031621, "height":0.097313}, "confidence":0.287352}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.178192, "center_y":0.625912, "width":0.012360, "height":0.052669}, "confidence":0.281945}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.228732, "center_y":0.534702, "width":0.014185, "height":0.055985}, "confidence":0.275577}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.306199, "center_y":0.667820, "width":0.025471, "height":0.136634}, "confidence":0.255643}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.136941, "center_y":0.845943, "width":0.044851, "height":0.207935}, "confidence":0.825408}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.715493, "center_y":0.532573, "width":0.546950, "height":0.930920}, "confidence":0.855175}
+ ] 
+}, 
+{
+ "frame_id":78, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0077.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.746018, "center_y":0.969251, "width":0.110356, "height":0.061654}, "confidence":0.666027}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.266034, "center_y":0.976525, "width":0.060057, "height":0.043953}, "confidence":0.528741}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.152286, "center_y":0.982678, "width":0.061886, "height":0.034284}, "confidence":0.420602}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.207034, "center_y":0.980757, "width":0.064411, "height":0.041203}, "confidence":0.371674}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.253977, "center_y":0.940359, "width":0.045684, "height":0.035894}, "confidence":0.345817}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.440501, "center_y":0.977232, "width":0.064540, "height":0.046076}, "confidence":0.325121}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.560665, "center_y":0.983621, "width":0.051572, "height":0.031329}, "confidence":0.317208}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.985128, "center_y":0.949966, "width":0.030757, "height":0.100306}, "confidence":0.304601}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.612738, "center_y":0.929157, "width":0.079855, "height":0.095005}, "confidence":0.294292}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.547435, "center_y":0.953060, "width":0.057207, "height":0.059891}, "confidence":0.293527}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.642728, "center_y":0.961275, "width":0.100187, "height":0.078580}, "confidence":0.276209}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.161508, "center_y":0.948768, "width":0.054267, "height":0.033307}, "confidence":0.260626}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.963798, "center_y":0.692142, "width":0.033128, "height":0.086367}, "confidence":0.457688}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.719318, "center_y":0.519562, "width":0.012087, "height":0.062746}, "confidence":0.441223}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.417700, "center_y":0.480277, "width":0.011054, "height":0.088427}, "confidence":0.415451}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.627205, "center_y":0.533686, "width":0.014470, "height":0.068272}, "confidence":0.380997}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.989523, "center_y":0.876167, "width":0.022164, "height":0.068866}, "confidence":0.357924}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.399612, "center_y":0.457937, "width":0.007769, "height":0.039990}, "confidence":0.319875}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.377047, "center_y":0.949642, "width":0.068617, "height":0.101535}, "confidence":0.311400}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.723001, "center_y":0.785074, "width":0.042353, "height":0.208160}, "confidence":0.575701}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.791390, "center_y":0.725926, "width":0.030745, "height":0.084994}, "confidence":0.300050}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.810604, "center_y":0.571542, "width":0.018015, "height":0.089077}, "confidence":0.258754}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.726126, "center_y":0.647588, "width":0.023188, "height":0.111445}, "confidence":0.707156}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.015875, "center_y":0.671877, "width":0.032218, "height":0.145444}, "confidence":0.743356}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.015843, "center_y":0.879605, "width":0.032062, "height":0.088641}, "confidence":0.527996}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.865508, "center_y":0.640529, "width":0.030642, "height":0.120405}, "confidence":0.528087}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.349056, "center_y":0.911180, "width":0.090072, "height":0.174774}, "confidence":0.795851}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.083963, "center_y":0.923526, "width":0.101059, "height":0.155078}, "confidence":0.797528}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.247236, "center_y":0.774378, "width":0.031106, "height":0.140944}, "confidence":0.917270}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.673921, "center_y":0.783871, "width":0.037446, "height":0.168992}, "confidence":0.533499}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.935168, "center_y":0.746383, "width":0.055156, "height":0.114292}, "confidence":0.261956}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.601148, "center_y":0.785939, "width":0.037450, "height":0.155796}, "confidence":0.970047}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.505188, "center_y":0.953041, "width":0.082162, "height":0.096002}, "confidence":0.549591}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.377352, "center_y":0.822056, "width":0.064661, "height":0.165000}, "confidence":0.971184}, 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.360567, "center_y":0.524643, "width":0.008418, "height":0.012373}, "confidence":0.311081}
+ ] 
+}, 
+{
+ "frame_id":79, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0078.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.611262, "center_y":0.538927, "width":0.730659, "height":0.956140}, "confidence":0.971243}, 
+  {"class_id":40, "name":"wine glass", "relative_coordinates":{"center_x":0.243034, "center_y":0.503254, "width":0.466439, "height":0.958081}, "confidence":0.315678}
+ ] 
+}, 
+{
+ "frame_id":80, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0079.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.559759, "center_y":0.693399, "width":0.411920, "height":0.579741}, "confidence":0.883940}
+ ] 
+}, 
+{
+ "frame_id":81, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0080.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.512807, "center_y":0.515972, "width":0.230196, "height":0.905603}, "confidence":0.983743}
+ ] 
+}, 
+{
+ "frame_id":82, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0081.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.855520, "center_y":0.503938, "width":0.297676, "height":0.774123}, "confidence":0.969382}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.163765, "center_y":0.488494, "width":0.227387, "height":0.787053}, "confidence":0.944843}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.501373, "center_y":0.506019, "width":0.282090, "height":0.784064}, "confidence":0.941567}
+ ] 
+}, 
+{
+ "frame_id":83, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0082.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.561457, "center_y":0.530481, "width":0.361901, "height":0.926895}, "confidence":0.971575}
+ ] 
+}, 
+{
+ "frame_id":84, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0083.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.548018, "center_y":0.505880, "width":0.765293, "height":1.025627}, "confidence":0.964577}
+ ] 
+}, 
+{
+ "frame_id":85, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0084.png", 
+ "objects": [ 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.117790, "center_y":0.501894, "width":0.115273, "height":0.155616}, "confidence":0.989776}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.453998, "center_y":0.647510, "width":0.749909, "height":0.598145}, "confidence":0.853179}
+ ] 
+}, 
+{
+ "frame_id":86, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0085.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.723792, "center_y":0.505049, "width":0.461074, "height":1.027159}, "confidence":0.965694}, 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.711987, "center_y":0.609820, "width":0.197980, "height":0.516590}, "confidence":0.390921}
+ ] 
+}, 
+{
+ "frame_id":87, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0086.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.338455, "center_y":0.511674, "width":0.612211, "height":1.013732}, "confidence":0.945611}
+ ] 
+}, 
+{
+ "frame_id":88, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0087.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.349665, "center_y":0.380096, "width":0.556386, "height":0.758683}, "confidence":0.985288}
+ ] 
+}, 
+{
+ "frame_id":89, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0088.png", 
+ "objects": [ 
+  {"class_id":35, "name":"baseball glove", "relative_coordinates":{"center_x":0.490509, "center_y":0.938766, "width":0.126242, "height":0.122628}, "confidence":0.610747}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.415663, "center_y":0.519497, "width":0.331910, "height":0.972001}, "confidence":0.937688}
+ ] 
+}, 
+{
+ "frame_id":90, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0089.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.333814, "center_y":0.531723, "width":0.546411, "height":0.968411}, "confidence":0.942593}
+ ] 
+}, 
+{
+ "frame_id":91, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0090.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.721494, "center_y":0.668738, "width":0.541238, "height":0.634159}, "confidence":0.318643}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.371464, "center_y":0.403032, "width":0.047883, "height":0.111582}, "confidence":0.562947}
+ ] 
+}, 
+{
+ "frame_id":92, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0091.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.614806, "center_y":0.561964, "width":0.318013, "height":0.640086}, "confidence":0.855624}
+ ] 
+}, 
+{
+ "frame_id":93, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0092.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.241213, "center_y":0.779682, "width":0.019524, "height":0.100801}, "confidence":0.462529}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.146932, "center_y":0.751565, "width":0.295722, "height":0.091073}, "confidence":0.339655}
+ ] 
+}, 
+{
+ "frame_id":94, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0093.png", 
+ "objects": [ 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.244308, "center_y":0.126463, "width":0.035634, "height":0.041502}, "confidence":0.501572}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.323943, "center_y":0.137497, "width":0.034226, "height":0.037700}, "confidence":0.413963}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.395941, "center_y":0.147973, "width":0.032854, "height":0.033447}, "confidence":0.316679}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.497798, "center_y":0.567782, "width":0.343207, "height":0.904301}, "confidence":0.966103}
+ ] 
+}, 
+{
+ "frame_id":95, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0094.png", 
+ "objects": [ 
+  {"class_id":28, "name":"suitcase", "relative_coordinates":{"center_x":0.506486, "center_y":0.488749, "width":0.816130, "height":0.931690}, "confidence":0.423938}
+ ] 
+}, 
+{
+ "frame_id":96, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0095.png", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.677972, "center_y":0.348404, "width":0.127001, "height":0.261268}, "confidence":0.642940}
+ ] 
+}, 
+{
+ "frame_id":97, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Knocking_Down_the_Fences\\0096.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.921988, "center_y":0.455511, "width":0.157636, "height":0.734202}, "confidence":0.526690}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.175962, "center_y":0.831765, "width":0.096340, "height":0.354837}, "confidence":0.404275}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.866998, "center_y":0.119357, "width":0.092882, "height":0.233217}, "confidence":0.320645}
+ ] 
+}
+]

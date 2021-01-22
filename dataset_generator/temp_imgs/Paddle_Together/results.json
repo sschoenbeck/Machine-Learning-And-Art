@@ -1,0 +1,786 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0000.png", 
+ "objects": [ 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.436725, "center_y":0.055933, "width":0.040899, "height":0.025294}, "confidence":0.756831}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0001.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.353649, "center_y":0.509478, "width":0.481520, "height":0.997928}, "confidence":0.955818}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0002.png", 
+ "objects": [ 
+  {"class_id":37, "name":"surfboard", "relative_coordinates":{"center_x":0.332984, "center_y":0.823844, "width":0.615151, "height":0.348630}, "confidence":0.532266}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.957003, "center_y":0.541315, "width":0.025139, "height":0.112438}, "confidence":0.985587}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.448138, "center_y":0.490776, "width":0.544280, "height":1.020980}, "confidence":0.866257}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.188831, "center_y":0.501823, "width":0.240047, "height":0.974884}, "confidence":0.841960}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.988791, "center_y":0.535195, "width":0.024008, "height":0.140170}, "confidence":0.986683}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.898903, "center_y":0.537329, "width":0.026972, "height":0.118217}, "confidence":0.987890}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0003.png", 
+ "objects": [ 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.457561, "center_y":0.690317, "width":0.033739, "height":0.146720}, "confidence":0.594084}, 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.505577, "center_y":0.509233, "width":0.030300, "height":0.104686}, "confidence":0.526220}, 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.589647, "center_y":0.530490, "width":0.043660, "height":0.079824}, "confidence":0.322362}, 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.259953, "center_y":0.403054, "width":0.116110, "height":0.194032}, "confidence":0.270342}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.493768, "center_y":0.588012, "width":0.065989, "height":0.402690}, "confidence":0.954877}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.046627, "center_y":0.588764, "width":0.098649, "height":0.824601}, "confidence":0.929623}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.531448, "center_y":0.595311, "width":0.033406, "height":0.193246}, "confidence":0.898899}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.645178, "center_y":0.586836, "width":0.026775, "height":0.160336}, "confidence":0.990011}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.268275, "center_y":0.589321, "width":0.219023, "height":0.843356}, "confidence":0.992886}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.668015, "center_y":0.591618, "width":0.023646, "height":0.134019}, "confidence":0.993783}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.732412, "center_y":0.585024, "width":0.027243, "height":0.145986}, "confidence":0.995391}, 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.405389, "center_y":0.448904, "width":0.084907, "height":0.155008}, "confidence":0.841086}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.412983, "center_y":0.600739, "width":0.129224, "height":0.677027}, "confidence":0.997847}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.591564, "center_y":0.602354, "width":0.079644, "height":0.354943}, "confidence":0.998317}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0004.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.669512, "center_y":0.515561, "width":0.382647, "height":0.963776}, "confidence":0.841100}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0005.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.652570, "center_y":0.571276, "width":0.114356, "height":0.178847}, "confidence":0.960558}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0006.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.886130, "center_y":0.504704, "width":0.227734, "height":0.859693}, "confidence":0.998307}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.100136, "center_y":0.617182, "width":0.200339, "height":0.671010}, "confidence":0.992131}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.521840, "center_y":0.594597, "width":0.189527, "height":0.743797}, "confidence":0.980496}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.605252, "center_y":0.591299, "width":0.108759, "height":0.669257}, "confidence":0.933393}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.011921, "center_y":0.618138, "width":0.024317, "height":0.334115}, "confidence":0.446560}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0007.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.240943, "center_y":0.492254, "width":0.490560, "height":0.994437}, "confidence":0.856842}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.042535, "center_y":0.091843, "width":0.040963, "height":0.086836}, "confidence":0.616314}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0008.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.206807, "center_y":0.427361, "width":0.124127, "height":0.684405}, "confidence":0.979059}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.099253, "center_y":0.431618, "width":0.155282, "height":0.803946}, "confidence":0.969437}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.656616, "center_y":0.440579, "width":0.125256, "height":0.586474}, "confidence":0.960801}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.537688, "center_y":0.608214, "width":0.194708, "height":0.667667}, "confidence":0.939442}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.021370, "center_y":0.432230, "width":0.043568, "height":0.627869}, "confidence":0.597914}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.576960, "center_y":0.267560, "width":0.064411, "height":0.122383}, "confidence":0.490572}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0009.png", 
+ "objects": [ 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.652342, "center_y":0.540500, "width":0.068398, "height":0.139381}, "confidence":0.528494}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.135548, "center_y":0.494112, "width":0.279152, "height":0.913385}, "confidence":0.420311}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.934685, "center_y":0.766365, "width":0.133108, "height":0.466854}, "confidence":0.815423}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.869226, "center_y":0.850816, "width":0.265021, "height":0.300419}, "confidence":0.292614}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.567518, "center_y":0.504957, "width":0.402756, "height":1.065570}, "confidence":0.965644}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.231987, "center_y":0.792580, "width":0.407465, "height":0.412603}, "confidence":0.618060}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0010.png", 
+ "objects": [ 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.096044, "center_y":0.184165, "width":0.188149, "height":0.360702}, "confidence":0.305756}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.180016, "center_y":0.484523, "width":0.364935, "height":0.993501}, "confidence":0.853352}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.753058, "center_y":0.557166, "width":0.364392, "height":0.896200}, "confidence":0.881193}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.235156, "center_y":0.791380, "width":0.228080, "height":0.425914}, "confidence":0.907588}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0011.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.831216, "center_y":0.645867, "width":0.347437, "height":0.695473}, "confidence":0.951463}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.288007, "center_y":0.495539, "width":0.590091, "height":1.023232}, "confidence":0.709777}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0012.png", 
+ "objects": [ 
+  {"class_id":33, "name":"kite", "relative_coordinates":{"center_x":0.048042, "center_y":0.082767, "width":0.031679, "height":0.049668}, "confidence":0.835108}, 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.359337, "center_y":0.724225, "width":0.073826, "height":0.151298}, "confidence":0.310852}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.138851, "center_y":0.667201, "width":0.081577, "height":0.224241}, "confidence":0.848373}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.605107, "center_y":0.555936, "width":0.405570, "height":0.909388}, "confidence":0.837632}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.220757, "center_y":0.557599, "width":0.021620, "height":0.069591}, "confidence":0.713818}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.466597, "center_y":0.701072, "width":0.132518, "height":0.242300}, "confidence":0.684101}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.168219, "center_y":0.751013, "width":0.129996, "height":0.343901}, "confidence":0.673128}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.361676, "center_y":0.702453, "width":0.082028, "height":0.182525}, "confidence":0.585151}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.394877, "center_y":0.765178, "width":0.070845, "height":0.205297}, "confidence":0.495427}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.247501, "center_y":0.590921, "width":0.062668, "height":0.096328}, "confidence":0.329439}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.294120, "center_y":0.610377, "width":0.031222, "height":0.049097}, "confidence":0.264181}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.336252, "center_y":0.652001, "width":0.042704, "height":0.142532}, "confidence":0.855656}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.276338, "center_y":0.804980, "width":0.223915, "height":0.388099}, "confidence":0.976388}, 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.709713, "center_y":0.502208, "width":0.222500, "height":0.510659}, "confidence":0.569534}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0013.png", 
+ "objects": [ 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.442587, "center_y":0.758232, "width":0.864766, "height":0.154377}, "confidence":0.588437}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.122951, "center_y":0.587068, "width":0.239539, "height":0.344523}, "confidence":0.982825}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.359404, "center_y":0.489571, "width":0.188377, "height":0.521076}, "confidence":0.993831}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0014.png", 
+ "objects": [ 
+  {"class_id":33, "name":"kite", "relative_coordinates":{"center_x":0.047568, "center_y":0.082840, "width":0.032239, "height":0.051515}, "confidence":0.454684}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.454266, "center_y":0.689204, "width":0.042926, "height":0.143442}, "confidence":0.829586}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.327047, "center_y":0.676833, "width":0.114567, "height":0.186490}, "confidence":0.820467}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.513257, "center_y":0.698547, "width":0.094879, "height":0.169883}, "confidence":0.819510}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.912139, "center_y":0.643941, "width":0.058089, "height":0.178202}, "confidence":0.795556}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.584293, "center_y":0.689933, "width":0.044404, "height":0.117569}, "confidence":0.710530}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.647727, "center_y":0.692724, "width":0.101702, "height":0.127815}, "confidence":0.605506}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.768952, "center_y":0.687772, "width":0.067000, "height":0.112630}, "confidence":0.574171}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.719763, "center_y":0.678779, "width":0.069548, "height":0.141114}, "confidence":0.562799}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.808783, "center_y":0.663178, "width":0.050597, "height":0.071161}, "confidence":0.519318}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.854246, "center_y":0.686328, "width":0.072782, "height":0.112339}, "confidence":0.489280}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.499896, "center_y":0.771991, "width":0.978292, "height":0.110309}, "confidence":0.259505}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.129838, "center_y":0.615577, "width":0.083119, "height":0.302266}, "confidence":0.993977}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0015.png", 
+ "objects": [ 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.059963, "center_y":0.653339, "width":0.122254, "height":0.365305}, "confidence":0.401289}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.340208, "center_y":0.701469, "width":0.403565, "height":0.560447}, "confidence":0.875383}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.238325, "center_y":0.638885, "width":0.234792, "height":0.440272}, "confidence":0.317238}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.271033, "center_y":0.506718, "width":0.140592, "height":0.194966}, "confidence":0.258409}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.129446, "center_y":0.720512, "width":0.254921, "height":0.566043}, "confidence":0.914898}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.511575, "center_y":0.860859, "width":0.965029, "height":0.267671}, "confidence":0.339446}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.707801, "center_y":0.413695, "width":0.293409, "height":0.816859}, "confidence":0.968809}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0016.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.616628, "center_y":0.518534, "width":0.621877, "height":0.992628}, "confidence":0.831291}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0017.png", 
+ "objects": [ 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.492835, "center_y":0.761114, "width":0.918709, "height":0.138226}, "confidence":0.653950}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.322511, "center_y":0.625996, "width":0.112564, "height":0.331235}, "confidence":0.975898}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.251863, "center_y":0.614071, "width":0.099820, "height":0.329940}, "confidence":0.972596}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.505051, "center_y":0.640451, "width":0.108220, "height":0.355111}, "confidence":0.956202}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.060477, "center_y":0.591125, "width":0.115823, "height":0.285048}, "confidence":0.953989}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.407570, "center_y":0.635691, "width":0.103625, "height":0.341837}, "confidence":0.937491}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.691935, "center_y":0.483794, "width":0.183183, "height":0.541467}, "confidence":0.904043}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.566261, "center_y":0.594022, "width":0.089120, "height":0.272670}, "confidence":0.766511}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.373925, "center_y":0.517441, "width":0.053526, "height":0.122522}, "confidence":0.735909}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.106722, "center_y":0.546426, "width":0.047435, "height":0.235518}, "confidence":0.455466}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.008371, "center_y":0.615534, "width":0.018584, "height":0.299634}, "confidence":0.373163}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.174692, "center_y":0.618153, "width":0.104476, "height":0.355561}, "confidence":0.991403}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0018.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.332402, "center_y":0.508885, "width":0.472774, "height":1.012136}, "confidence":0.964301}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0019.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.761847, "center_y":0.529222, "width":0.044234, "height":0.077165}, "confidence":0.375576}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.072038, "center_y":0.866421, "width":0.144953, "height":0.269112}, "confidence":0.338938}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.178584, "center_y":0.919930, "width":0.257893, "height":0.162297}, "confidence":0.375874}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.818959, "center_y":0.572445, "width":0.330361, "height":0.888548}, "confidence":0.490727}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0020.png", 
+ "objects": [ 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.508804, "center_y":0.770455, "width":0.943580, "height":0.284562}, "confidence":0.576385}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.059995, "center_y":0.538093, "width":0.121785, "height":0.755053}, "confidence":0.564221}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.982002, "center_y":0.359784, "width":0.037320, "height":0.642064}, "confidence":0.441889}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.362914, "center_y":0.404479, "width":0.370256, "height":0.610421}, "confidence":0.956080}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.636921, "center_y":0.173803, "width":0.078845, "height":0.179482}, "confidence":0.334144}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.772875, "center_y":0.382176, "width":0.383857, "height":0.635709}, "confidence":0.966445}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0021.png", 
+ "objects": [ 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.079163, "center_y":0.667004, "width":0.162946, "height":0.642691}, "confidence":0.460629}, 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.560850, "center_y":0.486615, "width":0.121555, "height":0.396105}, "confidence":0.351445}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.654895, "center_y":0.597829, "width":0.271251, "height":0.788707}, "confidence":0.866869}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.452577, "center_y":0.449728, "width":0.088321, "height":0.357924}, "confidence":0.839099}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.647185, "center_y":0.338950, "width":0.036176, "height":0.090888}, "confidence":0.767933}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.560785, "center_y":0.486464, "width":0.123637, "height":0.402746}, "confidence":0.621288}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.403760, "center_y":0.539409, "width":0.155606, "height":0.483941}, "confidence":0.576118}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.283078, "center_y":0.462353, "width":0.218738, "height":0.466105}, "confidence":0.562558}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.283322, "center_y":0.611323, "width":0.308355, "height":0.790404}, "confidence":0.455308}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.822112, "center_y":0.504146, "width":0.353779, "height":1.023625}, "confidence":0.385148}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.039291, "center_y":0.231528, "width":0.079762, "height":0.354891}, "confidence":0.312730}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.416168, "center_y":0.408790, "width":0.088793, "height":0.273229}, "confidence":0.274993}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.488492, "center_y":0.878945, "width":0.158602, "height":0.221622}, "confidence":0.276458}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.502905, "center_y":0.260399, "width":0.077801, "height":0.218512}, "confidence":0.973239}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0022.png", 
+ "objects": [ 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.492633, "center_y":0.391654, "width":0.909323, "height":0.363524}, "confidence":0.250148}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.501096, "center_y":0.250175, "width":0.691261, "height":0.509938}, "confidence":0.758488}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.133350, "center_y":0.271018, "width":0.264671, "height":0.546011}, "confidence":0.850309}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0023.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.659632, "center_y":0.514330, "width":0.386172, "height":0.950464}, "confidence":0.919156}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0024.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0025.png", 
+ "objects": [ 
+  {"class_id":33, "name":"kite", "relative_coordinates":{"center_x":0.047799, "center_y":0.083845, "width":0.031729, "height":0.049759}, "confidence":0.654340}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.601175, "center_y":0.666685, "width":0.047987, "height":0.137605}, "confidence":0.951493}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.532587, "center_y":0.650990, "width":0.027784, "height":0.084411}, "confidence":0.281028}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.558315, "center_y":0.599866, "width":0.067251, "height":0.270145}, "confidence":0.984266}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0026.png", 
+ "objects": [ 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.907765, "center_y":0.609526, "width":0.186285, "height":0.146266}, "confidence":0.601672}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.393250, "center_y":0.519298, "width":0.520281, "height":0.984402}, "confidence":0.969015}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0027.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.515169, "center_y":0.588786, "width":0.264952, "height":0.833420}, "confidence":0.989833}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.082440, "center_y":0.601586, "width":0.167960, "height":0.794253}, "confidence":0.978822}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.802824, "center_y":0.572990, "width":0.220023, "height":0.875583}, "confidence":0.969099}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.300374, "center_y":0.609500, "width":0.236105, "height":0.781647}, "confidence":0.957533}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.943255, "center_y":0.564197, "width":0.116985, "height":0.862692}, "confidence":0.933874}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.182050, "center_y":0.648370, "width":0.104341, "height":0.691396}, "confidence":0.884704}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0028.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.912069, "center_y":0.344361, "width":0.180765, "height":0.090312}, "confidence":0.805136}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.964656, "center_y":0.339685, "width":0.067245, "height":0.092194}, "confidence":0.549870}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.299084, "center_y":0.390222, "width":0.083525, "height":0.181946}, "confidence":0.763618}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.433146, "center_y":0.416047, "width":0.162870, "height":0.270658}, "confidence":0.638960}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.355058, "center_y":0.742497, "width":0.326944, "height":0.517623}, "confidence":0.632282}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.229512, "center_y":0.354880, "width":0.087186, "height":0.147184}, "confidence":0.625999}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.587038, "center_y":0.804585, "width":0.247092, "height":0.401586}, "confidence":0.562728}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.775301, "center_y":0.416174, "width":0.125246, "height":0.203208}, "confidence":0.478572}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.097534, "center_y":0.539122, "width":0.200719, "height":0.452283}, "confidence":0.893625}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.858818, "center_y":0.397999, "width":0.230635, "height":0.225070}, "confidence":0.375804}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.800162, "center_y":0.608810, "width":0.402688, "height":0.792830}, "confidence":0.363523}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.767263, "center_y":0.443128, "width":0.246559, "height":0.299762}, "confidence":0.259823}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.141509, "center_y":0.692087, "width":0.296859, "height":0.632103}, "confidence":0.907192}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.666682, "center_y":0.440270, "width":0.171634, "height":0.269645}, "confidence":0.876285}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.591154, "center_y":0.395587, "width":0.116409, "height":0.303430}, "confidence":0.936944}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.492664, "center_y":0.416117, "width":0.116691, "height":0.276089}, "confidence":0.946161}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0029.png", 
+ "objects": [ 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.821921, "center_y":0.881605, "width":0.179401, "height":0.237327}, "confidence":0.837478}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.386389, "center_y":0.502625, "width":0.673839, "height":0.970407}, "confidence":0.415211}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.675545, "center_y":0.655441, "width":0.183614, "height":0.707486}, "confidence":0.697655}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.200932, "center_y":0.615132, "width":0.359020, "height":0.752943}, "confidence":0.719494}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.916065, "center_y":0.648565, "width":0.170761, "height":0.718957}, "confidence":0.944792}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0030.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.887083, "center_y":0.403906, "width":0.070532, "height":0.386012}, "confidence":0.978450}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.773755, "center_y":0.603826, "width":0.461856, "height":0.786431}, "confidence":0.920804}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.412426, "center_y":0.638440, "width":0.258859, "height":0.730766}, "confidence":0.874642}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.237738, "center_y":0.571537, "width":0.262914, "height":0.893803}, "confidence":0.781954}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.079279, "center_y":0.566955, "width":0.161858, "height":0.888363}, "confidence":0.768282}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.030192, "center_y":0.564187, "width":0.061304, "height":0.855820}, "confidence":0.617053}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.828096, "center_y":0.271388, "width":0.041242, "height":0.192165}, "confidence":0.489219}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.811272, "center_y":0.400938, "width":0.074769, "height":0.148592}, "confidence":0.437226}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.608607, "center_y":0.601402, "width":0.328155, "height":0.818516}, "confidence":0.436476}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.174616, "center_y":0.256906, "width":0.039382, "height":0.094296}, "confidence":0.355477}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.769992, "center_y":0.332609, "width":0.044768, "height":0.082300}, "confidence":0.325415}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.382267, "center_y":0.245950, "width":0.033624, "height":0.080219}, "confidence":0.276161}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0031.png", 
+ "objects": [ 
+  {"class_id":4, "name":"aeroplane", "relative_coordinates":{"center_x":0.497327, "center_y":0.513764, "width":0.916453, "height":0.901681}, "confidence":0.253781}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.644139, "center_y":0.531965, "width":0.384401, "height":0.963001}, "confidence":0.872603}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0032.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.950586, "center_y":0.826097, "width":0.052380, "height":0.079289}, "confidence":0.273604}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.072142, "center_y":0.746976, "width":0.147833, "height":0.159670}, "confidence":0.334315}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.949708, "center_y":0.570777, "width":0.097818, "height":0.050253}, "confidence":0.306086}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.015286, "center_y":0.835557, "width":0.027214, "height":0.067884}, "confidence":0.258563}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.922731, "center_y":0.798022, "width":0.034988, "height":0.093531}, "confidence":0.304432}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.936396, "center_y":0.747512, "width":0.038633, "height":0.067417}, "confidence":0.307579}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.910630, "center_y":0.619084, "width":0.171115, "height":0.107307}, "confidence":0.691517}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.019145, "center_y":0.872361, "width":0.036102, "height":0.117963}, "confidence":0.426841}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.487821, "center_y":0.506185, "width":0.856037, "height":1.029080}, "confidence":0.993987}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0033.png", 
+ "objects": [ 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.113111, "center_y":0.961518, "width":0.240774, "height":0.078127}, "confidence":0.485794}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.037787, "center_y":0.557138, "width":0.083056, "height":0.685867}, "confidence":0.544983}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.879358, "center_y":0.502619, "width":0.242492, "height":1.046342}, "confidence":0.538941}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.539993, "center_y":0.655627, "width":0.133244, "height":0.688613}, "confidence":0.520515}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.071873, "center_y":0.645265, "width":0.134285, "height":0.589614}, "confidence":0.329553}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.574376, "center_y":0.402534, "width":0.049762, "height":0.116527}, "confidence":0.307690}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.531854, "center_y":0.409288, "width":0.052988, "height":0.139915}, "confidence":0.278514}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.673536, "center_y":0.545672, "width":0.241016, "height":0.785609}, "confidence":0.271096}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.064043, "center_y":0.377140, "width":0.060397, "height":0.111303}, "confidence":0.648539}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.288639, "center_y":0.538784, "width":0.437463, "height":0.922702}, "confidence":0.982367}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.506354, "center_y":0.916471, "width":0.054036, "height":0.124531}, "confidence":0.259213}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0034.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.534485, "center_y":0.529378, "width":0.385480, "height":0.937476}, "confidence":0.958823}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0035.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.388797, "center_y":0.514820, "width":0.447742, "height":0.995703}, "confidence":0.955307}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.021153, "center_y":0.486864, "width":0.042648, "height":0.292039}, "confidence":0.463809}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.102000, "center_y":0.573555, "width":0.044353, "height":0.281947}, "confidence":0.310237}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0036.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.661431, "center_y":0.501455, "width":0.570200, "height":1.011597}, "confidence":0.727189}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.491916, "center_y":0.495592, "width":0.966200, "height":0.887382}, "confidence":0.273755}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0037.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.507653, "center_y":0.497636, "width":0.881364, "height":1.038714}, "confidence":0.927026}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.927785, "center_y":0.768266, "width":0.147606, "height":0.461885}, "confidence":0.910339}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.645635, "center_y":0.633227, "width":0.100160, "height":0.119840}, "confidence":0.708613}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.308382, "center_y":0.542436, "width":0.131021, "height":0.328803}, "confidence":0.537056}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.770989, "center_y":0.696308, "width":0.094187, "height":0.199453}, "confidence":0.406537}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.812147, "center_y":0.726848, "width":0.104784, "height":0.270739}, "confidence":0.347119}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.034067, "center_y":0.859140, "width":0.069155, "height":0.268610}, "confidence":0.297477}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.069025, "center_y":0.748924, "width":0.096952, "height":0.236686}, "confidence":0.275607}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0038.png", 
+ "objects": [ 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.957828, "center_y":0.875875, "width":0.082567, "height":0.248815}, "confidence":0.314741}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.955840, "center_y":0.699544, "width":0.091390, "height":0.598825}, "confidence":0.860084}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.409648, "center_y":0.480109, "width":0.080143, "height":0.238346}, "confidence":0.898399}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.875539, "center_y":0.699479, "width":0.216194, "height":0.583424}, "confidence":0.464528}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.136086, "center_y":0.502487, "width":0.078188, "height":0.306347}, "confidence":0.463167}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.196542, "center_y":0.932854, "width":0.113943, "height":0.130509}, "confidence":0.256184}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.499507, "center_y":0.542436, "width":0.966919, "height":0.998271}, "confidence":0.995298}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0039.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.277152, "center_y":0.536296, "width":0.410712, "height":0.937540}, "confidence":0.988376}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.625679, "center_y":0.612241, "width":0.363505, "height":0.792813}, "confidence":0.977429}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.113369, "center_y":0.534086, "width":0.059575, "height":0.374816}, "confidence":0.971162}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.838410, "center_y":0.513986, "width":0.075002, "height":0.415249}, "confidence":0.947163}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.750456, "center_y":0.429580, "width":0.059269, "height":0.282847}, "confidence":0.742831}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.793257, "center_y":0.453599, "width":0.046968, "height":0.291310}, "confidence":0.705187}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.253969, "center_y":0.325492, "width":0.040611, "height":0.088846}, "confidence":0.518210}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.480685, "center_y":0.405244, "width":0.055575, "height":0.209232}, "confidence":0.362649}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.557162, "center_y":0.406822, "width":0.065762, "height":0.196177}, "confidence":0.315593}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0040.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.502303, "center_y":0.649965, "width":0.314388, "height":0.723404}, "confidence":0.968831}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.179577, "center_y":0.603812, "width":0.295960, "height":0.825871}, "confidence":0.967017}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.883803, "center_y":0.597392, "width":0.231831, "height":0.788117}, "confidence":0.965615}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.974689, "center_y":0.439284, "width":0.051299, "height":0.327008}, "confidence":0.858216}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.338754, "center_y":0.607268, "width":0.307729, "height":0.826752}, "confidence":0.845198}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.747680, "center_y":0.603821, "width":0.273829, "height":0.812836}, "confidence":0.766800}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.914513, "center_y":0.413040, "width":0.038102, "height":0.067596}, "confidence":0.448060}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0041.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.593961, "center_y":0.513219, "width":0.368673, "height":0.958834}, "confidence":0.954080}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0042.png", 
+ "objects": [ 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.665907, "center_y":0.432255, "width":0.155395, "height":0.265340}, "confidence":0.902915}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.294512, "center_y":0.390341, "width":0.082052, "height":0.232141}, "confidence":0.553723}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.636043, "center_y":0.361177, "width":0.015593, "height":0.040265}, "confidence":0.264720}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.291777, "center_y":0.424148, "width":0.014002, "height":0.036450}, "confidence":0.251424}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.692779, "center_y":0.454858, "width":0.013155, "height":0.047965}, "confidence":0.250337}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.597466, "center_y":0.334132, "width":0.015876, "height":0.066845}, "confidence":0.313121}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.687042, "center_y":0.426845, "width":0.011847, "height":0.045994}, "confidence":0.330786}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.307146, "center_y":0.451517, "width":0.017153, "height":0.042277}, "confidence":0.309170}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.614344, "center_y":0.332928, "width":0.017715, "height":0.063053}, "confidence":0.343290}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.704135, "center_y":0.453342, "width":0.014567, "height":0.059924}, "confidence":0.369509}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.675148, "center_y":0.425714, "width":0.013071, "height":0.058401}, "confidence":0.404575}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.700833, "center_y":0.440429, "width":0.011057, "height":0.034157}, "confidence":0.265209}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.715873, "center_y":0.455296, "width":0.015313, "height":0.069144}, "confidence":0.574003}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0043.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.760934, "center_y":0.613476, "width":0.020467, "height":0.032905}, "confidence":0.548124}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.330703, "center_y":0.603382, "width":0.461732, "height":0.291101}, "confidence":0.624502}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.460079, "center_y":0.544223, "width":0.046701, "height":0.101613}, "confidence":0.648797}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.299356, "center_y":0.589257, "width":0.029680, "height":0.131771}, "confidence":0.547067}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.522030, "center_y":0.441369, "width":0.033745, "height":0.088899}, "confidence":0.537732}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.532348, "center_y":0.451521, "width":0.019229, "height":0.093021}, "confidence":0.455821}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.483883, "center_y":0.513889, "width":0.044320, "height":0.098135}, "confidence":0.452591}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.404150, "center_y":0.518790, "width":0.018034, "height":0.054522}, "confidence":0.448077}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.519208, "center_y":0.492099, "width":0.031029, "height":0.069823}, "confidence":0.440167}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.431057, "center_y":0.544099, "width":0.036610, "height":0.081994}, "confidence":0.388645}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.348443, "center_y":0.560325, "width":0.033814, "height":0.109962}, "confidence":0.376393}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.379284, "center_y":0.520233, "width":0.026973, "height":0.064770}, "confidence":0.373596}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.554544, "center_y":0.468673, "width":0.022232, "height":0.069465}, "confidence":0.358731}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.056676, "center_y":0.439255, "width":0.023172, "height":0.063009}, "confidence":0.317975}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.323287, "center_y":0.569610, "width":0.027479, "height":0.105552}, "confidence":0.667906}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.034784, "center_y":0.443310, "width":0.026439, "height":0.064116}, "confidence":0.293634}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.179269, "center_y":0.403304, "width":0.017449, "height":0.039438}, "confidence":0.282368}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.443349, "center_y":0.494264, "width":0.017738, "height":0.041153}, "confidence":0.281011}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.426226, "center_y":0.502441, "width":0.024671, "height":0.053426}, "confidence":0.273657}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.414675, "center_y":0.571644, "width":0.028466, "height":0.102501}, "confidence":0.268330}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.094117, "center_y":0.437425, "width":0.114887, "height":0.098099}, "confidence":0.251784}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.388142, "center_y":0.590142, "width":0.041880, "height":0.123147}, "confidence":0.708040}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.089006, "center_y":0.452394, "width":0.181207, "height":0.126568}, "confidence":0.768504}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.260583, "center_y":0.562432, "width":0.065871, "height":0.234365}, "confidence":0.992054}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0044.png", 
+ "objects": [ 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.501246, "center_y":0.812307, "width":1.014552, "height":0.209156}, "confidence":0.475213}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.428928, "center_y":0.386586, "width":0.108052, "height":0.233422}, "confidence":0.838391}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.068125, "center_y":0.644568, "width":0.136303, "height":0.365416}, "confidence":0.768005}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.191888, "center_y":0.656494, "width":0.146265, "height":0.296886}, "confidence":0.724219}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.800925, "center_y":0.176379, "width":0.095837, "height":0.234711}, "confidence":0.707433}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.517335, "center_y":0.624622, "width":0.211058, "height":0.316743}, "confidence":0.651857}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.328105, "center_y":0.404475, "width":0.093788, "height":0.204906}, "confidence":0.584306}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.132412, "center_y":0.403212, "width":0.086280, "height":0.213688}, "confidence":0.570159}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.341902, "center_y":0.647974, "width":0.204384, "height":0.324957}, "confidence":0.569871}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.355212, "center_y":0.327077, "width":0.074565, "height":0.174116}, "confidence":0.376359}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.042946, "center_y":0.390166, "width":0.080654, "height":0.208083}, "confidence":0.269352}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.529289, "center_y":0.383491, "width":0.110712, "height":0.267059}, "confidence":0.955564}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.778165, "center_y":0.465949, "width":0.163596, "height":0.627929}, "confidence":0.976118}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0045.png", 
+ "objects": [ 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.935370, "center_y":0.032817, "width":0.049442, "height":0.044316}, "confidence":0.381139}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.135164, "center_y":0.561735, "width":0.085387, "height":0.299151}, "confidence":0.926426}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.197386, "center_y":0.609265, "width":0.106450, "height":0.187068}, "confidence":0.893619}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.609600, "center_y":0.534044, "width":0.099598, "height":0.177673}, "confidence":0.777005}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.543444, "center_y":0.550617, "width":0.112184, "height":0.155782}, "confidence":0.709856}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.326408, "center_y":0.590184, "width":0.110730, "height":0.174541}, "confidence":0.702324}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.712399, "center_y":0.514724, "width":0.100641, "height":0.173748}, "confidence":0.699720}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.442356, "center_y":0.564099, "width":0.140591, "height":0.170174}, "confidence":0.670462}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.585781, "center_y":0.216438, "width":0.035622, "height":0.146525}, "confidence":0.664679}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.239439, "center_y":0.554918, "width":0.096147, "height":0.246826}, "confidence":0.638005}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.757461, "center_y":0.490508, "width":0.103871, "height":0.191618}, "confidence":0.504450}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.821924, "center_y":0.494122, "width":0.084247, "height":0.172691}, "confidence":0.492283}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.855262, "center_y":0.492704, "width":0.075613, "height":0.169046}, "confidence":0.442715}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.445456, "center_y":0.490235, "width":0.116521, "height":0.141109}, "confidence":0.415934}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.378194, "center_y":0.278622, "width":0.058390, "height":0.089269}, "confidence":0.390415}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.036740, "center_y":0.260265, "width":0.049804, "height":0.159363}, "confidence":0.376995}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.345460, "center_y":0.499622, "width":0.092599, "height":0.181254}, "confidence":0.362059}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.426438, "center_y":0.275140, "width":0.034350, "height":0.101620}, "confidence":0.341341}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.163306, "center_y":0.292585, "width":0.041521, "height":0.088435}, "confidence":0.289778}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.020371, "center_y":0.599260, "width":0.041094, "height":0.210426}, "confidence":0.286187}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.255432, "center_y":0.283045, "width":0.037879, "height":0.091254}, "confidence":0.283254}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.495336, "center_y":0.494115, "width":0.991185, "height":0.415036}, "confidence":0.272212}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.303717, "center_y":0.281841, "width":0.035614, "height":0.085381}, "confidence":0.262093}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.483150, "center_y":0.662361, "width":1.025636, "height":0.297718}, "confidence":0.649924}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.045508, "center_y":0.618023, "width":0.086244, "height":0.202465}, "confidence":0.929895}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.692234, "center_y":0.442546, "width":0.115390, "height":0.156390}, "confidence":0.363095}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.927998, "center_y":0.405951, "width":0.091633, "height":0.229826}, "confidence":0.947874}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0046.png", 
+ "objects": [ 
+  {"class_id":33, "name":"kite", "relative_coordinates":{"center_x":0.047878, "center_y":0.083297, "width":0.031000, "height":0.050496}, "confidence":0.326861}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.571034, "center_y":0.614746, "width":0.110283, "height":0.800883}, "confidence":0.864300}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.443383, "center_y":0.647733, "width":0.180737, "height":0.704004}, "confidence":0.857074}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.665322, "center_y":0.608291, "width":0.207922, "height":0.793068}, "confidence":0.826919}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.877194, "center_y":0.500451, "width":0.239493, "height":1.012616}, "confidence":0.755262}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.124895, "center_y":0.619602, "width":0.154023, "height":0.780443}, "confidence":0.657633}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.760168, "center_y":0.611223, "width":0.254584, "height":0.769563}, "confidence":0.487113}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.614837, "center_y":0.324210, "width":0.043209, "height":0.154717}, "confidence":0.363937}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.061625, "center_y":0.617630, "width":0.123288, "height":0.761463}, "confidence":0.954288}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.252769, "center_y":0.623365, "width":0.252691, "height":0.768754}, "confidence":0.970403}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0047.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.607328, "center_y":0.517683, "width":0.620890, "height":0.960747}, "confidence":0.745197}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0048.png", 
+ "objects": [ 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.958988, "center_y":0.452797, "width":0.017369, "height":0.072503}, "confidence":0.252261}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.608495, "center_y":0.595485, "width":0.172436, "height":0.846203}, "confidence":0.974704}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.812521, "center_y":0.555854, "width":0.266557, "height":0.842957}, "confidence":0.952789}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.429054, "center_y":0.586042, "width":0.236824, "height":0.847618}, "confidence":0.909524}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.939882, "center_y":0.564813, "width":0.092176, "height":0.644039}, "confidence":0.859149}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.877411, "center_y":0.601140, "width":0.113351, "height":0.607497}, "confidence":0.842357}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.543778, "center_y":0.324095, "width":0.096491, "height":0.215828}, "confidence":0.748793}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.294195, "center_y":0.556681, "width":0.440546, "height":0.949786}, "confidence":0.526178}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.310147, "center_y":0.259577, "width":0.040388, "height":0.098744}, "confidence":0.438312}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.978447, "center_y":0.541092, "width":0.043946, "height":0.563046}, "confidence":0.401446}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.470206, "center_y":0.280783, "width":0.039746, "height":0.120277}, "confidence":0.313631}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.103025, "center_y":0.567865, "width":0.087354, "height":0.479427}, "confidence":0.982857}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0049.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.623234, "center_y":0.508269, "width":0.070466, "height":0.094047}, "confidence":0.907632}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.924947, "center_y":0.457854, "width":0.147136, "height":0.342795}, "confidence":0.899351}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.819983, "center_y":0.488834, "width":0.347196, "height":0.461831}, "confidence":0.892904}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.047562, "center_y":0.727987, "width":0.094967, "height":0.486251}, "confidence":0.849871}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.184393, "center_y":0.622340, "width":0.335697, "height":0.764943}, "confidence":0.783502}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.501322, "center_y":0.594677, "width":0.974504, "height":0.847434}, "confidence":0.663754}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.573111, "center_y":0.486192, "width":0.080043, "height":0.088749}, "confidence":0.628547}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.860262, "center_y":0.461219, "width":0.115643, "height":0.340943}, "confidence":0.559077}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.550066, "center_y":0.485068, "width":0.041445, "height":0.078791}, "confidence":0.416475}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.967426, "center_y":0.463858, "width":0.065055, "height":0.162039}, "confidence":0.302903}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0050.png", 
+ "objects": [ 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.208350, "center_y":0.814508, "width":0.262732, "height":0.222584}, "confidence":0.781060}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.070044, "center_y":0.378922, "width":0.142247, "height":0.076656}, "confidence":0.496456}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.610920, "center_y":0.536074, "width":0.493586, "height":0.945200}, "confidence":0.971260}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0051.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.618777, "center_y":0.115780, "width":0.113541, "height":0.159884}, "confidence":0.498082}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.928577, "center_y":0.551853, "width":0.114527, "height":0.563969}, "confidence":0.527825}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.198170, "center_y":0.430425, "width":0.104055, "height":0.265640}, "confidence":0.517118}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.799309, "center_y":0.409215, "width":0.066375, "height":0.187081}, "confidence":0.399318}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.332454, "center_y":0.428427, "width":0.055512, "height":0.212099}, "confidence":0.345765}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.283309, "center_y":0.403783, "width":0.082895, "height":0.252196}, "confidence":0.324113}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.806590, "center_y":0.553618, "width":0.087992, "height":0.500121}, "confidence":0.275762}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.864966, "center_y":0.511474, "width":0.087061, "height":0.505521}, "confidence":0.260269}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.436402, "center_y":0.530626, "width":0.776477, "height":0.984479}, "confidence":0.959631}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0052.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.179402, "center_y":0.500831, "width":0.358513, "height":0.978545}, "confidence":0.888296}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.233715, "center_y":0.433586, "width":0.224459, "height":0.621828}, "confidence":0.754164}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.663344, "center_y":0.510655, "width":0.508469, "height":1.017916}, "confidence":0.675222}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.753702, "center_y":0.337972, "width":0.052721, "height":0.111957}, "confidence":0.548480}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.534815, "center_y":0.332103, "width":0.104231, "height":0.238670}, "confidence":0.547955}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.412309, "center_y":0.545318, "width":0.304407, "height":0.918930}, "confidence":0.481483}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0053.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.307894, "center_y":0.863425, "width":0.067810, "height":0.275514}, "confidence":0.752486}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.019622, "center_y":0.982295, "width":0.041372, "height":0.035969}, "confidence":0.509035}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.885404, "center_y":0.619375, "width":0.215139, "height":0.788697}, "confidence":0.357419}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.201398, "center_y":0.657191, "width":0.385410, "height":0.653750}, "confidence":0.256851}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.086527, "center_y":0.885970, "width":0.128789, "height":0.230657}, "confidence":0.815175}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.665503, "center_y":0.553246, "width":0.637656, "height":0.877547}, "confidence":0.843543}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0054.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.050376, "center_y":0.706507, "width":0.100534, "height":0.574638}, "confidence":0.943347}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.093860, "center_y":0.600478, "width":0.073309, "height":0.208618}, "confidence":0.925619}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.608071, "center_y":0.540287, "width":0.639368, "height":0.938280}, "confidence":0.862338}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.189811, "center_y":0.666346, "width":0.251643, "height":0.665333}, "confidence":0.676881}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.114698, "center_y":0.454412, "width":0.060374, "height":0.114502}, "confidence":0.568726}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.923444, "center_y":0.690551, "width":0.156304, "height":0.618990}, "confidence":0.548014}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.274424, "center_y":0.536327, "width":0.055951, "height":0.086904}, "confidence":0.334282}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0055.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.162938, "center_y":0.849581, "width":0.020618, "height":0.057233}, "confidence":0.419321}, 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.229169, "center_y":0.794713, "width":0.013971, "height":0.065143}, "confidence":0.351124}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.614434, "center_y":0.504446, "width":0.797362, "height":1.068353}, "confidence":0.799899}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.129408, "center_y":0.803291, "width":0.261002, "height":0.404747}, "confidence":0.787777}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.256140, "center_y":0.818045, "width":0.066647, "height":0.225910}, "confidence":0.692755}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.152935, "center_y":0.877816, "width":0.061017, "height":0.185864}, "confidence":0.537410}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.831614, "center_y":0.516311, "width":0.098608, "height":0.100324}, "confidence":0.521571}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.108945, "center_y":0.859241, "width":0.059101, "height":0.135110}, "confidence":0.407007}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.094646, "center_y":0.823782, "width":0.035594, "height":0.064721}, "confidence":0.272937}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.406594, "center_y":0.633414, "width":0.079965, "height":0.158072}, "confidence":0.841229}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0056.png", 
+ "objects": [ 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.224499, "center_y":0.846668, "width":0.042100, "height":0.235524}, "confidence":0.757985}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.759087, "center_y":0.669110, "width":0.049451, "height":0.324475}, "confidence":0.909894}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.268759, "center_y":0.652286, "width":0.049642, "height":0.203200}, "confidence":0.588188}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.615823, "center_y":0.660290, "width":0.088604, "height":0.360824}, "confidence":0.395199}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.520585, "center_y":0.534833, "width":0.449199, "height":0.915681}, "confidence":0.980503}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.213462, "center_y":0.726422, "width":0.088516, "height":0.438286}, "confidence":0.994264}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0057.png", 
+ "objects": [ 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.435560, "center_y":0.386039, "width":0.085624, "height":0.042981}, "confidence":0.655291}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.543031, "center_y":0.379449, "width":0.043626, "height":0.053534}, "confidence":0.614820}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.508681, "center_y":0.400474, "width":0.071145, "height":0.048640}, "confidence":0.601845}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.197544, "center_y":0.465414, "width":0.148202, "height":0.141760}, "confidence":0.591138}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.323132, "center_y":0.485258, "width":0.238674, "height":0.169442}, "confidence":0.591043}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.385545, "center_y":0.380439, "width":0.064213, "height":0.045004}, "confidence":0.437907}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.266297, "center_y":0.432238, "width":0.049377, "height":0.037391}, "confidence":0.399382}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.508354, "center_y":0.426713, "width":0.075766, "height":0.093748}, "confidence":0.315109}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.383554, "center_y":0.559770, "width":0.015663, "height":0.041442}, "confidence":0.268393}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.645629, "center_y":0.512276, "width":0.446885, "height":0.976884}, "confidence":0.930398}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.352849, "center_y":0.562823, "width":0.021216, "height":0.031988}, "confidence":0.274073}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.436309, "center_y":0.477578, "width":0.025249, "height":0.058208}, "confidence":0.379810}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.218009, "center_y":0.802648, "width":0.431454, "height":0.393972}, "confidence":0.354634}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.854575, "center_y":0.119906, "width":0.083280, "height":0.087387}, "confidence":0.340000}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0058.png", 
+ "objects": [ 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.717215, "center_y":0.654597, "width":0.259572, "height":0.073700}, "confidence":0.743342}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.040834, "center_y":0.456312, "width":0.011529, "height":0.024797}, "confidence":0.595866}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.304328, "center_y":0.454897, "width":0.012337, "height":0.034461}, "confidence":0.498364}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.959310, "center_y":0.450347, "width":0.013922, "height":0.051664}, "confidence":0.460763}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.726561, "center_y":0.647784, "width":0.013920, "height":0.028388}, "confidence":0.677231}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.741006, "center_y":0.647308, "width":0.011812, "height":0.030540}, "confidence":0.663886}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.700942, "center_y":0.646395, "width":0.012198, "height":0.029014}, "confidence":0.622331}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.680203, "center_y":0.641182, "width":0.013848, "height":0.025391}, "confidence":0.484160}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.601783, "center_y":0.620000, "width":0.011628, "height":0.052767}, "confidence":0.682102}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.713228, "center_y":0.647203, "width":0.012165, "height":0.025779}, "confidence":0.711318}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.629302, "center_y":0.637881, "width":0.013195, "height":0.025956}, "confidence":0.716492}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.804708, "center_y":0.629119, "width":0.012681, "height":0.059116}, "confidence":0.718666}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.649337, "center_y":0.639782, "width":0.014053, "height":0.025411}, "confidence":0.720237}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.668281, "center_y":0.640375, "width":0.013800, "height":0.026195}, "confidence":0.707176}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.756139, "center_y":0.648033, "width":0.014651, "height":0.029446}, "confidence":0.760775}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.772344, "center_y":0.647969, "width":0.015579, "height":0.029267}, "confidence":0.797111}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.685966, "center_y":0.641114, "width":0.013194, "height":0.026627}, "confidence":0.845388}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Paddle_Together\\0059.png", 
+ "objects": [ 
+  {"class_id":11, "name":"stop sign", "relative_coordinates":{"center_x":0.109159, "center_y":0.560135, "width":0.216727, "height":0.749292}, "confidence":0.660550}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.922831, "center_y":0.543695, "width":0.156263, "height":0.588793}, "confidence":0.723520}
+ ] 
+}
+]

@@ -1,0 +1,508 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0000.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0001.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0002.png", 
+ "objects": [ 
+  {"class_id":28, "name":"suitcase", "relative_coordinates":{"center_x":0.392340, "center_y":0.495770, "width":0.655067, "height":0.719071}, "confidence":0.331259}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0003.png", 
+ "objects": [ 
+  {"class_id":37, "name":"surfboard", "relative_coordinates":{"center_x":0.062313, "center_y":0.447827, "width":0.122349, "height":0.618748}, "confidence":0.370231}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0004.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.103865, "center_y":0.199503, "width":0.211741, "height":0.137106}, "confidence":0.814143}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0005.png", 
+ "objects": [ 
+  {"class_id":72, "name":"refrigerator", "relative_coordinates":{"center_x":0.504171, "center_y":0.430404, "width":0.300203, "height":0.606560}, "confidence":0.377767}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0006.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0007.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.562553, "center_y":0.207276, "width":0.091385, "height":0.155002}, "confidence":0.419598}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.088576, "center_y":0.739697, "width":0.058264, "height":0.092696}, "confidence":0.828417}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.378541, "center_y":0.475741, "width":0.048232, "height":0.125972}, "confidence":0.696570}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.452430, "center_y":0.444077, "width":0.081015, "height":0.148997}, "confidence":0.414734}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.099880, "center_y":0.646107, "width":0.061100, "height":0.093330}, "confidence":0.298144}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.597768, "center_y":0.450896, "width":0.062630, "height":0.091034}, "confidence":0.283238}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.439915, "center_y":0.408610, "width":0.045800, "height":0.088235}, "confidence":0.268678}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.194272, "center_y":0.692000, "width":0.111282, "height":0.122806}, "confidence":0.890035}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.284046, "center_y":0.443670, "width":0.050714, "height":0.062643}, "confidence":0.896022}, 
+  {"class_id":15, "name":"cat", "relative_coordinates":{"center_x":0.821357, "center_y":0.446141, "width":0.261789, "height":0.627886}, "confidence":0.589218}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0008.png", 
+ "objects": [ 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.494300, "center_y":0.483024, "width":0.172861, "height":0.165442}, "confidence":0.456907}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.411652, "center_y":0.172303, "width":0.137520, "height":0.080438}, "confidence":0.323579}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0009.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0010.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0011.png", 
+ "objects": [ 
+  {"class_id":75, "name":"vase", "relative_coordinates":{"center_x":0.796547, "center_y":0.394339, "width":0.409406, "height":0.541072}, "confidence":0.263594}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0012.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0013.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0014.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0015.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0016.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0017.png", 
+ "objects": [ 
+  {"class_id":11, "name":"stop sign", "relative_coordinates":{"center_x":0.544614, "center_y":0.447921, "width":0.430813, "height":0.437441}, "confidence":0.476364}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0018.png", 
+ "objects": [ 
+  {"class_id":16, "name":"dog", "relative_coordinates":{"center_x":0.493650, "center_y":0.464713, "width":0.713294, "height":0.631397}, "confidence":0.363480}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0019.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0020.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0021.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0022.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0023.png", 
+ "objects": [ 
+  {"class_id":17, "name":"horse", "relative_coordinates":{"center_x":0.303177, "center_y":0.565593, "width":0.278247, "height":0.476777}, "confidence":0.462750}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0024.png", 
+ "objects": [ 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.601888, "center_y":0.459059, "width":0.229569, "height":0.306294}, "confidence":0.349183}, 
+  {"class_id":75, "name":"vase", "relative_coordinates":{"center_x":0.232351, "center_y":0.495263, "width":0.348180, "height":0.681273}, "confidence":0.472383}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0025.png", 
+ "objects": [ 
+  {"class_id":17, "name":"horse", "relative_coordinates":{"center_x":0.623896, "center_y":0.673376, "width":0.205361, "height":0.311040}, "confidence":0.617159}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.236361, "center_y":0.549308, "width":0.287940, "height":0.576146}, "confidence":0.727325}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0026.png", 
+ "objects": [ 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.509549, "center_y":0.574050, "width":0.130835, "height":0.139926}, "confidence":0.369726}, 
+  {"class_id":17, "name":"horse", "relative_coordinates":{"center_x":0.509549, "center_y":0.574050, "width":0.130835, "height":0.139926}, "confidence":0.391874}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0027.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0028.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.507379, "center_y":0.501440, "width":0.980094, "height":0.714988}, "confidence":0.395108}, 
+  {"class_id":16, "name":"dog", "relative_coordinates":{"center_x":0.350557, "center_y":0.618968, "width":0.224552, "height":0.339260}, "confidence":0.517990}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0029.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0030.png", 
+ "objects": [ 
+  {"class_id":37, "name":"surfboard", "relative_coordinates":{"center_x":0.055283, "center_y":0.284382, "width":0.111827, "height":0.316170}, "confidence":0.290743}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0031.png", 
+ "objects": [ 
+  {"class_id":77, "name":"teddy bear", "relative_coordinates":{"center_x":0.703144, "center_y":0.568961, "width":0.589199, "height":0.582351}, "confidence":0.484155}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0032.png", 
+ "objects": [ 
+  {"class_id":77, "name":"teddy bear", "relative_coordinates":{"center_x":0.401027, "center_y":0.450768, "width":0.671671, "height":0.555752}, "confidence":0.298936}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0033.png", 
+ "objects": [ 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.671024, "center_y":0.548694, "width":0.279086, "height":0.478155}, "confidence":0.447887}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0034.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0035.png", 
+ "objects": [ 
+  {"class_id":11, "name":"stop sign", "relative_coordinates":{"center_x":0.604739, "center_y":0.436087, "width":0.547974, "height":0.644536}, "confidence":0.568753}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0036.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0037.png", 
+ "objects": [ 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.743614, "center_y":0.553853, "width":0.185999, "height":0.438599}, "confidence":0.435987}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0038.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0039.png", 
+ "objects": [ 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.416331, "center_y":0.365445, "width":0.036441, "height":0.060143}, "confidence":0.320322}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.399302, "center_y":0.410804, "width":0.026633, "height":0.060409}, "confidence":0.281239}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0040.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0041.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0042.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0043.png", 
+ "objects": [ 
+  {"class_id":4, "name":"aeroplane", "relative_coordinates":{"center_x":0.504706, "center_y":0.503437, "width":1.102744, "height":0.767247}, "confidence":0.273036}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0044.png", 
+ "objects": [ 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.437493, "center_y":0.493051, "width":0.658557, "height":0.597968}, "confidence":0.283080}, 
+  {"class_id":37, "name":"surfboard", "relative_coordinates":{"center_x":0.408204, "center_y":0.495744, "width":0.645713, "height":0.610395}, "confidence":0.325447}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0045.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.184523, "center_y":0.502421, "width":0.370992, "height":0.744975}, "confidence":0.271017}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0046.png", 
+ "objects": [ 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.646124, "center_y":0.440823, "width":0.082959, "height":0.179108}, "confidence":0.602364}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.378058, "center_y":0.363548, "width":0.049012, "height":0.182363}, "confidence":0.968476}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0047.png", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.154853, "center_y":0.667061, "width":0.038015, "height":0.076426}, "confidence":0.290184}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.866119, "center_y":0.676923, "width":0.030280, "height":0.069764}, "confidence":0.303398}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.059657, "center_y":0.745661, "width":0.098748, "height":0.252305}, "confidence":0.345087}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.968822, "center_y":0.616194, "width":0.025138, "height":0.114459}, "confidence":0.343746}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.942685, "center_y":0.619685, "width":0.022694, "height":0.113536}, "confidence":0.661414}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.886135, "center_y":0.670145, "width":0.077058, "height":0.364610}, "confidence":0.969666}, 
+  {"class_id":9, "name":"traffic light", "relative_coordinates":{"center_x":0.548016, "center_y":0.247634, "width":0.021014, "height":0.070440}, "confidence":0.827397}, 
+  {"class_id":9, "name":"traffic light", "relative_coordinates":{"center_x":0.461860, "center_y":0.258416, "width":0.017547, "height":0.073627}, "confidence":0.861645}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.806389, "center_y":0.667725, "width":0.080869, "height":0.364092}, "confidence":0.980579}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.772561, "center_y":0.751928, "width":0.025398, "height":0.083530}, "confidence":0.680661}, 
+  {"class_id":5, "name":"bus", "relative_coordinates":{"center_x":0.252647, "center_y":0.590751, "width":0.428856, "height":0.262743}, "confidence":0.947045}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0048.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0049.png", 
+ "objects": [ 
+  {"class_id":77, "name":"teddy bear", "relative_coordinates":{"center_x":0.392258, "center_y":0.495905, "width":0.404135, "height":0.633641}, "confidence":0.419012}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0050.png", 
+ "objects": [ 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.236226, "center_y":0.604170, "width":0.198095, "height":0.244055}, "confidence":0.356496}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0051.png", 
+ "objects": [ 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.698833, "center_y":0.603068, "width":0.085646, "height":0.154455}, "confidence":0.448934}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0052.png", 
+ "objects": [ 
+  {"class_id":43, "name":"knife", "relative_coordinates":{"center_x":0.254218, "center_y":0.408339, "width":0.098006, "height":0.570090}, "confidence":0.837245}, 
+  {"class_id":42, "name":"fork", "relative_coordinates":{"center_x":0.410542, "center_y":0.349099, "width":0.101630, "height":0.351501}, "confidence":0.329144}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0053.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.654134, "center_y":0.504676, "width":0.651012, "height":0.756557}, "confidence":0.847376}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0054.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.539036, "center_y":0.519980, "width":0.037204, "height":0.132355}, "confidence":0.957010}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.465088, "center_y":0.533399, "width":0.036981, "height":0.113323}, "confidence":0.846637}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.508487, "center_y":0.528593, "width":0.043835, "height":0.122618}, "confidence":0.783899}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0055.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0056.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0057.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0058.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0059.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0060.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0061.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0062.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0063.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0064.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0065.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0066.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\Kitbull___Pixar_SparkShorts\\0067.png", 
+ "objects": [ 
+
+ ] 
+}
+]

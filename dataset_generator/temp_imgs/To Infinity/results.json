@@ -1,0 +1,453 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0000.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0001.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.490703, "center_y":0.495218, "width":0.947996, "height":0.852216}, "confidence":0.383409}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0002.png", 
+ "objects": [ 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.174507, "center_y":0.549495, "width":0.344181, "height":0.513251}, "confidence":0.669933}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0003.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0004.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0005.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.504221, "center_y":0.500538, "width":0.960927, "height":0.761760}, "confidence":0.924058}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0006.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0007.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0008.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.492927, "center_y":0.495129, "width":1.023022, "height":0.754347}, "confidence":0.310983}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0009.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0010.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0011.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.494154, "center_y":0.499600, "width":1.008317, "height":0.754335}, "confidence":0.368129}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0012.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0013.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.504328, "center_y":0.500323, "width":0.888549, "height":0.755490}, "confidence":0.298891}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0014.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0015.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0016.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0017.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.494250, "center_y":0.485291, "width":0.985596, "height":0.783145}, "confidence":0.385197}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0018.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.490094, "center_y":0.479086, "width":1.002633, "height":0.751564}, "confidence":0.337548}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0019.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.495237, "center_y":0.493024, "width":0.976115, "height":0.737300}, "confidence":0.475175}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0020.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.501158, "center_y":0.484028, "width":0.932226, "height":0.737988}, "confidence":0.266526}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0021.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0022.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0023.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.492052, "center_y":0.496713, "width":0.955665, "height":0.769454}, "confidence":0.772115}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0024.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.798292, "center_y":0.491989, "width":0.395055, "height":0.699091}, "confidence":0.251656}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0025.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.399900, "center_y":0.489348, "width":0.618381, "height":0.789679}, "confidence":0.806731}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0026.png", 
+ "objects": [ 
+  {"class_id":47, "name":"apple", "relative_coordinates":{"center_x":0.197862, "center_y":0.399700, "width":0.393901, "height":0.554406}, "confidence":0.340160}, 
+  {"class_id":75, "name":"vase", "relative_coordinates":{"center_x":0.198882, "center_y":0.399476, "width":0.392712, "height":0.557895}, "confidence":0.361423}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0027.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.497292, "center_y":0.495636, "width":0.910379, "height":0.782405}, "confidence":0.937635}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0028.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.498351, "center_y":0.486231, "width":0.899416, "height":0.743207}, "confidence":0.774000}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0029.png", 
+ "objects": [ 
+  {"class_id":45, "name":"bowl", "relative_coordinates":{"center_x":0.172114, "center_y":0.454858, "width":0.342612, "height":0.663990}, "confidence":0.316204}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0030.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.494661, "center_y":0.486756, "width":0.773793, "height":0.757027}, "confidence":0.929687}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0031.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.548513, "center_y":0.500040, "width":0.794021, "height":0.803775}, "confidence":0.753900}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0032.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.507431, "center_y":0.495598, "width":0.916643, "height":0.776463}, "confidence":0.824262}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.763806, "center_y":0.496686, "width":0.467561, "height":0.742466}, "confidence":0.305277}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0033.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.558268, "center_y":0.486764, "width":0.853815, "height":0.786011}, "confidence":0.887808}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0034.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.654845, "center_y":0.512926, "width":0.249239, "height":0.712149}, "confidence":0.476210}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0035.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.398920, "center_y":0.492863, "width":0.430857, "height":0.755821}, "confidence":0.700316}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0036.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.608904, "center_y":0.491151, "width":0.575912, "height":0.772087}, "confidence":0.709731}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.868503, "center_y":0.500977, "width":0.254385, "height":0.723879}, "confidence":0.253376}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0037.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.394092, "center_y":0.497176, "width":0.672968, "height":0.763054}, "confidence":0.808861}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0038.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0039.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.502165, "center_y":0.494062, "width":0.986185, "height":0.855421}, "confidence":0.362549}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.749206, "center_y":0.495505, "width":0.482831, "height":0.753853}, "confidence":0.282303}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0040.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.604799, "center_y":0.497853, "width":0.583393, "height":0.751729}, "confidence":0.859315}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0041.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.668596, "center_y":0.485277, "width":0.604176, "height":0.744452}, "confidence":0.440193}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0042.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.498560, "center_y":0.494134, "width":0.908763, "height":0.732553}, "confidence":0.869949}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0043.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.758908, "center_y":0.490736, "width":0.466673, "height":0.758322}, "confidence":0.499121}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.902118, "center_y":0.485869, "width":0.196008, "height":0.774561}, "confidence":0.350247}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0044.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.328958, "center_y":0.482721, "width":0.626113, "height":0.729580}, "confidence":0.641562}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0045.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.544666, "center_y":0.491121, "width":0.824819, "height":0.764254}, "confidence":0.693342}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0046.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.277989, "center_y":0.493651, "width":0.553189, "height":0.757902}, "confidence":0.888424}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0047.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0048.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.720700, "center_y":0.495191, "width":0.561055, "height":0.743558}, "confidence":0.448084}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0049.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.495401, "center_y":0.496145, "width":0.854799, "height":0.765915}, "confidence":0.859490}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0050.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.502510, "center_y":0.510606, "width":0.930012, "height":0.758640}, "confidence":0.629608}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0051.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.502920, "center_y":0.582344, "width":0.827948, "height":0.571743}, "confidence":0.283861}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0052.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.491608, "center_y":0.516135, "width":0.901864, "height":0.696940}, "confidence":0.696226}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0053.png", 
+ "objects": [ 
+  {"class_id":15, "name":"cat", "relative_coordinates":{"center_x":0.661310, "center_y":0.498371, "width":0.624907, "height":0.739646}, "confidence":0.331041}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0054.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.441967, "center_y":0.493561, "width":0.810094, "height":0.742685}, "confidence":0.932978}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0055.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.496588, "center_y":0.493065, "width":0.962027, "height":0.740043}, "confidence":0.446421}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0056.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.504664, "center_y":0.496473, "width":0.870605, "height":0.750085}, "confidence":0.737235}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0057.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.197022, "center_y":0.621388, "width":0.399266, "height":0.471077}, "confidence":0.338262}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.553789, "center_y":0.490422, "width":0.683558, "height":0.752901}, "confidence":0.936781}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0058.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.427821, "center_y":0.492301, "width":0.760311, "height":0.756603}, "confidence":0.989479}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0059.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.868313, "center_y":0.499223, "width":0.267759, "height":0.785181}, "confidence":0.713299}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.352364, "center_y":0.497728, "width":0.317290, "height":0.743323}, "confidence":0.329923}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.659294, "center_y":0.501151, "width":0.458443, "height":0.760853}, "confidence":0.900983}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0060.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.552883, "center_y":0.501749, "width":0.640955, "height":0.732857}, "confidence":0.918478}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0061.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\To Infinity\\0062.png", 
+ "objects": [ 
+  {"class_id":11, "name":"stop sign", "relative_coordinates":{"center_x":0.109593, "center_y":0.607094, "width":0.229991, "height":0.792442}, "confidence":0.298645}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.177257, "center_y":0.831030, "width":0.096435, "height":0.353801}, "confidence":0.317866}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.921793, "center_y":0.451612, "width":0.157071, "height":0.759303}, "confidence":0.600121}
+ ] 
+}
+]

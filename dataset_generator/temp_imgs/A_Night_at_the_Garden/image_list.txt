@@ -1,0 +1,7 @@
+C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0000.png
+C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0001.png
+C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0002.png
+C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0003.png
+C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0004.png
+C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0005.png
+C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0006.png

@@ -1,0 +1,69 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0000.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.492080, "center_y":0.549587, "width":0.787937, "height":0.936663}, "confidence":0.838165}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0001.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.626194, "center_y":0.510136, "width":0.125518, "height":0.271171}, "confidence":0.434814}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.796187, "center_y":0.351810, "width":0.068166, "height":0.089346}, "confidence":0.356135}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.583095, "center_y":0.432947, "width":0.038810, "height":0.252713}, "confidence":0.749470}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.224955, "center_y":0.546850, "width":0.041295, "height":0.214040}, "confidence":0.579631}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.194542, "center_y":0.561833, "width":0.037015, "height":0.229816}, "confidence":0.397253}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.494233, "center_y":0.544536, "width":0.708842, "height":0.946378}, "confidence":0.392754}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.239111, "center_y":0.539566, "width":0.032177, "height":0.229196}, "confidence":0.367600}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.281958, "center_y":0.465856, "width":0.040791, "height":0.234136}, "confidence":0.340614}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.329618, "center_y":0.479482, "width":0.033318, "height":0.125653}, "confidence":0.327837}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.630013, "center_y":0.672535, "width":0.047404, "height":0.307522}, "confidence":0.279846}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.324779, "center_y":0.938059, "width":0.064537, "height":0.123082}, "confidence":0.931282}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.178967, "center_y":0.912113, "width":0.061379, "height":0.174621}, "confidence":0.953674}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.139437, "center_y":0.653966, "width":0.025193, "height":0.063072}, "confidence":0.338090}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0002.png", 
+ "objects": [ 
+  {"class_id":3, "name":"motorbike", "relative_coordinates":{"center_x":0.187858, "center_y":0.120307, "width":0.103018, "height":0.253437}, "confidence":0.469898}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.749747, "center_y":0.113449, "width":0.088790, "height":0.224482}, "confidence":0.504419}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.194608, "center_y":0.112869, "width":0.091656, "height":0.231337}, "confidence":0.408149}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.145858, "center_y":0.146072, "width":0.043196, "height":0.288361}, "confidence":0.359042}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.464596, "center_y":0.563082, "width":0.193089, "height":0.726638}, "confidence":0.985724}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0003.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0004.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0005.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A_Night_at_the_Garden\\0006.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.920887, "center_y":0.451376, "width":0.160023, "height":0.754972}, "confidence":0.451124}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.176689, "center_y":0.831350, "width":0.094549, "height":0.352414}, "confidence":0.364215}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.865423, "center_y":0.119244, "width":0.097287, "height":0.236229}, "confidence":0.313273}
+ ] 
+}
+]
