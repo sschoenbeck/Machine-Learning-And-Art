@@ -1,0 +1,41 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010132_C017_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.557989, "center_y":0.697360, "width":0.090240, "height":0.112758}, "confidence":0.573412}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.559105, "center_y":0.698280, "width":0.093197, "height":0.110756}, "confidence":0.447335}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.467811, "center_y":0.608812, "width":0.033964, "height":0.015601}, "confidence":0.337150}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.555783, "center_y":0.663275, "width":0.085536, "height":0.041791}, "confidence":0.274406}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.619721, "center_y":0.544882, "width":0.021319, "height":0.126575}, "confidence":0.551382}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.595464, "center_y":0.648369, "width":0.043440, "height":0.048182}, "confidence":0.306161}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.716167, "center_y":0.545412, "width":0.031441, "height":0.153425}, "confidence":0.796440}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.641335, "center_y":0.647458, "width":0.036990, "height":0.035343}, "confidence":0.267655}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.811998, "center_y":0.505989, "width":0.019547, "height":0.021131}, "confidence":0.259843}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.468510, "center_y":0.557191, "width":0.018778, "height":0.118988}, "confidence":0.607043}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.503341, "center_y":0.649629, "width":0.048748, "height":0.067242}, "confidence":0.360066}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.092973, "center_y":0.591973, "width":0.094975, "height":0.061492}, "confidence":0.940513}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.551534, "center_y":0.544340, "width":0.152673, "height":0.168026}, "confidence":0.731230}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.915931, "center_y":0.504849, "width":0.029974, "height":0.026723}, "confidence":0.278742}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.965042, "center_y":0.505950, "width":0.030588, "height":0.020813}, "confidence":0.672429}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.178470, "center_y":0.558460, "width":0.033239, "height":0.031125}, "confidence":0.327765}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.521005, "center_y":0.716305, "width":0.052181, "height":0.090849}, "confidence":0.798216}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.037613, "center_y":0.598535, "width":0.074579, "height":0.083429}, "confidence":0.743909}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.068609, "center_y":0.535583, "width":0.044236, "height":0.022912}, "confidence":0.521823}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.161757, "center_y":0.572973, "width":0.065580, "height":0.053194}, "confidence":0.767667}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.834361, "center_y":0.524140, "width":0.035987, "height":0.028811}, "confidence":0.859931}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.688217, "center_y":0.680692, "width":0.083962, "height":0.047720}, "confidence":0.516982}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.757248, "center_y":0.694087, "width":0.051118, "height":0.058526}, "confidence":0.548259}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.448824, "center_y":0.637329, "width":0.022688, "height":0.040332}, "confidence":0.290431}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.448824, "center_y":0.637329, "width":0.022688, "height":0.040332}, "confidence":0.272009}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.477328, "center_y":0.651264, "width":0.030394, "height":0.035110}, "confidence":0.451557}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.523011, "center_y":0.600749, "width":0.028137, "height":0.059010}, "confidence":0.521211}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.002836, "center_y":0.545690, "width":0.007364, "height":0.019175}, "confidence":0.283536}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.232836, "center_y":0.550460, "width":0.027837, "height":0.032783}, "confidence":0.637015}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.887182, "center_y":0.509953, "width":0.022645, "height":0.020358}, "confidence":0.646642}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.597196, "center_y":0.714143, "width":0.043952, "height":0.076958}, "confidence":0.491875}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.779374, "center_y":0.511834, "width":0.031602, "height":0.027748}, "confidence":0.283153}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.779374, "center_y":0.511834, "width":0.031602, "height":0.027748}, "confidence":0.458665}
+ ] 
+}
+]

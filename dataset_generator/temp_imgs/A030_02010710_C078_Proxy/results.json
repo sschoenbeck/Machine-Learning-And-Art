@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010710_C078_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.583299, "center_y":0.180918, "width":0.180951, "height":0.251625}, "confidence":0.915501}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.486374, "center_y":0.730659, "width":0.018325, "height":0.113892}, "confidence":0.971614}
+ ] 
+}
+]

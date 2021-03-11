@@ -1,0 +1,21 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11212341_C007_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.901950, "center_y":0.714062, "width":0.205894, "height":0.170973}, "confidence":0.767072}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.585880, "center_y":0.721244, "width":0.200041, "height":0.140822}, "confidence":0.566236}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.870534, "center_y":0.873703, "width":0.265359, "height":0.254626}, "confidence":0.544727}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.870813, "center_y":0.873572, "width":0.263405, "height":0.254601}, "confidence":0.421324}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.119523, "center_y":0.731350, "width":0.245721, "height":0.069433}, "confidence":0.421785}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.125500, "center_y":0.812789, "width":0.259362, "height":0.221951}, "confidence":0.304936}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.732034, "center_y":0.681813, "width":0.089306, "height":0.075543}, "confidence":0.373604}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.730429, "center_y":0.964104, "width":0.138093, "height":0.072093}, "confidence":0.344979}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.122131, "center_y":0.828683, "width":0.248012, "height":0.222719}, "confidence":0.375514}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.588941, "center_y":0.855048, "width":0.254317, "height":0.189775}, "confidence":0.674914}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.099947, "center_y":0.941431, "width":0.196169, "height":0.118724}, "confidence":0.803039}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.848740, "center_y":0.751418, "width":0.162200, "height":0.146918}, "confidence":0.903981}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.425065, "center_y":0.646919, "width":0.180293, "height":0.704803}, "confidence":0.987092}
+ ] 
+}
+]

@@ -1,0 +1,24 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A008_01212027_C025_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":64, "name":"mouse", "relative_coordinates":{"center_x":0.506823, "center_y":0.337091, "width":0.298697, "height":0.523953}, "confidence":0.755104}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A008_01212027_C025_Proxy\\0001.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.915739, "center_y":0.500365, "width":0.164676, "height":0.947545}, "confidence":0.429081}, 
+  {"class_id":64, "name":"mouse", "relative_coordinates":{"center_x":0.510379, "center_y":0.325583, "width":0.288522, "height":0.498862}, "confidence":0.911163}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A008_01212027_C025_Proxy\\0002.png", 
+ "objects": [ 
+  {"class_id":64, "name":"mouse", "relative_coordinates":{"center_x":0.512492, "center_y":0.332194, "width":0.290516, "height":0.515688}, "confidence":0.863394}
+ ] 
+}
+]

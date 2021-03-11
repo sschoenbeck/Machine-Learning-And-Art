@@ -1,0 +1,14 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A012_11301615_C133_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.957867, "center_y":0.086879, "width":0.086035, "height":0.165827}, "confidence":0.425852}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.928979, "center_y":0.168956, "width":0.081037, "height":0.154031}, "confidence":0.408537}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.959119, "center_y":0.148375, "width":0.077824, "height":0.108484}, "confidence":0.288645}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.906227, "center_y":0.047389, "width":0.178184, "height":0.098376}, "confidence":0.272045}, 
+  {"class_id":59, "name":"bed", "relative_coordinates":{"center_x":0.506593, "center_y":0.490503, "width":0.774141, "height":0.984813}, "confidence":0.332930}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.506035, "center_y":0.327933, "width":0.377695, "height":0.674766}, "confidence":0.628729}
+ ] 
+}
+]

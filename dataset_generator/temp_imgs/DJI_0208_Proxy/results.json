@@ -1,0 +1,14 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0208_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.812277, "center_y":0.527873, "width":0.065690, "height":0.204393}, "confidence":0.317119}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.758429, "center_y":0.173235, "width":0.033018, "height":0.074585}, "confidence":0.304778}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.700585, "center_y":0.107839, "width":0.020946, "height":0.087317}, "confidence":0.290372}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.901344, "center_y":0.099198, "width":0.073606, "height":0.085359}, "confidence":0.373253}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.813617, "center_y":0.520863, "width":0.062943, "height":0.214113}, "confidence":0.985120}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.852154, "center_y":0.122377, "width":0.077518, "height":0.065233}, "confidence":0.423691}
+ ] 
+}
+]

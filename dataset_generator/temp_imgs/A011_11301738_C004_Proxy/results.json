@@ -1,0 +1,14 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A011_11301738_C004_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.300515, "center_y":0.398693, "width":0.023630, "height":0.129162}, "confidence":0.940566}, 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.448733, "center_y":0.399529, "width":0.021281, "height":0.137200}, "confidence":0.924841}, 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.379092, "center_y":0.385202, "width":0.022507, "height":0.124706}, "confidence":0.752806}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.443532, "center_y":0.321133, "width":0.045436, "height":0.272314}, "confidence":0.991117}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.386464, "center_y":0.322129, "width":0.046387, "height":0.237331}, "confidence":0.994229}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.288314, "center_y":0.320944, "width":0.046862, "height":0.253306}, "confidence":0.995822}
+ ] 
+}
+]

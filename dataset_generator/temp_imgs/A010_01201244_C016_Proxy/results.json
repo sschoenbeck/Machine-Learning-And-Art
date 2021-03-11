@@ -1,0 +1,13 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01201244_C016_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":18, "name":"sheep", "relative_coordinates":{"center_x":0.518337, "center_y":0.734130, "width":0.030608, "height":0.038362}, "confidence":0.959105}, 
+  {"class_id":18, "name":"sheep", "relative_coordinates":{"center_x":0.680151, "center_y":0.727818, "width":0.064961, "height":0.084450}, "confidence":0.918468}, 
+  {"class_id":18, "name":"sheep", "relative_coordinates":{"center_x":0.408431, "center_y":0.742654, "width":0.036139, "height":0.065176}, "confidence":0.827778}, 
+  {"class_id":18, "name":"sheep", "relative_coordinates":{"center_x":0.468717, "center_y":0.734854, "width":0.033495, "height":0.050310}, "confidence":0.759097}, 
+  {"class_id":18, "name":"sheep", "relative_coordinates":{"center_x":0.373783, "center_y":0.746069, "width":0.034358, "height":0.060496}, "confidence":0.689873}
+ ] 
+}
+]

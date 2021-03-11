@@ -1,0 +1,18 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A011_12011529_C025_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.779148, "center_y":0.453173, "width":0.020039, "height":0.042601}, "confidence":0.853948}, 
+  {"class_id":9, "name":"traffic light", "relative_coordinates":{"center_x":0.827136, "center_y":0.264831, "width":0.021160, "height":0.072907}, "confidence":0.777640}, 
+  {"class_id":9, "name":"traffic light", "relative_coordinates":{"center_x":0.738561, "center_y":0.540899, "width":0.015534, "height":0.031713}, "confidence":0.483900}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.917663, "center_y":0.678662, "width":0.023502, "height":0.057502}, "confidence":0.728792}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.845202, "center_y":0.646344, "width":0.043471, "height":0.030907}, "confidence":0.817305}, 
+  {"class_id":10, "name":"fire hydrant", "relative_coordinates":{"center_x":0.090814, "center_y":0.927083, "width":0.123560, "height":0.151760}, "confidence":0.265845}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.895977, "center_y":0.645655, "width":0.061364, "height":0.084669}, "confidence":0.957327}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.281436, "center_y":0.677387, "width":0.215485, "height":0.108883}, "confidence":0.976958}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.049074, "center_y":0.682486, "width":0.100253, "height":0.107967}, "confidence":0.977087}, 
+  {"class_id":9, "name":"traffic light", "relative_coordinates":{"center_x":0.620651, "center_y":0.121249, "width":0.029760, "height":0.101514}, "confidence":0.979085}
+ ] 
+}
+]

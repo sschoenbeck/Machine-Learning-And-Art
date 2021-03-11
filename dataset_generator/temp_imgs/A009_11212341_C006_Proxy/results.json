@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11212341_C006_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.528752, "center_y":0.905225, "width":0.030202, "height":0.071836}, "confidence":0.494534}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.524718, "center_y":0.750233, "width":0.083726, "height":0.378734}, "confidence":0.994983}
+ ] 
+}
+]

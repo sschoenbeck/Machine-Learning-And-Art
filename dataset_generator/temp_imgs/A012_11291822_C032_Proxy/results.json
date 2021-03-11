@@ -1,0 +1,23 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A012_11291822_C032_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.588906, "center_y":0.581893, "width":0.036791, "height":0.060486}, "confidence":0.981963}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.152979, "center_y":0.576632, "width":0.025144, "height":0.039469}, "confidence":0.898789}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.106960, "center_y":0.572057, "width":0.016073, "height":0.031458}, "confidence":0.844812}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.548893, "center_y":0.577366, "width":0.035763, "height":0.043553}, "confidence":0.797414}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.284766, "center_y":0.576870, "width":0.030278, "height":0.044636}, "confidence":0.782998}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.186518, "center_y":0.572344, "width":0.019085, "height":0.024365}, "confidence":0.705198}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.751753, "center_y":0.564117, "width":0.016937, "height":0.018991}, "confidence":0.596976}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.319507, "center_y":0.574825, "width":0.017978, "height":0.034565}, "confidence":0.568139}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.652125, "center_y":0.558927, "width":0.023610, "height":0.025065}, "confidence":0.566328}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.701130, "center_y":0.549753, "width":0.018783, "height":0.038400}, "confidence":0.487912}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.312293, "center_y":0.577088, "width":0.024089, "height":0.044537}, "confidence":0.475181}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.490472, "center_y":0.582139, "width":0.021545, "height":0.034774}, "confidence":0.470004}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.377670, "center_y":0.567107, "width":0.009007, "height":0.017522}, "confidence":0.425743}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.679410, "center_y":0.560020, "width":0.016430, "height":0.017547}, "confidence":0.387135}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.718565, "center_y":0.561808, "width":0.018512, "height":0.016888}, "confidence":0.362945}
+ ] 
+}
+]

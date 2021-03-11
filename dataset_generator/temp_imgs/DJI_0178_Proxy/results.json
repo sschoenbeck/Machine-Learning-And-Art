@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0178_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.818150, "center_y":0.093176, "width":0.246074, "height":0.190311}, "confidence":0.632603}
+ ] 
+}
+]

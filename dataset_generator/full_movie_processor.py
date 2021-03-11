@@ -114,11 +114,11 @@ def main():
     working_dir = os.getcwd()
 
     print(f'Work directory: {working_dir}')
-    full_video_folder = working_dir + "\\temp\\full_videos"
+    full_video_folder = working_dir + "\\full_videos"
+    full_video_folder = "E:\\UCARE\\CLOUD FILM MEDIA\\PROXIES"
 
     video_paths = [f for f in os.listdir(full_video_folder) if os.path.isfile(os.path.join(full_video_folder, f))]
     print(f'Found video paths: {video_paths}')
-    video_paths = video_paths[10:]
     video_count = len(video_paths)
     i = 0
     for video_path in video_paths:
@@ -169,7 +169,7 @@ def main():
         movie_df.to_csv(f'temp_imgs\\{video_name}\\movie_data.csv', index=False)
         object_df = detect_objects(img_text_path, result_path)
         complete_df = pd.concat([movie_df, object_df], axis=1)
-        complete_df.to_csv(f'clip_data\\{video_name}_complete_data.csv', index=False)
+        complete_df.to_csv(f'timeline_data\\{video_name}_complete_data.csv', index=False)
 
 
 if __name__ == "__main__":

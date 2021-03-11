@@ -1,0 +1,19 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11220848_C038_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":72, "name":"refrigerator", "relative_coordinates":{"center_x":0.646641, "center_y":0.730565, "width":0.138788, "height":0.536625}, "confidence":0.991377}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.354191, "center_y":0.634499, "width":0.021881, "height":0.064830}, "confidence":0.361782}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.460922, "center_y":0.705298, "width":0.093408, "height":0.163658}, "confidence":0.534051}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.091339, "center_y":0.715376, "width":0.020556, "height":0.067505}, "confidence":0.931073}, 
+  {"class_id":57, "name":"sofa", "relative_coordinates":{"center_x":0.461662, "center_y":0.704399, "width":0.094818, "height":0.167325}, "confidence":0.792311}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.326072, "center_y":0.636608, "width":0.033959, "height":0.042882}, "confidence":0.274693}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.187014, "center_y":0.662770, "width":0.017718, "height":0.110228}, "confidence":0.956250}, 
+  {"class_id":69, "name":"oven", "relative_coordinates":{"center_x":0.835475, "center_y":0.847045, "width":0.330749, "height":0.307366}, "confidence":0.950731}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.133461, "center_y":0.688468, "width":0.011120, "height":0.041425}, "confidence":0.806957}, 
+  {"class_id":71, "name":"sink", "relative_coordinates":{"center_x":0.064806, "center_y":0.804569, "width":0.130491, "height":0.109280}, "confidence":0.818722}, 
+  {"class_id":62, "name":"tvmonitor", "relative_coordinates":{"center_x":0.477291, "center_y":0.596054, "width":0.047151, "height":0.063161}, "confidence":0.800957}
+ ] 
+}
+]

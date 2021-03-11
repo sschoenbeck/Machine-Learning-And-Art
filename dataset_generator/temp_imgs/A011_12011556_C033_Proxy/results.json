@@ -1,0 +1,12 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A011_12011556_C033_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.514192, "center_y":0.908274, "width":0.452145, "height":0.182361}, "confidence":0.279518}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.512507, "center_y":0.909151, "width":0.421531, "height":0.179898}, "confidence":0.743708}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.163275, "center_y":0.925761, "width":0.114739, "height":0.073928}, "confidence":0.381904}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.279514, "center_y":0.940818, "width":0.046093, "height":0.117166}, "confidence":0.268167}
+ ] 
+}
+]

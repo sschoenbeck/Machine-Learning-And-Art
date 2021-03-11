@@ -1,0 +1,12 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010758_C097_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.555839, "center_y":0.644805, "width":0.253661, "height":0.352880}, "confidence":0.559782}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.546399, "center_y":0.518230, "width":0.185041, "height":0.386496}, "confidence":0.656551}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.558579, "center_y":0.647004, "width":0.247200, "height":0.349734}, "confidence":0.613990}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.984967, "center_y":0.569913, "width":0.032063, "height":0.127087}, "confidence":0.348306}
+ ] 
+}
+]

@@ -1,0 +1,13 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11220835_C024_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":71, "name":"sink", "relative_coordinates":{"center_x":0.624294, "center_y":0.975849, "width":0.151941, "height":0.049362}, "confidence":0.425237}, 
+  {"class_id":71, "name":"sink", "relative_coordinates":{"center_x":0.401625, "center_y":0.979640, "width":0.124650, "height":0.041228}, "confidence":0.320644}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.474855, "center_y":0.927093, "width":0.020881, "height":0.147029}, "confidence":0.694186}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.514455, "center_y":0.954908, "width":0.024913, "height":0.090520}, "confidence":0.808464}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.484392, "center_y":0.716745, "width":0.093559, "height":0.440641}, "confidence":0.990515}
+ ] 
+}
+]

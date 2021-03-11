@@ -1,0 +1,22 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010127_C005_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.464922, "center_y":0.814395, "width":0.417843, "height":0.355147}, "confidence":0.931165}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.881246, "center_y":0.691865, "width":0.215489, "height":0.235881}, "confidence":0.821236}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.454957, "center_y":0.592882, "width":0.110670, "height":0.062705}, "confidence":0.483495}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.378826, "center_y":0.652230, "width":0.070134, "height":0.070163}, "confidence":0.273328}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.229147, "center_y":0.862424, "width":0.251649, "height":0.270789}, "confidence":0.330818}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.137518, "center_y":0.436597, "width":0.013534, "height":0.023117}, "confidence":0.266056}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.096094, "center_y":0.430328, "width":0.015912, "height":0.019277}, "confidence":0.487929}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.963706, "center_y":0.743464, "width":0.071577, "height":0.162637}, "confidence":0.292121}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.809472, "center_y":0.716687, "width":0.091329, "height":0.161506}, "confidence":0.910518}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.641127, "center_y":0.652456, "width":0.291959, "height":0.687697}, "confidence":0.959398}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.524137, "center_y":0.299252, "width":0.151053, "height":0.605978}, "confidence":0.859354}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.035984, "center_y":0.424709, "width":0.034368, "height":0.018253}, "confidence":0.503426}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.873156, "center_y":0.407511, "width":0.060522, "height":0.413890}, "confidence":0.866432}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.074145, "center_y":0.428975, "width":0.033555, "height":0.022506}, "confidence":0.833540}
+ ] 
+}
+]

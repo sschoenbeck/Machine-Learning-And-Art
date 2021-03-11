@@ -1,5 +1,5 @@
 """
-This files takes in uncut videos and returns an array of clips and exports clips to temp_clips.
+
 """
 import os
 import cv2
@@ -123,7 +123,7 @@ def main(create_csv=True, create_image=False, n_colors=5):
     print(f'Found video paths: {video_dirs}')
     output_path = 'clip_data'
 
-    # video_dirs = ["E:\CLOUD FILM MEDIA\PROXIES"]
+    video_dirs = ["E:\\UCARE\\CLOUD FILM MEDIA\\PROXIES"]
 
     video_count = len(video_dirs)
     i = 0
@@ -133,6 +133,7 @@ def main(create_csv=True, create_image=False, n_colors=5):
         clip_paths = [f for f in os.listdir(os.path.join(video_folders, video_dir)) if
                       os.path.isfile(os.path.join(video_folders, video_dir, f))]
         clip_count = len(clip_paths)
+        print(clip_paths)
         j = 0
         video_color_data = []
         df = pd.DataFrame()
@@ -142,7 +143,7 @@ def main(create_csv=True, create_image=False, n_colors=5):
                 print(f'Analyzing video {i} of {video_count}, clip {j} of {clip_count}')
                 if create_csv:
                     # df.to_csv('clip_data\\SD.csv', index=False)
-                    df.to_csv(f'clip_data\\{video_dir.split(".")[0]}.csv', index=False)
+                    df.to_csv('clip_data\\SD.csv', index=False)
 
             full_clip_path = os.path.join(video_folders, video_dir, clip_path)
             clip_data = dict()

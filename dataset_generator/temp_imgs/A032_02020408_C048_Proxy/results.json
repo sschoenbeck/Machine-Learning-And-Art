@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A032_02020408_C048_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":55, "name":"cake", "relative_coordinates":{"center_x":0.496755, "center_y":0.494058, "width":1.003897, "height":0.994377}, "confidence":0.595421}, 
+  {"class_id":72, "name":"refrigerator", "relative_coordinates":{"center_x":0.496755, "center_y":0.494058, "width":1.003897, "height":0.994377}, "confidence":0.296507}
+ ] 
+}
+]

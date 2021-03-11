@@ -1,0 +1,33 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010128_C006_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.178571, "center_y":0.653189, "width":0.228310, "height":0.079469}, "confidence":0.809220}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.824399, "center_y":0.647025, "width":0.238905, "height":0.153168}, "confidence":0.719674}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.688294, "center_y":0.540854, "width":0.117196, "height":0.039489}, "confidence":0.658992}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.490840, "center_y":0.638021, "width":0.201154, "height":0.102019}, "confidence":0.658553}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.492956, "center_y":0.729884, "width":0.210678, "height":0.120236}, "confidence":0.638852}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.325071, "center_y":0.558656, "width":0.112975, "height":0.026264}, "confidence":0.510979}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.482043, "center_y":0.559605, "width":0.059679, "height":0.052077}, "confidence":0.449182}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.825635, "center_y":0.596347, "width":0.223422, "height":0.064701}, "confidence":0.365603}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.693628, "center_y":0.573061, "width":0.128625, "height":0.058636}, "confidence":0.352236}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.325548, "center_y":0.585026, "width":0.127090, "height":0.072300}, "confidence":0.343477}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.493242, "center_y":0.733219, "width":0.219143, "height":0.120907}, "confidence":0.526086}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.875729, "center_y":0.707991, "width":0.214188, "height":0.125664}, "confidence":0.315387}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.533714, "center_y":0.537322, "width":0.049521, "height":0.101475}, "confidence":0.782799}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.275596, "center_y":0.680650, "width":0.062006, "height":0.073272}, "confidence":0.537629}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.874977, "center_y":0.710175, "width":0.217232, "height":0.130411}, "confidence":0.925523}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.307262, "center_y":0.609357, "width":0.103042, "height":0.045038}, "confidence":0.580952}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.845035, "center_y":0.433502, "width":0.301462, "height":0.334654}, "confidence":0.584659}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.128635, "center_y":0.766937, "width":0.211928, "height":0.108088}, "confidence":0.865884}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.691978, "center_y":0.434952, "width":0.033082, "height":0.182645}, "confidence":0.858294}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.703561, "center_y":0.582556, "width":0.112566, "height":0.054657}, "confidence":0.493836}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.173894, "center_y":0.477000, "width":0.063864, "height":0.335623}, "confidence":0.893105}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.480280, "center_y":0.428759, "width":0.057970, "height":0.317529}, "confidence":0.907751}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.602507, "center_y":0.478522, "width":0.091540, "height":0.054580}, "confidence":0.564322}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.319530, "center_y":0.463350, "width":0.038669, "height":0.180797}, "confidence":0.958618}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.603358, "center_y":0.478769, "width":0.090803, "height":0.054201}, "confidence":0.605062}
+ ] 
+}
+]

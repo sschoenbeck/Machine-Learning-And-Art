@@ -1,0 +1,12 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0129_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.340053, "center_y":0.622025, "width":0.043616, "height":0.132617}, "confidence":0.904079}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.268184, "center_y":0.637338, "width":0.044133, "height":0.151436}, "confidence":0.847801}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.060322, "center_y":0.643707, "width":0.057604, "height":0.284416}, "confidence":0.871285}, 
+  {"class_id":11, "name":"stop sign", "relative_coordinates":{"center_x":0.182290, "center_y":0.726867, "width":0.024516, "height":0.044206}, "confidence":0.398645}
+ ] 
+}
+]

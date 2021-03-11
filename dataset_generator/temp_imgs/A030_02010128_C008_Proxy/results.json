@@ -1,0 +1,19 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010128_C008_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.493357, "center_y":0.760197, "width":0.050657, "height":0.081895}, "confidence":0.585736}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.188078, "center_y":0.302944, "width":0.130771, "height":0.316561}, "confidence":0.328736}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.860575, "center_y":0.169643, "width":0.195196, "height":0.134191}, "confidence":0.763063}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.855306, "center_y":0.219750, "width":0.182505, "height":0.138001}, "confidence":0.282052}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.560125, "center_y":0.143887, "width":0.049973, "height":0.071485}, "confidence":0.707897}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.782662, "center_y":0.278380, "width":0.288050, "height":0.263864}, "confidence":0.832259}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.462041, "center_y":0.168023, "width":0.096323, "height":0.138301}, "confidence":0.838706}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.602110, "center_y":0.658232, "width":0.261826, "height":0.592852}, "confidence":0.892033}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.502198, "center_y":0.114946, "width":0.131416, "height":0.157057}, "confidence":0.566776}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.743600, "center_y":0.392173, "width":0.271427, "height":0.311967}, "confidence":0.952354}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.137827, "center_y":0.097982, "width":0.134368, "height":0.197866}, "confidence":0.505724}
+ ] 
+}
+]

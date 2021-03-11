@@ -1,0 +1,16 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0099_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":18, "name":"sheep", "relative_coordinates":{"center_x":0.537728, "center_y":0.549163, "width":0.009272, "height":0.013727}, "confidence":0.276376}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0099_Proxy\\0001.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.493751, "center_y":0.490371, "width":0.895835, "height":1.094987}, "confidence":0.440555}
+ ] 
+}
+]

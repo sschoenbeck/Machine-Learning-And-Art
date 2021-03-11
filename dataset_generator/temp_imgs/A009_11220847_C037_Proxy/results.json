@@ -1,0 +1,14 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11220847_C037_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":72, "name":"refrigerator", "relative_coordinates":{"center_x":0.616793, "center_y":0.566137, "width":0.035370, "height":0.283622}, "confidence":0.962427}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.680467, "center_y":0.799015, "width":0.195696, "height":0.373639}, "confidence":0.930502}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.439256, "center_y":0.688585, "width":0.077651, "height":0.203067}, "confidence":0.989425}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.808316, "center_y":0.555308, "width":0.023493, "height":0.072297}, "confidence":0.835419}, 
+  {"class_id":69, "name":"oven", "relative_coordinates":{"center_x":0.645254, "center_y":0.595027, "width":0.025706, "height":0.121195}, "confidence":0.297492}, 
+  {"class_id":57, "name":"sofa", "relative_coordinates":{"center_x":0.687734, "center_y":0.783483, "width":0.198679, "height":0.365601}, "confidence":0.344602}
+ ] 
+}
+]

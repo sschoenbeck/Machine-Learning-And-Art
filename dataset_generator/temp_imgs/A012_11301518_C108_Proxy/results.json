@@ -1,0 +1,18 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A012_11301518_C108_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":65, "name":"remote", "relative_coordinates":{"center_x":0.552226, "center_y":0.070515, "width":0.091180, "height":0.135475}, "confidence":0.485418}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.516118, "center_y":0.817517, "width":0.041303, "height":0.150710}, "confidence":0.508415}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.600342, "center_y":0.763340, "width":0.070925, "height":0.256074}, "confidence":0.370116}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.174194, "center_y":0.479767, "width":0.024281, "height":0.092187}, "confidence":0.383173}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.495491, "center_y":0.701743, "width":0.082741, "height":0.400657}, "confidence":0.752261}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.395493, "center_y":0.493533, "width":0.385755, "height":1.020851}, "confidence":0.938540}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.178668, "center_y":0.801164, "width":0.027006, "height":0.106655}, "confidence":0.263339}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.830542, "center_y":0.656904, "width":0.312448, "height":0.703628}, "confidence":0.980939}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.822552, "center_y":0.504727, "width":0.053312, "height":0.100728}, "confidence":0.843660}, 
+  {"class_id":62, "name":"tvmonitor", "relative_coordinates":{"center_x":0.983422, "center_y":0.593649, "width":0.033566, "height":0.171972}, "confidence":0.414996}
+ ] 
+}
+]

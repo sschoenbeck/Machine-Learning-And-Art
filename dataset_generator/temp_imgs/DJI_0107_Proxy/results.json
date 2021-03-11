@@ -1,0 +1,39 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0107_Proxy\\0000.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0107_Proxy\\0001.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.689227, "center_y":0.428345, "width":0.070839, "height":0.108399}, "confidence":0.360882}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0107_Proxy\\0002.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.688291, "center_y":0.396119, "width":0.069277, "height":0.179757}, "confidence":0.423363}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0107_Proxy\\0003.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0107_Proxy\\0004.png", 
+ "objects": [ 
+  {"class_id":33, "name":"kite", "relative_coordinates":{"center_x":0.354108, "center_y":0.575135, "width":0.018936, "height":0.098518}, "confidence":0.861832}, 
+  {"class_id":33, "name":"kite", "relative_coordinates":{"center_x":0.297822, "center_y":0.404962, "width":0.012151, "height":0.085174}, "confidence":0.669354}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.244999, "center_y":0.228452, "width":0.088731, "height":0.291865}, "confidence":0.259801}
+ ] 
+}
+]

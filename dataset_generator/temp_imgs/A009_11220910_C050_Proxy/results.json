@@ -1,0 +1,11 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11220910_C050_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":75, "name":"vase", "relative_coordinates":{"center_x":0.363573, "center_y":0.680388, "width":0.038517, "height":0.043873}, "confidence":0.483851}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.409533, "center_y":0.833242, "width":0.302512, "height":0.329286}, "confidence":0.291443}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.353740, "center_y":0.647627, "width":0.070900, "height":0.107122}, "confidence":0.535569}
+ ] 
+}
+]

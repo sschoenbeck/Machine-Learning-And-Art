@@ -1,0 +1,19 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11220849_C039_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.927293, "center_y":0.139799, "width":0.042601, "height":0.095477}, "confidence":0.520530}, 
+  {"class_id":71, "name":"sink", "relative_coordinates":{"center_x":0.817440, "center_y":0.668860, "width":0.075647, "height":0.050157}, "confidence":0.318198}, 
+  {"class_id":71, "name":"sink", "relative_coordinates":{"center_x":0.944872, "center_y":0.746996, "width":0.113219, "height":0.104645}, "confidence":0.269223}, 
+  {"class_id":69, "name":"oven", "relative_coordinates":{"center_x":0.150560, "center_y":0.792801, "width":0.303624, "height":0.401104}, "confidence":0.961680}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.796944, "center_y":0.600764, "width":0.013469, "height":0.070631}, "confidence":0.481523}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.787557, "center_y":0.596790, "width":0.011862, "height":0.073666}, "confidence":0.287145}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.847769, "center_y":0.595903, "width":0.019107, "height":0.087856}, "confidence":0.406035}, 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.757322, "center_y":0.920081, "width":0.145375, "height":0.162220}, "confidence":0.453119}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.931525, "center_y":0.554358, "width":0.017476, "height":0.080059}, "confidence":0.505062}, 
+  {"class_id":68, "name":"microwave", "relative_coordinates":{"center_x":0.547489, "center_y":0.560431, "width":0.069248, "height":0.078533}, "confidence":0.990503}, 
+  {"class_id":71, "name":"sink", "relative_coordinates":{"center_x":0.888104, "center_y":0.713363, "width":0.219696, "height":0.153706}, "confidence":0.477691}
+ ] 
+}
+]

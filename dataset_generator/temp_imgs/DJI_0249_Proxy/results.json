@@ -1,0 +1,20 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0249_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.688501, "center_y":0.927193, "width":0.070086, "height":0.130800}, "confidence":0.388552}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.479103, "center_y":0.941682, "width":0.103029, "height":0.091464}, "confidence":0.866145}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.479103, "center_y":0.941682, "width":0.103029, "height":0.091464}, "confidence":0.296976}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.466057, "center_y":0.983370, "width":0.067395, "height":0.036021}, "confidence":0.855998}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.676852, "center_y":0.979067, "width":0.078832, "height":0.041485}, "confidence":0.685137}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.916565, "center_y":0.924933, "width":0.055364, "height":0.055625}, "confidence":0.916619}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.796145, "center_y":0.993525, "width":0.054849, "height":0.015196}, "confidence":0.702465}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.934741, "center_y":0.959989, "width":0.052033, "height":0.057809}, "confidence":0.932731}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.377155, "center_y":0.975856, "width":0.087136, "height":0.048558}, "confidence":0.971677}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.090125, "center_y":0.849078, "width":0.009026, "height":0.038945}, "confidence":0.325246}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.094484, "center_y":0.872498, "width":0.011606, "height":0.041928}, "confidence":0.749585}, 
+  {"class_id":3, "name":"motorbike", "relative_coordinates":{"center_x":0.416786, "center_y":0.886518, "width":0.028786, "height":0.035813}, "confidence":0.386197}
+ ] 
+}
+]

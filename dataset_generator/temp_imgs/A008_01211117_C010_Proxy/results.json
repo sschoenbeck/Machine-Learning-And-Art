@@ -1,0 +1,16 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A008_01211117_C010_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.542694, "center_y":0.888039, "width":0.044256, "height":0.074011}, "confidence":0.373240}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.487065, "center_y":0.885300, "width":0.118131, "height":0.077431}, "confidence":0.281451}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.304577, "center_y":0.899107, "width":0.081637, "height":0.084919}, "confidence":0.255117}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.487415, "center_y":0.899053, "width":0.077127, "height":0.046849}, "confidence":0.297393}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.543098, "center_y":0.887010, "width":0.043732, "height":0.073012}, "confidence":0.276294}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.570465, "center_y":0.901663, "width":0.030268, "height":0.048274}, "confidence":0.259991}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.396926, "center_y":0.903967, "width":0.032577, "height":0.048596}, "confidence":0.309469}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.635587, "center_y":0.902407, "width":0.035263, "height":0.039194}, "confidence":0.370651}
+ ] 
+}
+]

@@ -1,0 +1,16 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01201241_C008_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.708286, "center_y":0.682120, "width":0.085851, "height":0.091991}, "confidence":0.738261}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.750744, "center_y":0.675541, "width":0.027937, "height":0.084963}, "confidence":0.286455}, 
+  {"class_id":16, "name":"dog", "relative_coordinates":{"center_x":0.749874, "center_y":0.676970, "width":0.029362, "height":0.089166}, "confidence":0.388811}, 
+  {"class_id":18, "name":"sheep", "relative_coordinates":{"center_x":0.207024, "center_y":0.673736, "width":0.029430, "height":0.071378}, "confidence":0.280718}, 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.207024, "center_y":0.673736, "width":0.029430, "height":0.071378}, "confidence":0.266848}, 
+  {"class_id":17, "name":"horse", "relative_coordinates":{"center_x":0.206951, "center_y":0.673869, "width":0.030360, "height":0.069281}, "confidence":0.636271}, 
+  {"class_id":17, "name":"horse", "relative_coordinates":{"center_x":0.280948, "center_y":0.671412, "width":0.047596, "height":0.082174}, "confidence":0.864845}, 
+  {"class_id":17, "name":"horse", "relative_coordinates":{"center_x":0.311779, "center_y":0.651549, "width":0.024653, "height":0.077462}, "confidence":0.819006}
+ ] 
+}
+]

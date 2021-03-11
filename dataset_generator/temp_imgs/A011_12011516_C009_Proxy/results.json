@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A011_12011516_C009_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.914208, "center_y":0.876361, "width":0.134226, "height":0.255715}, "confidence":0.860919}
+ ] 
+}
+]

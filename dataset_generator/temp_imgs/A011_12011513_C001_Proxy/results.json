@@ -1,0 +1,17 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A011_12011513_C001_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.325771, "center_y":0.918556, "width":0.504246, "height":0.162760}, "confidence":0.493204}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.326150, "center_y":0.822004, "width":0.085255, "height":0.047273}, "confidence":0.830457}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.589799, "center_y":0.931317, "width":0.073822, "height":0.139369}, "confidence":0.789671}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.455099, "center_y":0.828998, "width":0.080502, "height":0.034459}, "confidence":0.373591}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.488636, "center_y":0.713833, "width":1.028289, "height":0.483318}, "confidence":0.337842}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.925142, "center_y":0.836199, "width":0.097662, "height":0.285667}, "confidence":0.291921}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.649225, "center_y":0.797941, "width":0.079648, "height":0.245407}, "confidence":0.261754}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.095747, "center_y":0.956999, "width":0.076033, "height":0.083466}, "confidence":0.883721}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.159226, "center_y":0.891615, "width":0.062515, "height":0.104591}, "confidence":0.956002}
+ ] 
+}
+]

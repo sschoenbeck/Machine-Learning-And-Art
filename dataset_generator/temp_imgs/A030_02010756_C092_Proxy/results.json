@@ -1,0 +1,14 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010756_C092_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.518413, "center_y":0.813901, "width":0.028446, "height":0.050231}, "confidence":0.682191}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.036949, "center_y":0.772594, "width":0.075214, "height":0.217340}, "confidence":0.897540}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.800750, "center_y":0.727984, "width":0.019757, "height":0.031730}, "confidence":0.513349}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.918488, "center_y":0.761910, "width":0.162914, "height":0.196739}, "confidence":0.993300}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.806767, "center_y":0.768469, "width":0.062778, "height":0.065407}, "confidence":0.317077}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.654971, "center_y":0.727843, "width":0.023074, "height":0.152214}, "confidence":0.982928}
+ ] 
+}
+]

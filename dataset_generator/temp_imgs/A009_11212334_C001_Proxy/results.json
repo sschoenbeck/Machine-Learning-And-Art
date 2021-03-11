@@ -1,0 +1,19 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11212334_C001_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.288443, "center_y":0.711556, "width":0.219207, "height":0.126436}, "confidence":0.763256}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.829173, "center_y":0.688746, "width":0.170006, "height":0.135935}, "confidence":0.671456}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.830208, "center_y":0.689323, "width":0.181212, "height":0.129777}, "confidence":0.426034}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.081704, "center_y":0.708505, "width":0.169642, "height":0.132947}, "confidence":0.614904}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.081704, "center_y":0.708505, "width":0.169642, "height":0.132947}, "confidence":0.303229}, 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.540351, "center_y":0.741349, "width":0.022983, "height":0.030839}, "confidence":0.330171}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.097701, "center_y":0.825259, "width":0.198418, "height":0.257091}, "confidence":0.393854}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.886871, "center_y":0.718067, "width":0.136125, "height":0.083100}, "confidence":0.719358}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.248717, "center_y":0.785392, "width":0.214276, "height":0.110587}, "confidence":0.887811}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.462346, "center_y":0.545804, "width":0.008142, "height":0.029819}, "confidence":0.304609}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.537071, "center_y":0.607111, "width":0.057309, "height":0.277937}, "confidence":0.993007}
+ ] 
+}
+]

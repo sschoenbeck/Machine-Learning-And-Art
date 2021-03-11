@@ -1,0 +1,33 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010927_C103_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.650628, "center_y":0.809884, "width":0.133063, "height":0.069191}, "confidence":0.932646}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010927_C103_Proxy\\0001.png", 
+ "objects": [ 
+  {"class_id":43, "name":"knife", "relative_coordinates":{"center_x":0.822887, "center_y":0.610741, "width":0.360980, "height":0.791836}, "confidence":0.670536}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010927_C103_Proxy\\0002.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.885644, "center_y":0.912779, "width":0.212895, "height":0.181673}, "confidence":0.925628}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010927_C103_Proxy\\0003.png", 
+ "objects": [ 
+  {"class_id":9, "name":"traffic light", "relative_coordinates":{"center_x":0.326477, "center_y":0.406543, "width":0.048236, "height":0.119268}, "confidence":0.489173}, 
+  {"class_id":9, "name":"traffic light", "relative_coordinates":{"center_x":0.523276, "center_y":0.413744, "width":0.013448, "height":0.029884}, "confidence":0.338442}, 
+  {"class_id":9, "name":"traffic light", "relative_coordinates":{"center_x":0.455303, "center_y":0.412099, "width":0.016959, "height":0.031106}, "confidence":0.251439}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.139981, "center_y":0.622539, "width":0.041424, "height":0.037678}, "confidence":0.787770}
+ ] 
+}
+]

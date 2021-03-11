@@ -1,0 +1,16 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A011_12011530_C027_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.444032, "center_y":0.403692, "width":0.114103, "height":0.210731}, "confidence":0.940795}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.821039, "center_y":0.901555, "width":0.281617, "height":0.194039}, "confidence":0.450605}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.823593, "center_y":0.902873, "width":0.268936, "height":0.198577}, "confidence":0.751543}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.707111, "center_y":0.926525, "width":0.309849, "height":0.149327}, "confidence":0.908923}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.111718, "center_y":0.900542, "width":0.168474, "height":0.197564}, "confidence":0.955018}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.267785, "center_y":0.925037, "width":0.178737, "height":0.152220}, "confidence":0.446387}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.268067, "center_y":0.924954, "width":0.174497, "height":0.152493}, "confidence":0.833770}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.393475, "center_y":0.936539, "width":0.131015, "height":0.124608}, "confidence":0.992197}
+ ] 
+}
+]

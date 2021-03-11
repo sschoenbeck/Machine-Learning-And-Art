@@ -1,0 +1,16 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0217_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.787689, "center_y":0.590837, "width":0.026096, "height":0.042119}, "confidence":0.350351}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.787689, "center_y":0.590837, "width":0.026096, "height":0.042119}, "confidence":0.436946}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.314914, "center_y":0.507582, "width":0.015544, "height":0.020368}, "confidence":0.950045}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.280428, "center_y":0.549216, "width":0.022725, "height":0.034241}, "confidence":0.914876}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.857215, "center_y":0.600443, "width":0.017415, "height":0.025503}, "confidence":0.328406}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.333002, "center_y":0.489174, "width":0.014699, "height":0.022101}, "confidence":0.876120}, 
+  {"class_id":3, "name":"motorbike", "relative_coordinates":{"center_x":0.202082, "center_y":0.809560, "width":0.018518, "height":0.055667}, "confidence":0.658223}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.096962, "center_y":0.796127, "width":0.055621, "height":0.077315}, "confidence":0.967984}
+ ] 
+}
+]

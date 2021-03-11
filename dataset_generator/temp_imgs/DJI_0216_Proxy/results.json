@@ -1,0 +1,23 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0216_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.256242, "center_y":0.903401, "width":0.054956, "height":0.115818}, "confidence":0.296820}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.187285, "center_y":0.651463, "width":0.032685, "height":0.060821}, "confidence":0.277194}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.172305, "center_y":0.481529, "width":0.011664, "height":0.018487}, "confidence":0.317821}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.172305, "center_y":0.481529, "width":0.011664, "height":0.018487}, "confidence":0.251002}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.188120, "center_y":0.653462, "width":0.029214, "height":0.052017}, "confidence":0.779406}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.256121, "center_y":0.901088, "width":0.055464, "height":0.116876}, "confidence":0.844095}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.917907, "center_y":0.494208, "width":0.035739, "height":0.027652}, "confidence":0.721713}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.704385, "center_y":0.543925, "width":0.025582, "height":0.020919}, "confidence":0.767142}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.205707, "center_y":0.623029, "width":0.025753, "height":0.030693}, "confidence":0.436801}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.667804, "center_y":0.549085, "width":0.026359, "height":0.027601}, "confidence":0.424831}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.169989, "center_y":0.583592, "width":0.016491, "height":0.028220}, "confidence":0.423361}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.194015, "center_y":0.887480, "width":0.081367, "height":0.192546}, "confidence":0.342926}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.453948, "center_y":0.857949, "width":0.017378, "height":0.023006}, "confidence":0.323232}, 
+  {"class_id":5, "name":"bus", "relative_coordinates":{"center_x":0.194258, "center_y":0.888985, "width":0.085723, "height":0.187623}, "confidence":0.271178}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.217869, "center_y":0.560120, "width":0.019406, "height":0.024537}, "confidence":0.924217}
+ ] 
+}
+]

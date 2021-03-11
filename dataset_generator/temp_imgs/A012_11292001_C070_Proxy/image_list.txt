@@ -1,0 +1,3 @@
+C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A012_11292001_C070_Proxy\\0000.png
+C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A012_11292001_C070_Proxy\\0001.png
+C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A012_11292001_C070_Proxy\\0002.png

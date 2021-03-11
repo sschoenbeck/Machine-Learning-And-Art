@@ -1,0 +1,12 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0238_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.267819, "center_y":0.021151, "width":0.048810, "height":0.044447}, "confidence":0.704501}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.332524, "center_y":0.027467, "width":0.058956, "height":0.048666}, "confidence":0.325572}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.509250, "center_y":0.844468, "width":0.289155, "height":0.311423}, "confidence":0.996507}, 
+  {"class_id":10, "name":"fire hydrant", "relative_coordinates":{"center_x":0.064930, "center_y":0.049504, "width":0.021017, "height":0.067468}, "confidence":0.267098}
+ ] 
+}
+]

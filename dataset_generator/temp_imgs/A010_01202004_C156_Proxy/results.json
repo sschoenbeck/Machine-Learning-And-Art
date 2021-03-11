@@ -1,0 +1,19 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01202004_C156_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":33, "name":"kite", "relative_coordinates":{"center_x":0.206901, "center_y":0.431288, "width":0.024530, "height":0.190055}, "confidence":0.268429}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01202004_C156_Proxy\\0001.png", 
+ "objects": [ 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.545684, "center_y":0.927954, "width":0.126366, "height":0.145154}, "confidence":0.714527}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.713001, "center_y":0.932593, "width":0.106502, "height":0.138943}, "confidence":0.476679}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.819274, "center_y":0.941435, "width":0.053459, "height":0.118424}, "confidence":0.388745}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.230010, "center_y":0.871979, "width":0.433874, "height":0.259303}, "confidence":0.279546}
+ ] 
+}
+]

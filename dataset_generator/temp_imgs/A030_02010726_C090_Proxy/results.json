@@ -1,0 +1,17 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010726_C090_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.407741, "center_y":0.393021, "width":0.141373, "height":0.520764}, "confidence":0.986673}, 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.686535, "center_y":0.406845, "width":0.153688, "height":0.511670}, "confidence":0.979124}, 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.545679, "center_y":0.405622, "width":0.148346, "height":0.522019}, "confidence":0.978899}, 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.144365, "center_y":0.374363, "width":0.139198, "height":0.508130}, "confidence":0.955204}, 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.277991, "center_y":0.388189, "width":0.146901, "height":0.526296}, "confidence":0.934894}, 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.950617, "center_y":0.411450, "width":0.101068, "height":0.542629}, "confidence":0.899499}, 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.832835, "center_y":0.409706, "width":0.146979, "height":0.522313}, "confidence":0.879893}, 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.041308, "center_y":0.375703, "width":0.086293, "height":0.473272}, "confidence":0.874259}, 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.243213, "center_y":0.573583, "width":0.094330, "height":0.356368}, "confidence":0.350935}
+ ] 
+}
+]

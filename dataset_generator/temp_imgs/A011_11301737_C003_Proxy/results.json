@@ -1,0 +1,16 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A011_11301737_C003_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.347455, "center_y":0.577218, "width":0.072170, "height":0.064700}, "confidence":0.892123}, 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.652829, "center_y":0.306149, "width":0.023507, "height":0.023734}, "confidence":0.740368}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.136238, "center_y":0.256409, "width":0.042026, "height":0.130576}, "confidence":0.971751}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.428323, "center_y":0.227527, "width":0.060067, "height":0.097039}, "confidence":0.994254}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.666728, "center_y":0.224367, "width":0.037540, "height":0.177799}, "confidence":0.993328}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.160622, "center_y":0.253773, "width":0.041770, "height":0.129132}, "confidence":0.946224}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.280593, "center_y":0.232245, "width":0.078325, "height":0.075374}, "confidence":0.996828}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.348250, "center_y":0.463669, "width":0.098651, "height":0.242846}, "confidence":0.998386}
+ ] 
+}
+]

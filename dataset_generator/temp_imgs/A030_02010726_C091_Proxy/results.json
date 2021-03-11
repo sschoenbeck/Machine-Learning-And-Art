@@ -1,0 +1,12 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010726_C091_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":72, "name":"refrigerator", "relative_coordinates":{"center_x":0.460815, "center_y":0.587641, "width":0.248870, "height":0.857290}, "confidence":0.723131}, 
+  {"class_id":72, "name":"refrigerator", "relative_coordinates":{"center_x":0.740936, "center_y":0.586275, "width":0.257074, "height":0.854506}, "confidence":0.593257}, 
+  {"class_id":72, "name":"refrigerator", "relative_coordinates":{"center_x":0.186937, "center_y":0.552036, "width":0.273449, "height":0.910854}, "confidence":0.484094}, 
+  {"class_id":72, "name":"refrigerator", "relative_coordinates":{"center_x":0.434760, "center_y":0.835936, "width":0.135231, "height":0.330358}, "confidence":0.285055}
+ ] 
+}
+]

@@ -1,0 +1,17 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01201418_C052_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":63, "name":"laptop", "relative_coordinates":{"center_x":0.505279, "center_y":0.503287, "width":1.022489, "height":0.991123}, "confidence":0.383537}, 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.505279, "center_y":0.503287, "width":1.022489, "height":0.991123}, "confidence":0.525177}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01201418_C052_Proxy\\0001.png", 
+ "objects": [ 
+
+ ] 
+}
+]

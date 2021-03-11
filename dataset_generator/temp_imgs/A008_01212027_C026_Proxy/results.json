@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A008_01212027_C026_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.456980, "center_y":0.654368, "width":0.423470, "height":0.626875}, "confidence":0.537491}
+ ] 
+}
+]

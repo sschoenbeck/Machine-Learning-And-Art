@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01201949_C131_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":9, "name":"traffic light", "relative_coordinates":{"center_x":0.958681, "center_y":0.649958, "width":0.011840, "height":0.045154}, "confidence":0.549794}
+ ] 
+}
+]

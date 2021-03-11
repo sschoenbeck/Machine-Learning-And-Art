@@ -1,0 +1,17 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A008_01212029_C034_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.396496, "center_y":0.497415, "width":0.155756, "height":0.921634}, "confidence":0.876293}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.513952, "center_y":0.502872, "width":0.153892, "height":0.957609}, "confidence":0.796248}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.285171, "center_y":0.495958, "width":0.166263, "height":0.950019}, "confidence":0.790360}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.066622, "center_y":0.216165, "width":0.041469, "height":0.175032}, "confidence":0.463594}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.086082, "center_y":0.491224, "width":0.170109, "height":0.912327}, "confidence":0.451437}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.858900, "center_y":0.501101, "width":0.121654, "height":0.852024}, "confidence":0.361714}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.718360, "center_y":0.494799, "width":0.232883, "height":0.965555}, "confidence":0.336995}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.611844, "center_y":0.504529, "width":0.146416, "height":0.924317}, "confidence":0.288252}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.141959, "center_y":0.085106, "width":0.033437, "height":0.169191}, "confidence":0.272593}
+ ] 
+}
+]

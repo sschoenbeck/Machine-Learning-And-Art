@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010219_C030_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":24, "name":"backpack", "relative_coordinates":{"center_x":0.510870, "center_y":0.485013, "width":0.029660, "height":0.145317}, "confidence":0.311429}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.497442, "center_y":0.546301, "width":0.062093, "height":0.365740}, "confidence":0.986275}
+ ] 
+}
+]

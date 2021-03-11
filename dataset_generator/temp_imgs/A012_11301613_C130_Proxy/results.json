@@ -1,0 +1,13 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A012_11301613_C130_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":62, "name":"tvmonitor", "relative_coordinates":{"center_x":0.809255, "center_y":0.817150, "width":0.268901, "height":0.362493}, "confidence":0.389028}, 
+  {"class_id":62, "name":"tvmonitor", "relative_coordinates":{"center_x":0.512354, "center_y":0.499544, "width":0.359422, "height":0.879388}, "confidence":0.284166}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.230166, "center_y":0.745376, "width":0.458245, "height":0.500052}, "confidence":0.532869}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.828469, "center_y":0.519276, "width":0.369236, "height":0.984126}, "confidence":0.764681}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.886976, "center_y":0.189852, "width":0.183578, "height":0.321336}, "confidence":0.527466}
+ ] 
+}
+]

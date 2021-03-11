@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A012_11301621_C144_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":22, "name":"zebra", "relative_coordinates":{"center_x":0.508414, "center_y":0.492261, "width":1.065584, "height":1.063515}, "confidence":0.576809}
+ ] 
+}
+]

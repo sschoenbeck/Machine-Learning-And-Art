@@ -1,0 +1,22 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A011_12011531_C028_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":10, "name":"fire hydrant", "relative_coordinates":{"center_x":0.201755, "center_y":0.559617, "width":0.026524, "height":0.060045}, "confidence":0.726585}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.039132, "center_y":0.506312, "width":0.077821, "height":0.078953}, "confidence":0.371375}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.034676, "center_y":0.506292, "width":0.069525, "height":0.084818}, "confidence":0.708406}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.427898, "center_y":0.535008, "width":0.018028, "height":0.037605}, "confidence":0.652585}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.161837, "center_y":0.517526, "width":0.077641, "height":0.077917}, "confidence":0.918254}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.226939, "center_y":0.516863, "width":0.036428, "height":0.041951}, "confidence":0.580661}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.410537, "center_y":0.532641, "width":0.030760, "height":0.045360}, "confidence":0.499311}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.379427, "center_y":0.527970, "width":0.042339, "height":0.081694}, "confidence":0.429463}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.280845, "center_y":0.510877, "width":0.082533, "height":0.046489}, "confidence":0.418287}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.017834, "center_y":0.517251, "width":0.036308, "height":0.056823}, "confidence":0.385004}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.259271, "center_y":0.505158, "width":0.034767, "height":0.031256}, "confidence":0.307748}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.957864, "center_y":0.605525, "width":0.082800, "height":0.137167}, "confidence":0.954689}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.110667, "center_y":0.517739, "width":0.049313, "height":0.055095}, "confidence":0.962483}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.330707, "center_y":0.522594, "width":0.107840, "height":0.101582}, "confidence":0.730476}
+ ] 
+}
+]

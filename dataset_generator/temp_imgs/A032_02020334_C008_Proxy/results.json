@@ -1,0 +1,11 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A032_02020334_C008_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.763859, "center_y":0.279260, "width":0.005673, "height":0.012578}, "confidence":0.387922}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.791604, "center_y":0.268124, "width":0.005953, "height":0.013076}, "confidence":0.434791}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.807312, "center_y":0.225767, "width":0.005671, "height":0.014288}, "confidence":0.412029}
+ ] 
+}
+]

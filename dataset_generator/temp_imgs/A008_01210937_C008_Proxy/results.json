@@ -1,0 +1,11 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A008_01210937_C008_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":62, "name":"tvmonitor", "relative_coordinates":{"center_x":0.058405, "center_y":0.497869, "width":0.123059, "height":1.036306}, "confidence":0.532118}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.766955, "center_y":0.913006, "width":0.066349, "height":0.169635}, "confidence":0.903444}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.511843, "center_y":0.501594, "width":0.446382, "height":0.984437}, "confidence":0.964352}
+ ] 
+}
+]

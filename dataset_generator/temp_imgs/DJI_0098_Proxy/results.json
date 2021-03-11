@@ -1,0 +1,18 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0098_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.644880, "center_y":0.427789, "width":0.049158, "height":0.083062}, "confidence":0.937937}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.457605, "center_y":0.416101, "width":0.035325, "height":0.075517}, "confidence":0.738430}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.923995, "center_y":0.429177, "width":0.045548, "height":0.106172}, "confidence":0.590187}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.910064, "center_y":0.302703, "width":0.064022, "height":0.052709}, "confidence":0.488371}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.378313, "center_y":0.307165, "width":0.022198, "height":0.029563}, "confidence":0.390230}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.265554, "center_y":0.332295, "width":0.014152, "height":0.049613}, "confidence":0.332055}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.372835, "center_y":0.295997, "width":0.012536, "height":0.019257}, "confidence":0.339185}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.348721, "center_y":0.306326, "width":0.016572, "height":0.026453}, "confidence":0.371725}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.628599, "center_y":0.332943, "width":0.011970, "height":0.035650}, "confidence":0.538125}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.085558, "center_y":0.370146, "width":0.017973, "height":0.058325}, "confidence":0.549898}
+ ] 
+}
+]

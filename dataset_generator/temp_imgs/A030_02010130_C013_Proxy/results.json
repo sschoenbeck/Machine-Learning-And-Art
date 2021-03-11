@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010130_C013_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.346616, "center_y":0.638156, "width":0.616577, "height":0.725263}, "confidence":0.477303}, 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.564586, "center_y":0.346932, "width":0.056420, "height":0.115846}, "confidence":0.493910}
+ ] 
+}
+]

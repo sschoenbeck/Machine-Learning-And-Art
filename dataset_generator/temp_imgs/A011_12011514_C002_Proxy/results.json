@@ -1,0 +1,34 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A011_12011514_C002_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":62, "name":"tvmonitor", "relative_coordinates":{"center_x":0.109583, "center_y":0.638550, "width":0.030541, "height":0.067165}, "confidence":0.695057}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.771968, "center_y":0.918829, "width":0.085087, "height":0.118248}, "confidence":0.780883}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.343387, "center_y":0.903557, "width":0.086949, "height":0.186367}, "confidence":0.766756}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.515548, "center_y":0.821571, "width":0.064273, "height":0.183157}, "confidence":0.755239}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.861338, "center_y":0.950654, "width":0.136896, "height":0.093432}, "confidence":0.710645}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.477878, "center_y":0.821304, "width":0.050411, "height":0.168307}, "confidence":0.614318}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.153549, "center_y":0.904486, "width":0.102075, "height":0.116950}, "confidence":0.486613}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.219351, "center_y":0.857276, "width":0.089434, "height":0.069330}, "confidence":0.480305}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.811639, "center_y":0.871506, "width":0.076668, "height":0.070792}, "confidence":0.463730}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.612823, "center_y":0.910523, "width":0.089485, "height":0.170685}, "confidence":0.450234}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.504100, "center_y":0.863130, "width":0.834548, "height":0.259674}, "confidence":0.427726}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.565065, "center_y":0.753257, "width":0.125905, "height":0.041332}, "confidence":0.260345}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.117106, "center_y":0.981067, "width":0.110412, "height":0.039372}, "confidence":0.367139}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.725051, "center_y":0.871698, "width":0.082613, "height":0.071000}, "confidence":0.360876}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.886109, "center_y":0.913623, "width":0.112397, "height":0.106646}, "confidence":0.302919}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.123618, "center_y":0.853398, "width":0.084991, "height":0.069405}, "confidence":0.295460}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.758609, "center_y":0.868680, "width":0.437918, "height":0.256441}, "confidence":0.255984}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.732752, "center_y":0.752739, "width":0.038025, "height":0.097255}, "confidence":0.891648}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.910713, "center_y":0.863850, "width":0.091321, "height":0.077932}, "confidence":0.444906}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.659653, "center_y":0.928448, "width":0.109888, "height":0.137609}, "confidence":0.909444}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.276303, "center_y":0.922794, "width":0.110503, "height":0.152800}, "confidence":0.939498}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.055843, "center_y":0.653896, "width":0.068940, "height":0.187989}, "confidence":0.853537}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.199535, "center_y":0.942768, "width":0.129700, "height":0.115403}, "confidence":0.940138}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.554020, "center_y":0.864721, "width":0.584863, "height":0.258035}, "confidence":0.263974}, 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.715422, "center_y":0.952434, "width":0.125608, "height":0.095095}, "confidence":0.960672}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.718877, "center_y":0.679183, "width":0.027155, "height":0.174026}, "confidence":0.717111}
+ ] 
+}
+]

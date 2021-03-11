@@ -1,0 +1,13 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A008_01212029_C033_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.385598, "center_y":0.504489, "width":0.158222, "height":0.916976}, "confidence":0.609048}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.821988, "center_y":0.497670, "width":0.133108, "height":0.931391}, "confidence":0.456347}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.498302, "center_y":0.504727, "width":0.517539, "height":0.944932}, "confidence":0.392730}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.238382, "center_y":0.500492, "width":0.198969, "height":0.909219}, "confidence":0.363636}, 
+  {"class_id":27, "name":"tie", "relative_coordinates":{"center_x":0.046707, "center_y":0.247945, "width":0.043324, "height":0.177686}, "confidence":0.261084}
+ ] 
+}
+]

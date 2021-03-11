@@ -1,0 +1,26 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0110_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.602268, "center_y":0.814163, "width":0.099898, "height":0.105207}, "confidence":0.709822}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.602268, "center_y":0.814163, "width":0.099898, "height":0.105207}, "confidence":0.427476}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.334068, "center_y":0.821671, "width":0.087377, "height":0.084531}, "confidence":0.414957}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.255373, "center_y":0.942465, "width":0.067592, "height":0.113366}, "confidence":0.273425}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.256328, "center_y":0.941666, "width":0.076437, "height":0.116160}, "confidence":0.629531}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.624758, "center_y":0.845685, "width":0.058170, "height":0.066907}, "confidence":0.664558}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.399957, "center_y":0.928093, "width":0.058038, "height":0.137451}, "confidence":0.643526}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.657945, "center_y":0.920041, "width":0.082968, "height":0.149979}, "confidence":0.681186}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.317987, "center_y":0.852894, "width":0.070024, "height":0.060095}, "confidence":0.600846}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.715238, "center_y":0.827940, "width":0.040143, "height":0.084935}, "confidence":0.594906}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.333723, "center_y":0.822827, "width":0.086780, "height":0.092885}, "confidence":0.581389}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.432066, "center_y":0.944402, "width":0.033905, "height":0.104187}, "confidence":0.713141}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.528875, "center_y":0.929668, "width":0.054170, "height":0.135959}, "confidence":0.518443}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.365144, "center_y":0.941658, "width":0.035198, "height":0.105784}, "confidence":0.494440}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.618919, "center_y":0.938348, "width":0.037225, "height":0.106210}, "confidence":0.704764}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.293544, "center_y":0.956281, "width":0.045247, "height":0.086733}, "confidence":0.726749}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.558955, "center_y":0.939872, "width":0.022102, "height":0.104526}, "confidence":0.308007}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.231465, "center_y":0.850189, "width":0.024697, "height":0.050282}, "confidence":0.302319}
+ ] 
+}
+]

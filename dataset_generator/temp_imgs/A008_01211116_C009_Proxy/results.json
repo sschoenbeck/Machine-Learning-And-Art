@@ -1,0 +1,15 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A008_01211116_C009_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.857533, "center_y":0.598185, "width":0.039557, "height":0.029142}, "confidence":0.370823}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.778487, "center_y":0.599721, "width":0.022584, "height":0.062042}, "confidence":0.253149}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.585114, "center_y":0.585378, "width":0.009855, "height":0.035668}, "confidence":0.735777}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.507082, "center_y":0.586202, "width":0.010501, "height":0.021916}, "confidence":0.449568}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.450277, "center_y":0.584104, "width":0.012059, "height":0.033862}, "confidence":0.339471}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.534053, "center_y":0.583226, "width":0.014383, "height":0.034480}, "confidence":0.353005}, 
+  {"class_id":3, "name":"motorbike", "relative_coordinates":{"center_x":0.534053, "center_y":0.583226, "width":0.014383, "height":0.034480}, "confidence":0.338627}
+ ] 
+}
+]

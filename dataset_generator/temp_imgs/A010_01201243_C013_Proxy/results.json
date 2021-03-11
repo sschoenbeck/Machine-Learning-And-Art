@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01201243_C013_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":19, "name":"cow", "relative_coordinates":{"center_x":0.663296, "center_y":0.719043, "width":0.044599, "height":0.069533}, "confidence":0.963292}, 
+  {"class_id":16, "name":"dog", "relative_coordinates":{"center_x":0.350716, "center_y":0.701896, "width":0.051684, "height":0.092454}, "confidence":0.817804}
+ ] 
+}
+]

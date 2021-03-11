@@ -1,0 +1,12 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11212344_C009_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.494215, "center_y":0.742324, "width":0.135070, "height":0.090315}, "confidence":0.993107}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.495033, "center_y":0.463870, "width":0.126223, "height":0.585473}, "confidence":0.264857}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.496913, "center_y":0.478509, "width":0.129527, "height":0.586648}, "confidence":0.987227}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.493541, "center_y":0.409905, "width":0.060791, "height":0.183111}, "confidence":0.395096}
+ ] 
+}
+]

@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A032_02020958_C098_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":32, "name":"sports ball", "relative_coordinates":{"center_x":0.388803, "center_y":0.906358, "width":0.013979, "height":0.027329}, "confidence":0.328100}
+ ] 
+}
+]

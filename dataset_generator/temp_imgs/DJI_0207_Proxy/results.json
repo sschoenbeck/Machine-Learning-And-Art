@@ -1,0 +1,11 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0207_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.416541, "center_y":0.770585, "width":0.030379, "height":0.155955}, "confidence":0.918791}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.317653, "center_y":0.549821, "width":0.017239, "height":0.048918}, "confidence":0.462551}, 
+  {"class_id":14, "name":"bird", "relative_coordinates":{"center_x":0.235152, "center_y":0.082203, "width":0.042887, "height":0.155020}, "confidence":0.266062}
+ ] 
+}
+]

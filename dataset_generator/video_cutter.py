@@ -7,7 +7,7 @@ from scenedetect import VideoManager, SceneManager, video_splitter
 from scenedetect.detectors import ContentDetector
 
 
-def find_scenes(video_path, threshold=40.0):
+def find_scenes(video_path, threshold=50.0):
     # Create our video & scene managers, then add the detector.
     video_manager = VideoManager([video_path])
     scene_manager = SceneManager()
@@ -32,7 +32,8 @@ def main():
     print(f'ffmepeg is available: {video_splitter.is_ffmpeg_available()}')
     print(f'mkvmerge is available: {video_splitter.is_mkvmerge_available()}')
 
-    video_folder = "full_videos"
+    # video_folder = "full_videos"
+    video_folder = "E:\\UCARE\\Uncut"
     video_paths = [f for f in os.listdir(video_folder) if os.path.isfile(os.path.join(video_folder, f))]
     print(f'Found video paths: {video_paths}')
 
@@ -45,6 +46,7 @@ def main():
         print(f'Cutting video {i} of {video_count}: {video_name}')
         current_video_path = os.path.join(video_folder, video_path)
         found_scenes = find_scenes(current_video_path)
+        print(found_scenes)
         try:
             video_splitter.split_video_mkvmerge(input_video_paths=[current_video_path], scene_list=found_scenes,
                                                 output_file_template=output_file_template,

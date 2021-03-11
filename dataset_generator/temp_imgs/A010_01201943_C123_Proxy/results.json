@@ -1,0 +1,33 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01201943_C123_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":9, "name":"traffic light", "relative_coordinates":{"center_x":0.950767, "center_y":0.629574, "width":0.019626, "height":0.048097}, "confidence":0.572053}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.407732, "center_y":0.877704, "width":0.173700, "height":0.162591}, "confidence":0.902943}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.258794, "center_y":0.898498, "width":0.150983, "height":0.185013}, "confidence":0.834713}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.585467, "center_y":0.831590, "width":0.151289, "height":0.100166}, "confidence":0.829341}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.639538, "center_y":0.825360, "width":0.137580, "height":0.083385}, "confidence":0.917208}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.072506, "center_y":0.883306, "width":0.135738, "height":0.159025}, "confidence":0.571548}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.137445, "center_y":0.822555, "width":0.044398, "height":0.036345}, "confidence":0.497334}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.202849, "center_y":0.806000, "width":0.039374, "height":0.032088}, "confidence":0.294380}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.136758, "center_y":0.805157, "width":0.048676, "height":0.046579}, "confidence":0.288256}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.162826, "center_y":0.794378, "width":0.054843, "height":0.050817}, "confidence":0.252941}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.533714, "center_y":0.870487, "width":0.164455, "height":0.127962}, "confidence":0.977189}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01201943_C123_Proxy\\0001.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01201943_C123_Proxy\\0002.png", 
+ "objects": [ 
+
+ ] 
+}
+]

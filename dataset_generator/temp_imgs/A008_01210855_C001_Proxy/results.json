@@ -1,0 +1,17 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A008_01210855_C001_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.493834, "center_y":0.777436, "width":0.105799, "height":0.178810}, "confidence":0.505690}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.753610, "center_y":0.623668, "width":0.042327, "height":0.040969}, "confidence":0.651139}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.712117, "center_y":0.646827, "width":0.048159, "height":0.057585}, "confidence":0.813241}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.283680, "center_y":0.655354, "width":0.223894, "height":0.672922}, "confidence":0.938199}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.492348, "center_y":0.874698, "width":0.151900, "height":0.247158}, "confidence":0.511449}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.227474, "center_y":0.776217, "width":0.123712, "height":0.424920}, "confidence":0.567713}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.565875, "center_y":0.628256, "width":0.056977, "height":0.063983}, "confidence":0.515093}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.651493, "center_y":0.908362, "width":0.243794, "height":0.185655}, "confidence":0.318504}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.565848, "center_y":0.628400, "width":0.056827, "height":0.063969}, "confidence":0.304183}
+ ] 
+}
+]

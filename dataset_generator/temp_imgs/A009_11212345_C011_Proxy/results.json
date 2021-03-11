@@ -1,0 +1,17 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11212345_C011_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.064618, "center_y":0.677905, "width":0.059363, "height":0.078926}, "confidence":0.318533}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.524240, "center_y":0.637087, "width":0.012039, "height":0.024583}, "confidence":0.574793}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.748799, "center_y":0.650095, "width":0.011354, "height":0.043437}, "confidence":0.573608}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.234198, "center_y":0.650770, "width":0.015115, "height":0.042069}, "confidence":0.552034}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.428322, "center_y":0.640530, "width":0.008757, "height":0.031864}, "confidence":0.551754}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.564547, "center_y":0.642020, "width":0.008869, "height":0.030378}, "confidence":0.707382}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.502547, "center_y":0.637572, "width":0.010281, "height":0.035198}, "confidence":0.710597}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.484337, "center_y":0.639183, "width":0.007031, "height":0.021261}, "confidence":0.259797}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.031718, "center_y":0.672539, "width":0.060235, "height":0.059590}, "confidence":0.318597}
+ ] 
+}
+]

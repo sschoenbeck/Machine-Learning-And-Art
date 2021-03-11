@@ -1,0 +1,12 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A012_11301616_C134_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.849265, "center_y":0.077691, "width":0.103216, "height":0.130840}, "confidence":0.320910}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.401912, "center_y":0.343619, "width":0.441378, "height":0.686296}, "confidence":0.818023}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.127825, "center_y":0.824744, "width":0.182464, "height":0.347213}, "confidence":0.401557}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.448855, "center_y":0.708889, "width":0.654328, "height":0.582184}, "confidence":0.306741}
+ ] 
+}
+]

@@ -1,0 +1,11 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010954_C131_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":37, "name":"surfboard", "relative_coordinates":{"center_x":0.504680, "center_y":0.572106, "width":0.361750, "height":0.169295}, "confidence":0.528842}, 
+  {"class_id":8, "name":"boat", "relative_coordinates":{"center_x":0.504231, "center_y":0.572415, "width":0.357993, "height":0.171426}, "confidence":0.312875}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.546020, "center_y":0.480549, "width":0.238778, "height":0.144210}, "confidence":0.995075}
+ ] 
+}
+]

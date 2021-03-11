@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0153_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.371087, "center_y":0.411388, "width":0.203001, "height":0.364473}, "confidence":0.887808}, 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.600178, "center_y":0.410873, "width":0.197469, "height":0.339542}, "confidence":0.254749}
+ ] 
+}
+]

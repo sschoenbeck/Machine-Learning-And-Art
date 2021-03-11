@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\DJI_0150_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":15, "name":"cat", "relative_coordinates":{"center_x":0.766865, "center_y":0.453113, "width":0.424410, "height":0.872829}, "confidence":0.268016}
+ ] 
+}
+]

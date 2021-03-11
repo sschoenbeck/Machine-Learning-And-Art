@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A032_02020557_C085_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":4, "name":"aeroplane", "relative_coordinates":{"center_x":0.502542, "center_y":0.509536, "width":0.825262, "height":0.998712}, "confidence":0.295799}
+ ] 
+}
+]

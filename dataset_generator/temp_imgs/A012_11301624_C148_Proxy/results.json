@@ -1,0 +1,14 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A012_11301624_C148_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":56, "name":"chair", "relative_coordinates":{"center_x":0.917376, "center_y":0.430894, "width":0.165004, "height":0.718970}, "confidence":0.344332}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.927503, "center_y":0.530129, "width":0.053221, "height":0.092075}, "confidence":0.358829}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.390784, "center_y":0.068748, "width":0.013137, "height":0.061411}, "confidence":0.273864}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.409405, "center_y":0.068221, "width":0.014025, "height":0.060576}, "confidence":0.268063}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.465709, "center_y":0.405090, "width":0.233496, "height":0.616825}, "confidence":0.989034}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.337616, "center_y":0.954821, "width":0.083653, "height":0.094517}, "confidence":0.870516}
+ ] 
+}
+]

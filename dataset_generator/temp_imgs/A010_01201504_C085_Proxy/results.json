@@ -1,0 +1,12 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A010_01201504_C085_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":67, "name":"cell phone", "relative_coordinates":{"center_x":0.700648, "center_y":0.465694, "width":0.051470, "height":0.039670}, "confidence":0.324120}, 
+  {"class_id":4, "name":"aeroplane", "relative_coordinates":{"center_x":0.507295, "center_y":0.499339, "width":0.948345, "height":0.950306}, "confidence":0.396503}, 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.506570, "center_y":0.768396, "width":0.034446, "height":0.084597}, "confidence":0.687042}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.428789, "center_y":0.498077, "width":0.166574, "height":0.469605}, "confidence":0.740105}
+ ] 
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A030_02010129_C009_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.706538, "center_y":0.675933, "width":0.217961, "height":0.151965}, "confidence":0.747454}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.433417, "center_y":0.826486, "width":0.207474, "height":0.326014}, "confidence":0.594898}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.707437, "center_y":0.676318, "width":0.213676, "height":0.155202}, "confidence":0.487992}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.818911, "center_y":0.586438, "width":0.164028, "height":0.053964}, "confidence":0.389840}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.343426, "center_y":0.647436, "width":0.075294, "height":0.095448}, "confidence":0.366577}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.548346, "center_y":0.614361, "width":0.075523, "height":0.085801}, "confidence":0.296742}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.548346, "center_y":0.614361, "width":0.075523, "height":0.085801}, "confidence":0.360988}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.821137, "center_y":0.604473, "width":0.170918, "height":0.085241}, "confidence":0.567539}, 
+  {"class_id":60, "name":"diningtable", "relative_coordinates":{"center_x":0.820920, "center_y":0.614838, "width":0.172645, "height":0.097431}, "confidence":0.265379}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.463135, "center_y":0.904341, "width":0.198894, "height":0.184593}, "confidence":0.257646}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.296946, "center_y":0.698459, "width":0.043584, "height":0.113182}, "confidence":0.389524}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.671632, "center_y":0.721174, "width":0.184016, "height":0.145949}, "confidence":0.946549}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.570712, "center_y":0.625102, "width":0.041267, "height":0.059116}, "confidence":0.310760}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.520538, "center_y":0.487544, "width":0.033196, "height":0.178304}, "confidence":0.864589}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.805171, "center_y":0.647219, "width":0.151074, "height":0.104529}, "confidence":0.872124}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.696801, "center_y":0.466441, "width":0.055096, "height":0.304889}, "confidence":0.961517}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.329218, "center_y":0.870401, "width":0.070580, "height":0.258464}, "confidence":0.886617}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.412342, "center_y":0.460862, "width":0.069378, "height":0.499966}, "confidence":0.669422}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.486485, "center_y":0.755435, "width":0.109158, "height":0.408396}, "confidence":0.932178}, 
+  {"class_id":13, "name":"bench", "relative_coordinates":{"center_x":0.557422, "center_y":0.821610, "width":0.071841, "height":0.078652}, "confidence":0.480942}, 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.336986, "center_y":0.480968, "width":0.038665, "height":0.199365}, "confidence":0.788044}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.023649, "center_y":0.544013, "width":0.029456, "height":0.036477}, "confidence":0.535852}, 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.428589, "center_y":0.679770, "width":0.040164, "height":0.063907}, "confidence":0.406981}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.930770, "center_y":0.437287, "width":0.032519, "height":0.034161}, "confidence":0.484054}
+ ] 
+}
+]

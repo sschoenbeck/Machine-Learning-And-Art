@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\\Users\\Simon\\git\\Machine-Learning-And-Art\\dataset_generator\\temp_imgs\\A009_11220839_C031_Proxy\\0000.png", 
+ "objects": [ 
+  {"class_id":71, "name":"sink", "relative_coordinates":{"center_x":0.752698, "center_y":0.640243, "width":0.176632, "height":0.348093}, "confidence":0.809054}, 
+  {"class_id":61, "name":"toilet", "relative_coordinates":{"center_x":0.606476, "center_y":0.744873, "width":0.219641, "height":0.460030}, "confidence":0.929778}
+ ] 
+}
+]
