@@ -1,13 +1,10 @@
 import os
 import shutil
 from PIL import Image
-import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import seaborn as sns
 import time
-import ffmpeg
 import subprocess
 from sklearn import preprocessing
 import random
@@ -17,7 +14,7 @@ from tensorflow.keras import layers
 
 
 def distance_calculator(expected_frame, possible_frame):
-    color_difference = 0
+    color_difference = random.randint(0, 10000)
     for i in range(27):
         color_difference += abs(expected_frame[i] - possible_frame[i])
     return color_difference
@@ -60,7 +57,8 @@ def main():
     print(path)
     # template_data_df = pd.read_csv(f'{path}/dataset_generator/movie_timelines/WIZARD OF OZ (1939)_complete_data_padded.csv')
     # template_data_df = pd.read_csv(f'{path}/dataset_generator/movie_timelines/2001_A_SPACE_ODYSSEY_complete_data_padded.csv')
-    template_data_df = pd.read_csv(f'{path}/dataset_generator/movie_timelines/2001_A_SPACE_ODYSSEY_complete_data.csv')
+    # template_data_df = pd.read_csv(f'{path}/dataset_generator/movie_timelines/2001_A_SPACE_ODYSSEY_complete_data.csv')
+    template_data_df = pd.read_csv(f'{path}/dataset_generator/movie_timelines/Tove Styrke Borderline_complete_data.csv')
     print(template_data_df.head())
     #time.sleep(30)
     sample_data_df = pd.read_csv(f'{path}/dataset_generator/movie_timelines/SD_complete_data.csv')
@@ -111,8 +109,8 @@ def main():
 
     history = model.fit(
         X_train, y_train,
-        epochs=30,
-        batch_size=32,
+        epochs=50,
+        batch_size=64,
         validation_split=0.2,
         shuffle=False
     )
@@ -153,12 +151,19 @@ def main():
     print(current_time_steps.shape)
     print('==============')
     used_clips = dict()
-    for i in range(500):
+    generated_timeline_list = f'generated_timeline_{time.time_ns()}.txt'
+    generated_movie_output = f'generated_movie_{time.time_ns()}.mp4'
+    f = open(generated_timeline_list, 'a')
+    for i in range(10):
         current_time_steps = np.asarray(current_time_steps).astype('float32')
         predicted_clip = model.predict(current_time_steps)[0]
         best_clip, used_clips = best_frame_finder(predicted_clip, sample_data_df, used_clips)
         new_frame = sample_data_matrix[best_clip[0][0]][img_location_col]
         print(len(new_frames), best_clip)
+        clip_name = new_frame.split("\\")[1]
+        generated_clip_path = f'file \'E:\\UCARE\\CLOUD FILM MEDIA\\PROXIES\\{clip_name}.mp4\'\n'
+        print(generated_clip_path)
+        f.write(generated_clip_path)
 
         input_path = f'{path}\\dataset_generator\\{new_frame}'
         output_path = f'{path}\\timeline_generation\\temp\\imgs\\{str(i).rjust(4, "0")}.png'
@@ -173,12 +178,16 @@ def main():
         current_time_steps = np.append(current_time_steps, predicted_clip[27:])
         current_time_steps = current_time_steps[28:].reshape((1, 5, 28))
 
-
+    f.close()
     frame_rate = 10
     timestamp = str(time.time()).split(".")[0]
     input_path = f'{path}\\timeline_generation\\temp\\imgs\\%04d.png'
     output_path = f'{path}\\timeline_generation\\temp\\output\\movie_{timestamp}.mp4'
     cmd = f'ffmpeg -r {frame_rate} -f image2 -s 1920x1080 -i \"{input_path}\" -vcodec libx264 -crf 25  -pix_fmt yuv420p \"{output_path}\"'
+    print(cmd)
+    subprocess.run(cmd, shell=True)
+
+    cmd = f'ffmpeg -f concat -safe 0 -i \"{generated_timeline_list}\" -c copy "{generated_movie_output}\"'
     print(cmd)
     subprocess.run(cmd, shell=True)
 

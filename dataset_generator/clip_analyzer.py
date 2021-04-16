@@ -113,7 +113,7 @@ def classify_clip_color(color_data_dict, clf):
     return color_list[0]
 
 
-def main(create_csv=True, create_image=False, n_colors=5):
+def main(create_csv=False, create_image=True, n_colors=5):
     # clf = pickle.load(open('TrainedRandomForestClassifier.p', 'rb'))
     print('Done Loading')
     start_time = time.time()
@@ -124,7 +124,6 @@ def main(create_csv=True, create_image=False, n_colors=5):
     output_path = 'clip_data'
 
     video_dirs = ["E:\\UCARE\\CLOUD FILM MEDIA\\PROXIES"]
-
     video_count = len(video_dirs)
     i = 0
     for video_dir in video_dirs:
@@ -158,7 +157,6 @@ def main(create_csv=True, create_image=False, n_colors=5):
         if create_csv:
             df.to_csv('clip_data\\SD.csv', index=False)
             # df.to_csv(f'clip_data\\{video_dir.split(".")[0]}.csv', index=False)
-        '''
         if create_image:
             img_width = 4096
             img_height = 32 * len(clip_paths)
@@ -175,7 +173,6 @@ def main(create_csv=True, create_image=False, n_colors=5):
             image_path = f'clip_images/{video_dir}-{n_colors}.png'
             # image_path = 'clip_images/SD.png'
             img.save(image_path)
-        '''
         print(f'Time since start {time.time() - start_time}')
 
 

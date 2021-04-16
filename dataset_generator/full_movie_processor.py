@@ -115,7 +115,7 @@ def main():
 
     print(f'Work directory: {working_dir}')
     full_video_folder = working_dir + "\\full_videos"
-    full_video_folder = "E:\\UCARE\\CLOUD FILM MEDIA\\PROXIES"
+    #full_video_folder = "E:\\UCARE\\CLOUD FILM MEDIA\\PROXIES"
 
     video_paths = [f for f in os.listdir(full_video_folder) if os.path.isfile(os.path.join(full_video_folder, f))]
     print(f'Found video paths: {video_paths}')
